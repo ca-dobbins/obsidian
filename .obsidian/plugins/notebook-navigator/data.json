@@ -509,21 +509,6 @@
   },
   "customVaultName": "",
   "pinnedNotes": {
-    "Notes/Freshman Year/03 CHEM 1030/CHEM Homepage.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Notes/Freshman Year/04 MATH 1610/MATH Homepage.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Notes/Freshman Year/05 CHEM 1031/CHEM LAB Homepage.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Notes/Freshman Year/01 UNIV 1100/UNIV 1100 Homepage.md": {
       "folder": true,
       "tag": false,
@@ -535,6 +520,21 @@
       "property": false
     },
     "Notes/Freshman Year/02 ENGR 1110/ENGR 1110 Homepage.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Notes/Freshman Year/03 CHEM 1030/CHEM 1030 Homepage.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Notes/Freshman Year/04 MATH 1610/MATH 1610 Homepage.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Notes/Freshman Year/05 CHEM 1031/CHEM 1031 (Lab) Homepage.md": {
       "folder": true,
       "tag": false,
       "property": false
