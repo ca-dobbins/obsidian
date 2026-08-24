@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/New Homepage.md",
+                "file": "Notes/Freshman Year/00 MUSI 2740/MUSI Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Homepage"
+              "title": "MUSI Homepage"
             }
           }
         ]
@@ -172,31 +172,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Notes/Freshman Year/00 MUSI 2740/MUSI Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "d9dce14862a2c61a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 250.7999267578125
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,12 +202,13 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "5bada15f630ad500",
+  "active": "42751bffee30fa25",
   "lastOpenFiles": [
+    "_resources/Survey of Popular Music Syllabus FS 2026 - Wood.pdf",
+    "_templates/New Homepage.md",
     "_resources",
     "README.md",
     "Notes/Freshman Year/04 MATH 1610/Math Test.md",
-    "_templates/New Homepage.md",
     "_templates",
     "Notes/_templates.md",
     "Notes/Freshman Year/00 MUSI 2740/MUSI Homepage.md",
@@ -236,7 +228,6 @@
     "Notes/Freshman Year/04 MATH 1610",
     "Notes/Freshman Year/01 UNIV 1100",
     "Notes/Freshman Year/02 ENGR 1110",
-    "Notes/Welcome.md",
-    "Notes"
+    "Notes/Welcome.md"
   ]
 }

@@ -1,4 +1,4 @@
-*created *
+*created on: {{date}}*
 
 ---
 #### Class Syllabus
