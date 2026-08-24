@@ -8,7 +8,8 @@
 #### Exam Schedule
 - Exam 1: Sep 9th - Sep 11th
 - Exam 2: Sep 30th - Oct 2nd
-- Exam 3: 
+- Exam 3: Nov 4th - Nov 6th
+- *Final*: 
 ---
 ## Jump to Important Notes
 
