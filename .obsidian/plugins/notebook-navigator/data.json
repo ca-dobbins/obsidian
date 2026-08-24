@@ -6,7 +6,7 @@
       "fileVisibility": "supported",
       "propertyKeys": [],
       "hiddenFolders": [
-        "/Notes/_*"
+        "/_*"
       ],
       "descendantExcludedFolders": [],
       "hiddenTags": [],

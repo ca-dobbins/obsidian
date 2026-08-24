@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/_templates/New Homepage.md",
+                "file": "_templates/New Homepage.md",
                 "mode": "source",
                 "source": false
               },
@@ -213,10 +213,11 @@
   },
   "active": "5bada15f630ad500",
   "lastOpenFiles": [
+    "_resources",
     "README.md",
     "Notes/Freshman Year/04 MATH 1610/Math Test.md",
-    "Notes/_templates/New Homepage.md",
-    "Notes/_templates",
+    "_templates/New Homepage.md",
+    "_templates",
     "Notes/_templates.md",
     "Notes/Freshman Year/00 MUSI 2740/MUSI Homepage.md",
     "Notes/Freshman Year/05 CHEM 1031/CHEM LAB Homepage.md",
