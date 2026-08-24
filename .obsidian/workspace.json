@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Freshman Year/05 CHEM 1031/CHEM 1031 (Lab) Homepage.md",
+                "file": "Notes/Freshman Year/02 ENGR 1110/ENGR 1110 Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHEM 1031 (Lab) Homepage"
+              "title": "ENGR 1110 Homepage"
             }
           }
         ]
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 573.2000122070312
+    "width": 386
   },
   "right": {
     "id": "880e76eb9e8976ff",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Freshman Year/05 CHEM 1031/CHEM 1031 (Lab) Homepage.md",
+                "file": "Notes/Freshman Year/02 ENGR 1110/ENGR 1110 Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,6 +204,8 @@
   },
   "active": "2dcb7e113b801d36",
   "lastOpenFiles": [
+    "Notes/Freshman Year/00 MUSI 2740/MUSI 2740 Homepage.md",
+    "Notes/Freshman Year/05 CHEM 1031/CHEM 1031 (Lab) Homepage.md",
     "_resources/Syllabus for CHEM-1031 (Fall 2026).pdf",
     "Notes/Freshman Year/04 MATH 1610/Math Test.md",
     "Notes/Freshman Year/04 MATH 1610/MATH 1610 Homepage.md",
@@ -212,7 +214,6 @@
     "_resources/CHEM1030-EA1_Fall26.pdf",
     "Notes/Freshman Year/02 ENGR 1110/ENGR 1110 Homepage.md",
     "_resources/Fall-2026-ENGR-1110-042-Introduction-to-Engineering.pdf",
-    "Notes/Freshman Year/00 MUSI 2740/MUSI 2740 Homepage.md",
     "Notes/Freshman Year/01 UNIV 1100/UNIV 1100 Homepage.md",
     "_templates/New Homepage.md",
     "_resources/202710 UNIV1100 Syllabus - Hovey - 9am.pdf",
@@ -222,12 +223,10 @@
     "README.md",
     "_templates",
     "Notes/_templates.md",
-    "Notes/Freshman Year/05 CHEM 1031/CHEM 1031 (Lab) Homepage.md",
     "Notes/Freshman Year/02 ENGR 1110/Notes.md",
     "Untitled.base",
     "Notes/README.md",
     "Notes/Freshman Year",
-    "Notes/Freshman Year/00 MUSI 2740",
     "Notes/Freshman Year/Quick Notes.md",
     "Notes/Welcome.md"
   ]

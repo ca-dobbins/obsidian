@@ -116,7 +116,7 @@
   },
   "dualPane": true,
   "dualPaneOrientation": "horizontal",
-  "narrowSidebarLayout": "none",
+  "narrowSidebarLayout": "singlePane",
   "narrowSidebarTriggerMode": "fitPanes",
   "narrowSidebarCustomWidth": 350,
   "showTooltips": false,
