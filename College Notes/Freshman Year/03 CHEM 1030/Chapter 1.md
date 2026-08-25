@@ -37,9 +37,14 @@ Matter can also be classified as:
 
 ### Modern Atomic Theory
 *subtitle*
-**Law of Coservation of Mass**
-- matter is nether craeted or destoryed
+**Law of Conservation of Mass**
+- matter is nether created or destroyed
 **Law of Definite Proportions**
-- all samples of a given com
+- All samples of a given compound, regardless of their source of how they were
+prepared, have the same proportions of their constituent elements  ($\ce{H2O is always H2O}$)
+**Law of Multiple Proportions**
+- When two elements (call them A and B) form two different compounds, the
+masses of element B the combine with 1 g of element A can be expressed as a
+ratio of small whole numbers 
 
 ##### Examples:
