@@ -5,4 +5,3 @@ $$
 $$
 \int_{0}^{\infty} \frac{x}{(x+1)^{5}} \, dx @plot2d
 $$
-$y=\int_{0}^{1}\sin(x)  \, dx@plot2d$
