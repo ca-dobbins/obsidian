@@ -91,12 +91,15 @@ $$
 
 B.
 $$
-g(x)={\frac{x^{2}-1}{x^{2}+1}}
+g(x) = \begin{cases}
+\frac{x^{2}-1}{x^{2}+1}
+\end{cases}
 $$
 C.
 $$
-\lim_{ x \to a^- } H_{t}(x)=0
-/
+\lim_{ x \to a^- } H_{t}(x)=0 
+$$
+$$
 \lim_{ x \to a^+ } H_{t}(x)=1
 $$
 D.
