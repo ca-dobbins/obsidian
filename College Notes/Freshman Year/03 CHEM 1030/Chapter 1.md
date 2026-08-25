@@ -50,4 +50,10 @@ ratio of small whole numbers
 From testing it was figured out that:
 - All atoms are composed of the same subatomic particles
 
+| Particle | Mass(kg)             | Mass(amu) | Relative Charge | Charge(C)        |
+| -------- | -------------------- | --------- | --------------- | ---------------- |
+| Proton   | $1.67262 * 10^{-27}$ | 1.00727   | +1              | $+1.60218 * 10 $ |
+| Neutron  | $1.67262 * 10^{-27}$ | 1.00866   | 0               | 0                |
+| Electron | $0.00091 * 10^{-27}$ | 0.00055   | -1              |                  |
+
 ##### Examples:
