@@ -39,6 +39,11 @@ Therefore,
 $$
 \lim_{ x \to 0 } \frac{\sin(x)}{x}=1
 $$
+**Heaviside Function:**
+
+$$
+H_{t}(x)=0,x<t|1,x\geq t
+$$
 
 ##### Examples:
 A. 
