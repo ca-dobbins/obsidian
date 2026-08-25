@@ -56,12 +56,12 @@ That means $\lim_{ x \to t }H_{t}(x)=DNE$
 - This is an example of a ***one-sided limit***
 
 Definition:
-- Suppose $f(x)$is defined for all x near a but smaller than a, except possibly at a. We say that:
+- Suppose $f(x)$ is defined for all x near a but smaller than a, except possibly at a. We say that:
 $$
 \lim_{ x \to a^- } f(x)=L
 $$
 	if $f(x)$ can be made arbitrarily close to L by choosing values of x smaller than a, sufficiently close to a.
-	*right sided limit is similar to left sided limit*
+	*right sided limit is similar to left sided limit:*
 $$
 \lim_{ x \to a^+ } f(x)=L
 $$
@@ -82,8 +82,13 @@ g(x)={\frac{x^{2}-1}{x^{2}+1}}
 $$
 C.
 $$
+\lim_{ x \to a^- } H_{t}(x)=0
+$$
 
 $$
+\lim_{ x \to a^+ } H_{t}(x)=1
+$$
+
 ### Main Idea 2
 *subtitle*
 
