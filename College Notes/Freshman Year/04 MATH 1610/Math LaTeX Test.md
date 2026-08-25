@@ -3,5 +3,6 @@ x=\frac{-b\pm \sqrt{ b^{2}-4ac }}{2a}
 $$
 
 $$
-\int_{0}^{\infty} \frac{x}{(x+1)^{5}} \, dx
+\int_{0}^{\infty} \frac{x}{(x+1)^{5}} \, dx @plot2d
 $$
+$y=\int_{0}^{1}\sin(x)  \, dx@plot2d$
