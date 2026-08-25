@@ -1,1 +1,5 @@
-All projects: 1 presentation to peers, 1 to ppl w money, 1 to 8yr olds
+All projects should be able to be presented 3 times:
+- once to your peers
+- once to the people in charge of finances, and
+- once to a gaggle of 8 year olds,
+	only then have you proven you know what you're talking about.
