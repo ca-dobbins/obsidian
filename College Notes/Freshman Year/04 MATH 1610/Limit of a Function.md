@@ -1,7 +1,7 @@
 # Topic: 2.2
 Date: 2026-08-25
 Suggested HW: 1-12, 15-18, 29-42
-### Limits
+### Basic Limits
 *getting reeeally close to a value we can't calculate*
 Suppose:
 $$
@@ -9,18 +9,17 @@ f(x)=x^{2}-x+2
 $$
 Investigate how $f(x)$ behaves near $x=2$
 $$
-(1,2)\to(1.99,3.97\dots)
-$$
-
-$$
+\begin{align}
+(1,2)\to(1.99,3.97\dots) \\
 (3,8)\to(2.01,4.03\dots)
+\end{align}
 $$
 Looks like $f(x)$ approaches 4 as $x\to 2$.
 $$
 \lim_{ x \to 2 } x^{2}-x+2=4
 $$
 Definition:
-- Suppose $f(x)$ is defined for all x near a, except (possibly) at x=a. Then we write:
+- Suppose $f(x)$ is defined for all $x$ near $a$, except (possibly) at $x=a$. Then we write:
 $$
 \lim_{ x \to a } f(x)=L
 $$
@@ -42,7 +41,11 @@ $$
 **Heaviside Function:**
 
 $$
-H_{t}(x)=0,x<t \quad1,x\geq t
+H_{t}(x)=
+\begin{cases}
+0 & a<t \\
+1 & a\geq t
+\end{cases}
 $$
 so, 
 $$
@@ -98,14 +101,12 @@ g(x) = \begin{cases}
 $$
 C.
 $$
-\lim_{ x \to a^- } H_{t}(x)=0 
-$$
-$$
 \begin{align}
-
-\end{align}
+\lim_{ x \to a^- } H_{t}(x)=0  \\
 \lim_{ x \to a^+ } H_{t}(x)=1
+\end{align}
 $$
+
 D.
 $$
 \lim_{ x \to 0 } -\frac{1}{x^{2}}=-\infty
