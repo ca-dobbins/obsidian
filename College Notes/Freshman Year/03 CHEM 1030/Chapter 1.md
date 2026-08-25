@@ -80,4 +80,8 @@ Atoms can gain or lose electrons and become charged particles called ions
 	- usually non-metals
 	- ex: $\ce{Cl- }$ 
 	*gain electrons*
-How many electrons in the $\ce{O^2-}$ 
+How many electrons in the $\ce{O^2-}$ ? *10 electrons*
+
+### Atomic Mass
+*average mass*
+weighted 
