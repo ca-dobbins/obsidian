@@ -23,7 +23,7 @@ Matter can also be classified as:
 			- cannot be broken down further
 			- ex: $\ce{He or O2}$ 
 		- compound
-			- composed of >= 2 elements in a fixed proportion
+			- composed of  $\geq$ 2 elements in a fixed proportion
 			- ex: $\ce{H2O , NaCl}$ 
 - mixture: varies from one sample to another
 	- heterogeneous
@@ -35,7 +35,11 @@ Matter can also be classified as:
 
 ##### Examples:
 
-### Main Idea 2
+### Modern Atomic Theory
 *subtitle*
+**Law of Coservation of Mass**
+- matter is nether craeted or destoryed
+**Law of Definite Proportions**
+- all samples of a given com
 
 ##### Examples:
