@@ -25,6 +25,16 @@ $$
 \lim_{ x \to a } f(x)=L
 $$
 	if the value of $f(x)$ can be made sufficiently close to $L$ by choosing values of $x$ sufficiently close to $a$.
+
+Now,
+$$
+f(x)=\frac{\sin(x)}{x}
+$$
+Investigate how $f(x)$ behaves near 0:
+$$
+(\pm0.1,0.988\dots)
+$$
+
 ##### Examples:
 A. 
 $$
@@ -39,7 +49,6 @@ B.
 $$
 g(x)={\frac{x^{2}-1}{x^{2}+1}}
 $$
-C.
 ### Main Idea 2
 *subtitle*
 
