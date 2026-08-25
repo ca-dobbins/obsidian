@@ -84,4 +84,12 @@ How many electrons in the $\ce{O^2-}$ ? *10 electrons*
 
 ### Atomic Mass
 *average mass*
-weighted 
+weighted value based on the element's natural abundance of each isotope
+$$
+Atomic Mass = \sum_{n}^{}(\text{fraction of isotope n) * (mass of isotope n)} 
+$$
+ex:
+$\ce{Cl}$ 
+$$
+0.7577(34.97)+0.2423(36.97)=35.45 
+$$
