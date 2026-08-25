@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "_resources"
+  "attachmentFolderPath": "_resources",
+  "showLineNumber": true,
+  "vimMode": false,
+  "newFileLocation": "current"
 }
