@@ -10,8 +10,7 @@
 - ~~#2 (Ch. 2,9,12): Aug 24th~~
 - #3 (Ch. 3,10,13): Aug 31st
 - #4: Sep 14th
-- 
-- #5
+- #5 Sep 23rd
 ---
 ## Jump to Important Notes
 
