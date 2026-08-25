@@ -5,9 +5,3 @@ $$
 $$
 \int_{0}^{\infty} \frac{x}{(x+1)^{5}} \, dx
 $$
-```graph
-bounds: [-10,10,10,-10]
-elements: [
-	{type: functiongraph def: [f:sin(x)]}
-	]
-```
