@@ -6,3 +6,7 @@ Date: {{date}}
 
 ##### Examples:
 
+### Main Idea 2
+*subtitle*
+
+##### Examples:
