@@ -42,15 +42,15 @@ $$
 **Heaviside Function:**
 
 $$
-H_{t}(x)=0,x<t|1,x\geq t
+H_{t}(x)=0,x<t \quad1,x\geq t
 $$
 so, 
 $$
-\lim_{ x \to a }H_{t}(x)=0 ||\text{if a<t}
+\lim_{ x \to a }H_{t}(x)=0 \quad \text{if a<t}
 $$
 
 $$
-\lim_{ x \to a } H_{t}(x)=1||\text{if a>t}
+\lim_{ x \to a } H_{t}(x)=1\quad\text{if a>t}
 $$
 That means $\lim_{ x \to t }H_{t}(x)=DNE$
 - This is an example of a ***one-sided limit***
@@ -96,9 +96,7 @@ $$
 C.
 $$
 \lim_{ x \to a^- } H_{t}(x)=0
-$$
-
-$$
+/
 \lim_{ x \to a^+ } H_{t}(x)=1
 $$
 D.
