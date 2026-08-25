@@ -33,7 +33,7 @@ Matter can also be classified as:
 		- uniform throughout sample
 		- ex: saltwater, sweet tea
 
-##### Examples:
+##### Example(s):
 
 ### Modern Atomic Theory
 *wow a theory how exciting*
@@ -50,13 +50,13 @@ ratio of small whole numbers
 From testing it was figured out that:
 - All atoms are composed of the same 3 subatomic particles
 
-| Particle | Mass(kg)             | Mass(amu) | Relative Charge | Charge(C)             |
-| -------- | -------------------- | --------- | --------------- | --------------------- |
-| Proton   | $1.67262 * 10^{-27}$ | 1.00727   | +1              | $+1.60218 * 10^{-19}$ |
-| Neutron  | $1.67262 * 10^{-27}$ | 1.00866   | 0               | 0                     |
-| Electron | $0.00091 * 10^{-27}$ | 0.00055   | -1              | $1.60218 * 10^{-19}$  |
+| Particle | Mass(kg)                  | Mass(amu) | Relative Charge | Charge(C)                  |
+| -------- | ------------------------- | --------- | --------------- | -------------------------- |
+| Proton   | $1.67262 \times 10^{-27}$ | $1.00727$ | $+1$            | $+1.60218 \times 10^{-19}$ |
+| Neutron  | $1.67262 \times 10^{-27}$ | $1.00866$ | $0$             | 0                          |
+| Electron | $0.00091 \times 10^{-27}$ | $0.00055$ | $-1$            | $1.60218 \times 10^{-19}$  |
 
-##### Examples:
+##### Example(s):
 ### Varying Elements
 *adding or removing subatomic particles*
 
@@ -86,12 +86,12 @@ How many electrons in the $\ce{O^2-}$ ? *10 electrons*
 *average mass*
 weighted value based on the element's natural abundance of each isotope
 $$
-Atomic \vspaMass = \sum_{n}^{}(\text{fraction of isotope n) * (mass of isotope n)} 
+\text{Atomic Mass} = \sum_{n}^{}(\text{fraction of isotope n) * (mass of isotope n)} 
 $$
-ex:
+The masses of atoms and the percent abundances of isotopes of elements are measured using mass spectrometry
+- technique that separates particles using their mass
+##### Example(s):
 $\ce{Cl-35}$ has an abundance of 75.77% and an amu of 34.97. $\ce{Cl-37}$ has an abundance of 24.23% and an amu of 36.97. Find the atomic mass.  
 $$
 0.7577(34.97)+0.2423(36.97)=35.45 
 $$
-The masses of atoms and the percent abundances of isotopes of elements are measured using mass spectrometry
-- technique that separates particles using their mass

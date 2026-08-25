@@ -39,7 +39,7 @@ $$
 \lim_{ x \to 0 } \frac{\sin(x)}{x}=1
 $$
 
-##### Examples:
+##### Example(s):
 A. 
 $$
 f(x)= \frac{x^{2}-1}{x^{2}+1}
