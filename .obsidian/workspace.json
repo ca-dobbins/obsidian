@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Notes/Freshman Year/03 CHEM 1030/CHEM 1030 Homepage.md",
+                "file": "_templates/Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHEM 1030 Homepage"
+              "title": "Note Template"
             }
           }
         ]
@@ -204,8 +204,10 @@
   },
   "active": "2dcb7e113b801d36",
   "lastOpenFiles": [
-    "College Notes/Freshman Year/03 CHEM 1030/Chem LaTeX Testing.md",
+    "_templates/New Homepage.md",
+    "_templates/Note Template.md",
     "College Notes/Freshman Year/03 CHEM 1030/CHEM 1030 Homepage.md",
+    "College Notes/Freshman Year/03 CHEM 1030/Chem LaTeX Testing.md",
     "College Notes/Freshman Year/04 MATH 1610/MATH 1610 Homepage.md",
     "College Notes/Freshman Year/05 CHEM 1031/CHEM 1031 (Lab) Homepage.md",
     "College Notes/Freshman Year/01 UNIV 1100/UNIV 1100 Homepage.md",
@@ -217,7 +219,6 @@
     "_resources/Fall-2026-MATH-1610-R13-Calculus-I.pdf",
     "_resources/CHEM1030-EA1_Fall26.pdf",
     "_resources/Fall-2026-ENGR-1110-042-Introduction-to-Engineering.pdf",
-    "_templates/New Homepage.md",
     "_resources/202710 UNIV1100 Syllabus - Hovey - 9am.pdf",
     "Notes/Freshman Year/01 UNIV 1100/UNIV Homepage.md",
     "_resources/Survey of Popular Music Syllabus FS 2026 - Wood.pdf",
