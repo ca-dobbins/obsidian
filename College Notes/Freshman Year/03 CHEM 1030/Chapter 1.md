@@ -47,4 +47,7 @@ prepared, have the same proportions of their constituent elements  ($\ce{H2O is 
 masses of element B the combine with 1 g of element A can be expressed as a
 ratio of small whole numbers 
 
+From testing it was figured out that:
+- All atoms are composed of the same subatomic particles
+
 ##### Examples:
