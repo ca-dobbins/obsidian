@@ -62,7 +62,9 @@ From testing it was figured out that:
 
 **Isotopes**
 All atoms of a given element have the same # of protons, but can vary how many neutrons they have
-$\ce{{}^{A}_{Z}X}$ 
+$$
+\ce{{}^{A}_{Z}X} 
+$$
 A: Mass number
 Z: Atomic Number
 X: Element
@@ -78,4 +80,4 @@ Atoms can gain or lose electrons and become charged particles called ions
 	- usually non-metals
 	- ex: $\ce{Cl- }$ 
 	*gain electrons*
-How many electrons in the $\ce{O}$ 
+How many electrons in the $\ce{O^2-}$ 
