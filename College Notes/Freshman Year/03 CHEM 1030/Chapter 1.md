@@ -57,7 +57,7 @@ From testing it was figured out that:
 | Electron | $0.00091 * 10^{-27}$ | 0.00055   | -1              | $1.60218 * 10^{-19}$  |
 
 ##### Examples:
-## Varying Elements
+### Varying Elements
 *adding or removing subatomic particles*
 
 **Isotopes**
@@ -89,7 +89,9 @@ $$
 Atomic Mass = \sum_{n}^{}(\text{fraction of isotope n) * (mass of isotope n)} 
 $$
 ex:
-$\ce{Cl}$ 
+$\ce{Cl-35}$ has an abundance of 75.77% and an amu of 34.97. $\ce{Cl-37}$ has an abundance of 24.23% and an amu of 36.97. Find the atomic mass.  
 $$
 0.7577(34.97)+0.2423(36.97)=35.45 
 $$
+The masses of atoms and the percent abundances of isotopes of elements are measured using mass spectrometry
+- technique that separates particles using their mass
