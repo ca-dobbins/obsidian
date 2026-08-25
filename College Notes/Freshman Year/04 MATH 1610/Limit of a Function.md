@@ -65,6 +65,19 @@ $$
 $$
 \lim_{ x \to a^+ } f(x)=L
 $$
+**Infinite Limits**
+Suppose:
+$$
+f(x)=\frac{1}{x^{2}}
+$$
+Investigate $x$ near $0$
+$$
+(\pm 1,1)\to \left( \pm \frac{1}{1000}, 1000000 \right)
+$$
+So,
+$$
+\lim_{ x \to 0 } \frac{1}{x^{2}}=\infty
+$$
 
 ##### Examples:
 A. 
