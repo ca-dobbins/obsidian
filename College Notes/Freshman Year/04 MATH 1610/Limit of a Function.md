@@ -35,10 +35,11 @@ $$
 \lim_{ x \to -1 } \frac{x^{2}-1}{x^{2}+1}=-2
 $$
 
+B.
 $$
-g(x)
+g(x)={\frac{x^{2}-1}{x^{2}+1}}
 $$
-
+C.
 ### Main Idea 2
 *subtitle*
 
