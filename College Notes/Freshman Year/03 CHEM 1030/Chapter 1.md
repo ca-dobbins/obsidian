@@ -58,7 +58,17 @@ From testing it was figured out that:
 
 ##### Examples:
 ## Varying Elements
-*adding or removing neutrons*
+*adding or removing subatomic particles*
 
+**Isotopes**
 All atoms of a given element have the same # of protons, but can vary how many neutrons they have
-$\ce{^{21}_{10}}$ 
+$\ce{{}^{A}_{Z}X}$ 
+A: Mass number
+Z: Atomic Number
+X: Element
+*natural abundance is roughly constant*
+
+**Ions**
+Atoms can gain or lose electrons and become charged particles called ions
+- positively charged are called cations
+- negatively charged 
