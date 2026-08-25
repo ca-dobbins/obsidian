@@ -70,11 +70,10 @@ H_{t}(x)=
 $$
 so, 
 $$
-\lim_{ x \to a }H_{t}(x)=0 \quad \text{if a<t}
-$$
-
-$$
+\begin{align}
+\lim_{ x \to a }H_{t}(x)=0 \quad \text{if a<t} \\
 \lim_{ x \to a } H_{t}(x)=1\quad\text{if a>t}
+\end{align}
 $$
 That means $\lim_{ x \to t }H_{t}(x)=DNE$
 - This is an example of a ***one-sided limit***
