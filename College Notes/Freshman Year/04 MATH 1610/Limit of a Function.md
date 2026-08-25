@@ -102,7 +102,7 @@ $$
 \lim_{ x \to 0 } \frac{1}{x^{2}}=\infty
 $$
 However this does not mean the limit exists. This is saying the limit does not exist, specifically because it grows without bound.
-##### Examples:
+##### Example(s):
 A.
 $$
 \begin{align}

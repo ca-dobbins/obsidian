@@ -4,9 +4,9 @@ Date: {{date}}
 ### Main Idea 1
 *subtitle*
 
-##### Examples:
+##### Example(s):
 
 ### Main Idea 2
 *subtitle*
 
-##### Examples:
+##### Example(s):
