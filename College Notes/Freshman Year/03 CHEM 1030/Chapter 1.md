@@ -16,7 +16,15 @@ Matter is classified as:
 	- types of molecules
 *state of matter changes solid-liquid-gas as temp and pressure incrreases*
 
-
+Matter can also be classified as:
+- pure substance
+	- one singular component
+- element
+	- cannot be broken down further
+	- ex: $\ce{He or O2}$ 
+- compound
+	- composed of >= 2 elements in a fixed proportion
+	- ex: $\ce{H2O , NaCl}$ 
 ##### Examples:
 
 ### Main Idea 2
