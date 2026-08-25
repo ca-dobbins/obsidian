@@ -30,7 +30,6 @@ $$
 f(x)=\frac{\sin(x)}{x}
 $$
 
-
 Investigate how $f(x)$ behaves near 0:
 $$
 (\pm0.1,0.988\dots)
