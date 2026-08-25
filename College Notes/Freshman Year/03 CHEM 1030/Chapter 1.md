@@ -48,12 +48,17 @@ masses of element B the combine with 1 g of element A can be expressed as a
 ratio of small whole numbers 
 
 From testing it was figured out that:
-- All atoms are composed of the same subatomic particles
+- All atoms are composed of the same 3 subatomic particles
 
-| Particle | Mass(kg)             | Mass(amu) | Relative Charge | Charge(C)        |
-| -------- | -------------------- | --------- | --------------- | ---------------- |
-| Proton   | $1.67262 * 10^{-27}$ | 1.00727   | +1              | $+1.60218 * 10 $ |
-| Neutron  | $1.67262 * 10^{-27}$ | 1.00866   | 0               | 0                |
-| Electron | $0.00091 * 10^{-27}$ | 0.00055   | -1              |                  |
+| Particle | Mass(kg)             | Mass(amu) | Relative Charge | Charge(C)             |
+| -------- | -------------------- | --------- | --------------- | --------------------- |
+| Proton   | $1.67262 * 10^{-27}$ | 1.00727   | +1              | $+1.60218 * 10^{-19}$ |
+| Neutron  | $1.67262 * 10^{-27}$ | 1.00866   | 0               | 0                     |
+| Electron | $0.00091 * 10^{-27}$ | 0.00055   | -1              | $1.60218 * 10^{-19}$  |
 
 ##### Examples:
+## Varying Elements
+*adding or removing neutrons*
+
+All atoms of a given element have the same # of protons, but can vary how many neutrons they have
+$\ce{^{21}_{10}}$ 
