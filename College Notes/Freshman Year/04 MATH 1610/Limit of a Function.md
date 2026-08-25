@@ -35,6 +35,11 @@ $$
 (\pm0.1,0.988\dots)
 $$
 
+Therefore,
+$$
+\lim_{ x \to 0 } \frac{\sin(x)}{x}=1
+$$
+
 ##### Examples:
 A. 
 $$
