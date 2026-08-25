@@ -86,7 +86,7 @@ How many electrons in the $\ce{O^2-}$ ? *10 electrons*
 *average mass*
 weighted value based on the element's natural abundance of each isotope
 $$
-Atomic Mass = \sum_{n}^{}(\text{fraction of isotope n) * (mass of isotope n)} 
+Atomic \vspaMass = \sum_{n}^{}(\text{fraction of isotope n) * (mass of isotope n)} 
 $$
 ex:
 $\ce{Cl-35}$ has an abundance of 75.77% and an amu of 34.97. $\ce{Cl-37}$ has an abundance of 24.23% and an amu of 36.97. Find the atomic mass.  
