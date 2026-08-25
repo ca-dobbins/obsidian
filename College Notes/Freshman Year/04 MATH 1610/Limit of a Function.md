@@ -18,7 +18,7 @@ Looks like $f(x)$ approaches 4 as $x\to 2$.
 $$
 \lim_{ x \to 2 } x^{2}-x+2=4
 $$
-Definition:
+***Limit Definition:***
 - Suppose $f(x)$ is defined for all $x$ near $a$, except (possibly) at $x=a$. Then we write:
 $$
 \lim_{ x \to a } f(x)=L
@@ -38,6 +38,26 @@ Therefore,
 $$
 \lim_{ x \to 0 } \frac{\sin(x)}{x}=1
 $$
+
+##### Examples:
+A. 
+$$
+f(x)= \frac{x^{2}-1}{x^{2}+1}
+$$
+Note: $f(-1)$ DNE, but
+$$
+\lim_{ x \to -1 } \frac{x^{2}-1}{x^{2}+1}=-2
+$$
+
+B.
+$$
+g(x) = \begin{cases}
+\frac{x^{2}-1}{x^{2}+1} & x \neq -1\\
+2 &x=-1
+\end{cases}
+$$
+### One-Sided and Infinite Limits
+*the juicy stuff*
 **Heaviside Function:**
 
 $$
@@ -58,7 +78,7 @@ $$
 That means $\lim_{ x \to t }H_{t}(x)=DNE$
 - This is an example of a ***one-sided limit***
 
-Definition:
+****Definition:***
 - Suppose $f(x)$ is defined for all x near a but smaller than a, except possibly at a. We say that:
 $$
 \lim_{ x \to a^- } f(x)=L
@@ -83,23 +103,7 @@ $$
 $$
 However this does not mean the limit exists. This is saying the limit does not exist, specifically because it grows without bound.
 ##### Examples:
-A. 
-$$
-f(x)= \frac{x^{2}-1}{x^{2}+1}
-$$
-Note: $f(-1)$ DNE, but
-$$
-\lim_{ x \to -1 } \frac{x^{2}-1}{x^{2}+1}=-2
-$$
-
-B.
-$$
-g(x) = \begin{cases}
-\frac{x^{2}-1}{x^{2}+1} & x \neq -1\\
-2 &x=-1
-\end{cases}
-$$
-C.
+A.
 $$
 \begin{align}
 \lim_{ x \to a^- } H_{t}(x)=0  \\
@@ -107,12 +111,7 @@ $$
 \end{align}
 $$
 
-D.
+B.
 $$
 \lim_{ x \to 0 } -\frac{1}{x^{2}}=-\infty
 $$
-
-### Main Idea 2
-*subtitle*
-
-##### Examples:
