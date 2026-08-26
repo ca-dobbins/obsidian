@@ -7,11 +7,22 @@ Date: 2026-08-26
 	- single product/product group
 	- multiple stations but same product
 	- item can be removed for rework or stay partially finished
-	- automobiles, vaccum cleaner, washing machine, aircraft
-- Continous flow
-	- Inflexible (items can't be removed)
+	- automobiles, vacuum cleaner, washing machine, aircraft
+- Continuous flow
+	- inflexible (items can't be removed)
 	- significant cost to change produced item
-	- 
+	- plastics, pharmaceuticals, chemicals
+- Custom Manufacturing
+	- single item or very low volume
+	- wide range of products/customized
+- Fixed Position Manuacturing
+	- items don't move
+	- can move after finished
+	- ship building (old), conveyor belt, paint booths
+**Just-In-Time Manufacturing**
+manufacturing that responed to demand
+Takt time (rate of production)
+
 ##### Example(s):
 
 ### Main Idea 2
