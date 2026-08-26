@@ -24,11 +24,17 @@ Date: 2026-08-26
 	- Takt time (rate of production)
 ***Kaizen Principle***: I can always make it better
 
-| Pros          | Cons                       |
-| ------------- | -------------------------- |
-| Reduced costs | Supply chain vulnerability |
-|               |                            |
-
+| Pros                  | Cons                       |
+| --------------------- | -------------------------- |
+| Reduced costs         | Supply chain vulnerability |
+| improved quality      | demand variability         |
+| shorter lead times    | dependant on precision     |
+| increased flexibility | employee training          |
+| space savings         |                            |
+- Lean Manufacturing
+	- making obvious what adds value by reducing eveyrhting else
+	- *Muri, Mura, Muda*
+	- 
 ##### Example(s):
 
 ### Main Idea 2
