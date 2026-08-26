@@ -19,9 +19,15 @@ Date: 2026-08-26
 	- items don't move
 	- can move after finished
 	- ship building (old), conveyor belt, paint booths
-**Just-In-Time Manufacturing**
-manufacturing that responed to demand
-Takt time (rate of production)
+- **Just-In-Time Manufacturing**
+	- manufacturing that responed to demand
+	- Takt time (rate of production)
+***Kaizen Principle***: I can always make it better
+
+| Pros          | Cons                       |
+| ------------- | -------------------------- |
+| Reduced costs | Supply chain vulnerability |
+|               |                            |
 
 ##### Example(s):
 
