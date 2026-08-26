@@ -15,12 +15,12 @@ Date: 2026-08-26
 - Custom Manufacturing
 	- single item or very low volume
 	- wide range of products/customized
-- Fixed Position Manuacturing
+- Fixed Position Manufacturing
 	- items don't move
 	- can move after finished
 	- ship building (old), conveyor belt, paint booths
 - **Just-In-Time Manufacturing**
-	- manufacturing that responed to demand
+	- manufacturing that responds to demand
 	- Takt time (rate of production)
 ***Kaizen Principle***: I can always make it better
 
@@ -32,9 +32,11 @@ Date: 2026-08-26
 | increased flexibility | employee training          |
 | space savings         |                            |
 - Lean Manufacturing
-	- making obvious what adds value by reducing eveyrhting else
+	- making obvious what adds value by reducing everything else
 	- *Muri, Mura, Muda*
-	- 
+		- Muri: unreasonable work
+		- Mura: irregularity
+		- Muda: transport, inventory, motion, waiting, overproduction, overprocessing, defects
 ##### Example(s):
 
 ### Main Idea 2
