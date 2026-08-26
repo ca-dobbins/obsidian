@@ -39,7 +39,9 @@ Date: 2026-08-26
 		- Muda: transport, inventory, motion, waiting, overproduction, overprocessing, defects
 ##### Example(s):
 
-### Main Idea 2
-*subtitle*
+### Six Sigma
+**
+defects per million
+1 $\sigma$: 
 
 ##### Example(s):
