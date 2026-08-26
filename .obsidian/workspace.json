@@ -199,8 +199,7 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "math-plotter:Insert Function Plot": false
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "2dcb7e113b801d36",
