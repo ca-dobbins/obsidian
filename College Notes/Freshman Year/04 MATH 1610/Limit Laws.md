@@ -35,7 +35,15 @@ $$
 $$
 5. *Quotient*:
 $$
-\lim_{ x \to a } \frac{f(x)}{g(x)}=
+\lim_{ x \to a } \frac{f(x)}{g(x)}=\frac{\lim_{ x \to a }f(x)}{\lim_{ x \to a } g(x)},\lim_{ x \to a } g(x)\neq0
+$$
+6. *Exponent*:
+$$
+\lim_{ x \to a } (f(x))^n=(\lim_{ x \to a } f(x))^n
+$$
+7. *Root*:
+$$
+\lim_{ x \to a } \sqrt[n]{ f(x) }=\sqrt[n]{ \lim_{ x \to a } f(x) }, \,\text{if n is even, }\,li
 $$
 
 ##### Example(s):
