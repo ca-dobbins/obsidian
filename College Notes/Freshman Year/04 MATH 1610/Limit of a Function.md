@@ -125,8 +125,9 @@ Where should we look for V.A?
 
 ##### Example(s):
 A. Find any V.A for $f(x)=\ln(x)$
+
 $$
-\text{Domain:}\,(0,\infty),\, \text{check} \quad x=0
+\text{Domain:}\,(0,\infty),\, \text{check} \, x=0
 $$
 
 $$
@@ -135,5 +136,13 @@ $$
 B. Find all V.A for $f(x)=\tan(x)$
 
 $$
+\tan(x)=\frac{\sin(x)}{\cos(x)},\,\text{so we should look where}\,\cos(x)=0
+$$
+So:
+$$
+x=\frac{\pi}{2}+k\pi
+$$
 
+$$
+\lim_{ x \to \frac{\pi}{2}^+ }\sin(x)/ 
 $$
