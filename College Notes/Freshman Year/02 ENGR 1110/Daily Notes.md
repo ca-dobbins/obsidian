@@ -49,6 +49,6 @@ $2\sigma$: 308,537 DPMO (69% yield)
 $3\sigma$: 66,807 DPMO (93.3% yield)
 $4\sigma$: 6,210 DPMO (99.4% yield)
 $5\sigma$: 233 DPMO (99.977% yield)
-$6\sigma$: 3.4 DPMO (99.99966% yield)
+***$6\sigma$: 3.4 DPMO (99.99966% yield)***
 
 ##### Example(s):
