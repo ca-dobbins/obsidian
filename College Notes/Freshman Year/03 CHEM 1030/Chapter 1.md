@@ -96,7 +96,7 @@ $$
 0.7577(34.97)+0.2423(36.97)=35.45 
 $$
 ### The Mole
-**
+*no not that mole*
 Mol is the SI unit for the quantity of a substance
 a mole contains $6.022\times10^{23}$ units
 - also known as avagadro's number
