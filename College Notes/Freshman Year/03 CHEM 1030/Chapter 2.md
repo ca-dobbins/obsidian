@@ -14,12 +14,24 @@ light is used to probe the quantum properties of atoms
 light properties:
 - electromagnetic radiation
 - composed of perpendicular oscillating waves, electirc and magnetic field
-- moves at constant speed $c=3.00\times10^8 m$
+- moves at constant speed $c=3.00\times10^8 \frac{m}{s}$
+
 ##### Example(s):
 
-### Main Idea 2
+### Waves
 *subtitle*
+wavelength and amplitude are independant properties
 
+***wavelength ($\lambda$)***
+- distance covered by a wave
+- also determines color/type (intensive property)
+
+***amplitude***
+- strongness of wave (intensity)
+- measured from midpoint to peak (height)
+- determines brightness (extensive property)
+
+light travelling at the same speed will have a sh
 ##### Example(s):
 
 ### Main Idea 3
