@@ -39,11 +39,11 @@ $$
 $$
 6. *Exponent*:
 $$
-\lim_{ x \to a } (f(x))^n=(\lim_{ x \to a } f(x))^n
+\lim_{ x \to a } (f(x))^n=(\lim_{ x \to a } f(x))^n, \ \text{n is a real number}
 $$
 7. *Root*:
 $$
-\lim_{ x \to a } \sqrt[n]{ f(x) }=\sqrt[n]{ \lim_{ x \to a } f(x) }, \,\text{if n is even, }\,li
+\lim_{ x \to a } \sqrt[n]{ f(x) }=\sqrt[n]{ \lim_{ x \to a } f(x) }, \,\text{if n is even, }\,\lim_{ x \to a } f(x)\geq0
 $$
 
 ##### Example(s):
