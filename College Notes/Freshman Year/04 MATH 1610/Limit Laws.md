@@ -49,7 +49,7 @@ $$
 ##### Example(s):
 A. 
 $$
-\lim_{ x \to 4 } \frac{x^{2}-3x+6}{x^{3}+\sqrt{ x^{3} }}\to \frac{\lim_{ x \to 4 }(x^{2}-3x+6)}{\lim_{ x \to 4 } (x^{3}+x^{3/2})}\dots=\frac{4^{2}-3(4)+6}{4^{3}+4^{3/2}}=\frac{10}{72}
+\lim_{ x \to 4 } \frac{x^{2}-3x+6}{x^{3}+\sqrt{ x^{3} }}\to \frac{\lim_{ x \to 4 }(x^{2}-3x+6)}{\lim_{ x \to 4 } (x^{3}+x^{3/2})}=\dots=\frac{4^{2}-3(4)+6}{4^{3}+4^{3/2}}=\frac{10}{72}
 $$
 why tf did we do this mess
 
@@ -60,4 +60,17 @@ If $f(x)$ is a polynomial or a rational function and $x=a$ is in its domain, the
 $$
 \lim_{ x \to a } f(x)=f(a)
 $$
+If $f(x)=g(x)$ except at $x=a$, then
+$$
+\lim_{ x \to a } f(x)=\lim_{ x \to a } g(x)
+$$
+
 ##### Example(s):
+A. 
+$$
+\lim_{ x \to 1 } \frac{x^{2}-1}{x-1}=\lim_{ x \to 1 } x+1=2
+$$
+B.
+$$
+\lim_{ x \to 2 } \frac{x^{2}+x-6}{x^{2}-5x+6}=\lim_{ x \to 2 } 
+$$
