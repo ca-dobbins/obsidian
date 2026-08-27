@@ -116,6 +116,6 @@ B. How many copper atoms are in a copper penny with a mass of $3.10g$ (assume 10
 $$
 \begin{align}
 \ce{g->mol->number of atoms} \\
-3.10g \times \frac{1\text{mol}}{}
+3.10g \times \frac{1\text{mol}}{63.59g} \times \frac{6.022\times10^{23}\text{atoms}}{1\text{mol}}=2.94\times10^{22}
 \end{align}
 $$
