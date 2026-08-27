@@ -31,7 +31,7 @@ $$
 $$
 4. *Difference*:
 $$
-\lim_{ x \to a } f(x)-g(x)=\lim_{ x \to a } f(x)\,-\lim_{ x \to a } g(x)
+\lim_{ x \to a } f(x)-g(x)=\lim_{ x \to a } f(x) \ -\lim_{ x \to a } g(x)
 $$
 5. *Quotient*:
 $$
@@ -47,6 +47,10 @@ $$
 $$
 
 ##### Example(s):
+A. 
+$$
+\lim_{ x \to 4 } \frac{x^{2}-3x+6}{x^{3}+\sqrt{ x^{3} }}\to \lim_{ x \to 4 } \frac{x^{2}-3x+6}{}
+$$
 
 ### Main Idea 2
 *subtitle*
