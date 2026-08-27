@@ -31,7 +31,16 @@ wavelength and amplitude are independant properties
 - measured from midpoint to peak (height)
 - determines brightness (extensive property)
 
-light travelling at the same speed will have a sh
+light travelling at the same speed will have a shorter wavelength, so they pass more frequently
+- wavelength $\lambda$ and frequency $\nu$ of electromagnetic waves are inversely proportional
+$$
+\begin{align}
+\text{long} \,\lambda = \text{low} \, \nu \\ \\
+\text{short} \, \lambda = \text{high} \, \nu \\
+\nu=\frac{c}{\lambda} \\
+\end{align}
+$$
+
 ##### Example(s):
 
 ### Main Idea 3
