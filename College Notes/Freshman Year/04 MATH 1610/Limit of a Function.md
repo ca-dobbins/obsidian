@@ -102,6 +102,7 @@ $$
 \lim_{ x \to 0 } \frac{1}{x^{2}}=\infty
 $$
 However this does not mean the limit exists. This is saying the limit does not exist, specifically because it grows without bound.
+
 ##### Example(s):
 A.
 $$
@@ -114,4 +115,25 @@ $$
 B.
 $$
 \lim_{ x \to 0 } -\frac{1}{x^{2}}=-\infty
+$$
+
+### Vertical Asymptotes
+**
+Where should we look for V.A?
+1. places where $f(x)$ is undefined
+2. edge cases (ex. edges of domain), changes in a piecewise function
+
+##### Example(s):
+A. Find any V.A for $f(x)=\ln(x)$
+$$
+\text{Domain:}\,(0,\infty),\, \text{check} \quad x=0
+$$
+
+$$
+\lim_{ x \to 0^+ } \ln(x)=-\infty
+$$
+B. Find all V.A for $f(x)=\tan(x)$
+
+$$
+
 $$
