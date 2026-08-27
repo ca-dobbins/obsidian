@@ -37,16 +37,28 @@ $$
 \begin{align}
 \text{long} \,\lambda = \text{low} \, \nu \\ \\
 \text{short} \, \lambda = \text{high} \, \nu \\
-\nu=\frac{c}{\lambda} \\
 \end{align}
+$$
+
+$$
+\nu=\frac{c}{\lambda}
 $$
 
 ##### Example(s):
 A. 
 $$
+\begin{align}
+\lambda=\,? \\
+c=3.00\times10^8 \\
+\nu=4.62\times10^{14}
+\end{align}
+$$
+$$
+\lambda = \frac{c}{\nu}
+$$
+$$
 \begin{align} 
-\lambda = \frac{c}{\nu}\\
-\frac{3.00\times10^8}{4.62\times10^{14}}=6.49\times10^{-7}
+\frac{3.00\times10^8}{4.62\times10^{14}}=6.49\times10^{-7}\ce{->}649\,\text{nm}
 \end{align}
 $$
 
