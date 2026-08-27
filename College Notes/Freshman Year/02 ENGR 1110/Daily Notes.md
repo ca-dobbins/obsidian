@@ -40,13 +40,15 @@ Date: 2026-08-26
 ##### Example(s):
 
 ### Six Sigma
-**
-defects per million
+*defects per million*
+The goal of $6\sigma$ is to achieve a high level of process capability and the reduce defects
+
+(DPMO: Defect per million opportunities)
 $1\sigma$: 690,000 DPMO (31% yield)
 $2\sigma$: 308,537 DPMO (69% yield)
-$3\sigma$:
-$4\sigma$:
-$5\sigma$:
-$6\sigma$:
+$3\sigma$: 66,807 DPMO (93.3% yield)
+$4\sigma$: 6,210 DPMO (99.4% yield)
+$5\sigma$: 233 DPMO (99.977% yield)
+$6\sigma$: 3.4 DPMO (99.99966% yield)
 
 ##### Example(s):
