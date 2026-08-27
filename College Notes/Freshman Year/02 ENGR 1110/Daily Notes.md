@@ -42,6 +42,11 @@ Date: 2026-08-26
 ### Six Sigma
 **
 defects per million
-1 $\sigma$: 
+$1\sigma$: 690,000 DPMO (31% yield)
+$2\sigma$: 308,537 DPMO (69% yield)
+$3\sigma$:
+$4\sigma$:
+$5\sigma$:
+$6\sigma$:
 
 ##### Example(s):
