@@ -112,10 +112,7 @@ A. Calculate the number of moles in 2.45 moles of $\ce{Cu}$
 $$
 2.45 \text{moles}\times \frac{6.022\times10^{23}}{1 \text{moles}} = 1.48\times10^{24} \text{atoms}
 $$
-B. How many copper atoms are in a copper penny with a mass of $3.10g$ (assume 100% pure copper)
+B. How many copper atoms are in a copper penny with a mass of $3.10g$ (assume 100% pure copper) $\ce{g->mol->number of atoms}$
 $$
-\begin{align}
-\ce{g->mol->number of atoms} \\
 3.10g \times \frac{1\text{mol}}{63.59g} \times \frac{6.022\times10^{23}\text{atoms}}{1\text{mol}}=2.94\times10^{22}
-\end{align}
 $$
