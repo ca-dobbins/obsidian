@@ -97,7 +97,7 @@ $$
 $$
 ### The Mole
 **
-Mol is the SI unit for the quantity of a subsance
+Mol is the SI unit for the quantity of a substance
 a mole contains $6.022\times10^{23}$ units
 - also known as avagadro's number
 - *units = atoms or molecules*
