@@ -149,4 +149,8 @@ $$
 \lim_{ x \to \frac{\pi}{2}^- } \frac{\sin(x)}{\cos(x)}\to \frac{1}{0.00\dots 1}=\frac{1}{0^+}=\infty
 \end{align} 
 $$
-C. 
+C. Find V.A for $g(x)=\frac{x^{2}+1}{x-3}$
+$x=3$ is the only undefined input.
+$$
+\lim_{ x \to 3^- } g(x)\to \frac{10}{0^-}=-\infty
+$$
