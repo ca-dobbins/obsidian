@@ -42,6 +42,13 @@ $$
 $$
 
 ##### Example(s):
+A. 
+$$
+\begin{align} 
+\lambda = \frac{c}{\nu}\\
+\frac{3.00\times10^8}{4.62\times10^{14}}=6.49\times10^{-7}
+\end{align}
+$$
 
 ### Main Idea 3
 *subtitle*
