@@ -144,5 +144,9 @@ x=\frac{\pi}{2}+k\pi
 $$
 
 $$
-\lim_{ x \to \frac{\pi}{2}^+ }\sin(x)/ 
+\begin{align}
+\lim_{ x \to \frac{\pi}{2}^+ } \frac{\sin(x)}{\cos(x)} \to \frac{1}{-0.00\dots1}=\frac{1}{0^-}=-\infty\\
+\lim_{ x \to \frac{\pi}{2}^- } \frac{\sin(x)}{\cos(x)}\to \frac{1}{0.00\dots 1}=\frac{1}{0^+}=\infty
+\end{align} 
 $$
+C. 
