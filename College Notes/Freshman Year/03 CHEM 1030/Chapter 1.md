@@ -101,14 +101,21 @@ Mol is the SI unit for the quantity of a subsance
 a mole contains $6.022\times10^{23}$ units
 - also known as avagadro's number
 - *units = atoms or molecules*
-the value of the mole equals the number of atoms in 12g of pure $\ce{C-12}$ 
+- **the value of the mole equals the number of atoms in 12g of pure $\ce{C-12}$** 
 
 we can go $\ce{atoms ->moles or moles -> atoms}$ 
 
-an element's molar mass in $\frac{grams}{mole}$ is numerically equal to the element's atomic mass
+an element's molar mass in $\frac{grams}{mole}$ is numerically equal to the element's atomic mass in atomic mass units
 
 ##### Example(s):
 A. Calculate the number of moles in 2.45 moles of $\ce{Cu}$
 $$
-\frac{2.45 \text{moles}}{}\times \frac{6.022\times10^{23}}{1 \text{mole }} = 1.48\times10^{24} \text{atoms}
+2.45 \text{moles}\times \frac{6.022\times10^{23}}{1 \text{moles}} = 1.48\times10^{24} \text{atoms}
+$$
+B. How many copper atoms are in a copper penny with a mass of $3.10g$ (assume 100% pure copper)
+$$
+\begin{align}
+\ce{g->mol->number of atoms} \\
+3.10g \times \frac{1\text{mol}}{}
+\end{align}
 $$
