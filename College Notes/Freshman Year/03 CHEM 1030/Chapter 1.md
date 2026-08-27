@@ -103,4 +103,12 @@ a mole contains $6.022\times10^{23}$ units
 - *units = atoms or molecules*
 the value of the mole equals the number of atoms in 12g of pure $\ce{C-12}$ 
 
-we can go $\ce{atoms ->moles or mo}$ 
+we can go $\ce{atoms ->moles or moles -> atoms}$ 
+
+an element's molar mass in $\frac{grams}{mole}$ is numerically equal to the element's atomic mass
+
+##### Example(s):
+A. Calculate the number of moles in 2.45 moles of $\ce{Cu}$
+$$
+\frac{2.45 \text{moles}}{}\times \frac{6.022\times10^{23}}{1 \text{mole }} = 1.48\times10^{24} \text{atoms}
+$$
