@@ -49,10 +49,15 @@ $$
 ##### Example(s):
 A. 
 $$
-\lim_{ x \to 4 } \frac{x^{2}-3x+6}{x^{3}+\sqrt{ x^{3} }}\to \lim_{ x \to 4 } \frac{x^{2}-3x+6}{}
+\lim_{ x \to 4 } \frac{x^{2}-3x+6}{x^{3}+\sqrt{ x^{3} }}\to \frac{\lim_{ x \to 4 }(x^{2}-3x+6)}{\lim_{ x \to 4 } (x^{3}+x^{3/2})}\dots=\frac{4^{2}-3(4)+6}{4^{3}+4^{3/2}}=\frac{10}{72}
 $$
+why tf did we do this mess
 
-### Main Idea 2
+### Direct Substitution
 *subtitle*
 
+If $f(x)$ is a polynomial or a rational function and $x=a$ is in its domain, then
+$$
+\lim_{ x \to a } f(x)=f(a)
+$$
 ##### Example(s):
