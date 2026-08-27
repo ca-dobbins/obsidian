@@ -23,7 +23,7 @@ $$
 $$
 \lim_{ x \to a } f(x)=L
 $$
-	if the value of $f(x)$ can be made sufficiently close to $L$ by choosing values of $x$ sufficiently close to $a$.
+if the value of $f(x)$ can be made sufficiently close to $L$ by choosing values of $x$ sufficiently close to $a$.
 
 Now,
 $$
