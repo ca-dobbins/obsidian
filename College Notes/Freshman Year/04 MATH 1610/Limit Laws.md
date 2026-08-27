@@ -12,7 +12,16 @@ $$
 $$
 \lim_{ x \to a } c=c
 $$
-
+***Major Limit Laws***
+Suppose:
+$$
+\lim_{ x \to a } f(x)=L \quad\text{and}\quad \lim_{ x \to a } g(x)=M
+$$
+1. *Sum*:
+$$
+\lim_{ x \to a } [f(x)+g(x)]=\lim_{ x \to a } f(x)+\lim_{ x \to a } g(x)
+$$
+2. *Product*:
 
 ##### Example(s):
 
