@@ -95,3 +95,12 @@ $\ce{Cl-35}$ has an abundance of 75.77% and an amu of 34.97. $\ce{Cl-37}$ has an
 $$
 0.7577(34.97)+0.2423(36.97)=35.45 
 $$
+### The Mole
+**
+Mol is the SI unit for the quantity of a subsance
+a mole contains $6.022\times10^{23}$ units
+- also known as avagadro's number
+- *units = atoms or molecules*
+the value of the mole equals the number of atoms in 12g of pure $\ce{C-12}$ 
+
+we can go $\ce{atoms ->moles or mo}$ 
