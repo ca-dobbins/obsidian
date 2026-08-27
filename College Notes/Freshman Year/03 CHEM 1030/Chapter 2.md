@@ -43,7 +43,7 @@ $$
 $$
 \nu=\frac{c}{\lambda}
 $$
-
+![[Pasted image 20260827105521.png]]
 ##### Example(s):
 A. 
 $$
