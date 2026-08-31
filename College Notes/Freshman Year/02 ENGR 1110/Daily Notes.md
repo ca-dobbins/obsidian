@@ -51,4 +51,7 @@ $4\sigma$: 6,210 DPMO (99.4% yield)
 $5\sigma$: 233 DPMO (99.977% yield)
 ***$6\sigma$: 3.4 DPMO (99.99966% yield)***
 
+**DMADV**: Define (design goals), Measure, Analyze (develop and design alt), Design (an improved alt), Verify | used for projects creating new product.
+
+**DMAIC**:
 ##### Example(s):
