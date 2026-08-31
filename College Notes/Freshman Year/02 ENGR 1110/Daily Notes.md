@@ -53,5 +53,5 @@ $5\sigma$: 233 DPMO (99.977% yield)
 
 **DMADV**: Define (design goals), Measure, Analyze (develop and design alt), Design (an improved alt), Verify | used for projects creating new product.
 
-**DMAIC**:
+**DMAIC**: Define, Measure, Analyze, Improve (optimize the current process), Control (ensure deviations are corrected) | used for projects aimed at an existing process.
 ##### Example(s):
