@@ -54,4 +54,11 @@ $5\sigma$: 233 DPMO (99.977% yield)
 **DMADV**: Define (design goals), Measure, Analyze (develop and design alt), Design (an improved alt), Verify | used for projects creating new product.
 
 **DMAIC**: Define, Measure, Analyze, Improve (optimize the current process), Control (ensure deviations are corrected) | used for projects aimed at an existing process.
+
+***The Five 'S's***
+- Sort - determine what must be retained
+- Straighten - Give each a single, proper place
+- Scrub - thoroughly clean
+- Standardize - make worksites consistent
+- Sustain - put a schedule and system for maintaining the 5S worksite
 ##### Example(s):
