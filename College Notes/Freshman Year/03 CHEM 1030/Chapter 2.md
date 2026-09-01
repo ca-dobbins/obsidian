@@ -72,7 +72,8 @@ excitation: gaining energy by moving up
 emission: losing energy by moving down
 
 ground state: lowest e of particle
-
+excited state: ANY energy state above ground
+electron transition: movement between states
 ##### Example(s):
 A. 
 $$
