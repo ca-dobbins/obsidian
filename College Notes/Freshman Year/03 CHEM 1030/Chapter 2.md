@@ -60,8 +60,9 @@ Energy=h\times \nu
 $$
 the energy of a photon of light is directly proportional to its frequnecy
 $$
-Energy=\frac{h}{}
+Energy=\frac{h\times c}{\lambda}
 $$
+**Planck's Constant**: $h=6.626\times10^{-34}J\times s$ 
 ##### Example(s):
 A. 
 $$
