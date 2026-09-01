@@ -6,7 +6,10 @@
 #### Class Summary
 
 #### Exam Schedule
-- 
+- Exam 1: Sep 17th
+- Exam 2 Oct 20th
+- Exam 3: Nov 17th
+- ***Final***: Dec 10th, 8-10am
 ---
 ## Jump to Important Notes
 
