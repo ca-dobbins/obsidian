@@ -90,7 +90,8 @@ $$
 \lim_{ x \to 0 } e^{\sin x^{2}+\pi} \dots\to e^{\sin(\lim_{ x \to 0 } x^{2}+\pi)}=e^0=1
 $$
 
-### Main Idea 3
+### Intermediate Value Theorem (IVT)
 *subtitle*
 
+Suppose $f(x)$ is continuous on a closed interval $[a,b]$. Let $N$ be any vlaue between $f(a)$ and $f(b)$. Then there must be at least one $c$ in $[a,b]$ such that $f(c)=N$.
 ##### Example(s):
