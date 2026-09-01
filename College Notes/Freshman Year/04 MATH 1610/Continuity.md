@@ -1,10 +1,20 @@
-# Topic: 2.6  
+# Topic: 2.5  
 Date: 2026-09-01
-Suggested HW: 1-38, 53-56
+Suggested HW: 1-38, 41-51
 
-### Main Idea 1
+### Cont.
 *subtitle*
 
+***Definition***: A function $f(x)$ is continouous at $x=a$ if 
+$$
+\lim_{ x \to a } f(x)=f(a)
+$$
+If $f$ is contnuous at $x=a$, then all of the following are true:
+a) $f(a)$ exists
+b) $\lim_{ x \to a }f(x)$ exists
+c) $\lim_{ x \to a }=f(a)$
+
+***Definition***: If $\lim_{ x \to a }f(x)\neq$
 ##### Example(s):
 
 ### Main Idea 2
