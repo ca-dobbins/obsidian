@@ -72,5 +72,12 @@ $$
 $$
 B.
 $$
-\lim_{ x \to 2 } \frac{x^{2}+x-6}{x^{2}-5x+6}=\lim_{ x \to 2 } =\lim_{ x \to 2 } \frac{(x-2)(x+3)}{(x-2)(x-3)}=\lim_{ x \to 2 } \frac{x+3}{x-3}=-5
+\lim_{ x \to 2 } \frac{x^{2}+x-6}{x^{2}-5x+6}=\lim_{ x \to 2 } \frac{\cancel{ (x-2) }(x+3)}{\cancel{ (x-2) }(x-3)}=\lim_{ x \to 2 } \frac{x+3}{x-3}=-5
+$$
+C. 
+$$
+f(x)=
+\begin{align}
+\sqrt{ x-2 } & 
+\end{align}
 $$
