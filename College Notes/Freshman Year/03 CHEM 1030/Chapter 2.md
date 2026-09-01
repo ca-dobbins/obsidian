@@ -2,7 +2,7 @@
 Date: 2026-08-27
 
 ### Electrons
-*subtitle*
+*they're electric*
 
 presents as particulate behavior (mass, volume) under a set of experimental conditions, but also exhibited energy-like characteristics
 - known as *wave-matter duality*
@@ -19,7 +19,7 @@ light properties:
 ##### Example(s):
 
 ### Waves
-*subtitle*
+*cool moves man*
 wavelength and amplitude are independant properties
 
 ***wavelength ($\lambda$)***

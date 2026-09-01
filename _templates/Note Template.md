@@ -10,3 +10,8 @@ Date: {{date}}
 *subtitle*
 
 ##### Example(s):
+
+### Main Idea 3
+*subtitle*
+
+##### Example(s):
