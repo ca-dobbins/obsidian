@@ -87,8 +87,9 @@ is continuous from the right since $\lim_{ x \to 0^+ }h(x)=1=h(0)$, but disconti
 
 B. 
 $$
-\lim_{ x \to 0 } e^{\sin x^{2}+\pi} \to 
+\lim_{ x \to 0 } e^{\sin x^{2}+\pi} \dots\to e^{\sin(\lim_{ x \to 0 } x^{2}+\pi)}=e^0=1
 $$
+
 ### Main Idea 3
 *subtitle*
 
