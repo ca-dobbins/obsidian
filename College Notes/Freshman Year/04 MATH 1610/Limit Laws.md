@@ -77,7 +77,20 @@ $$
 C. 
 $$
 f(x)=
+\begin{cases}
+\sqrt{ x-2 } & x>2 \\
+4-2x & x<2
+\end{cases}
+$$
+$$
 \begin{align}
-\sqrt{ x-2 } & 
+\lim_{ x \to 2^+ } f(x)=\sqrt{ x-2 }=0 \\
+\lim_{ x \to 2^- } f(x)=4-2x=0
 \end{align}
 $$
+
+
+### Squeeze Theorem
+**
+
+Suppose $f(x)\leq g(x)\leq l(x)$ for all $x$ near $a$, except possibly at $x=a$. If $\lim_{ x \to a }f(x)=\lim_{ x \to a }$
