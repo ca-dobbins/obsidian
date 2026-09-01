@@ -46,6 +46,14 @@ $$
 ![[Pasted image 20260827105521.png]]
 ![[Pasted image 20260901094033.png]]
 
+the interaction between waves is called _interference_
+ - **constructive**
+	 - add to make a larger wave, said the be *in phase*
+ - **destructive**
+	 - cancel each other out, said to be *out of phase*
+**diffraction**
+- when traveling waves encounter an opening in an object similar in size to the wavelength, it bends around the opening (traveling particles do not diffract)
+- 
 ##### Example(s):
 A. 
 $$
