@@ -58,7 +58,13 @@ is an *oscillatory Discontinuity*
 ### Sided Continuity
 *subtitle*
 
-We say $f(x)$ is continuous from the right at $x=a$ if $\lim_{ x \to a^+ }f(x)=f(a)$. Similarly, $f(x)$ is continuous from the left at $x=a$ if $\lim_{ x \to a^- }f(x)=f(a)$.
+***Def***: We say $f(x)$ is continuous from the right at $x=a$ if $\lim_{ x \to a^+ }f(x)=f(a)$. Similarly, $f(x)$ is continuous from the left at $x=a$ if $\lim_{ x \to a^- }f(x)=f(a)$.
+
+***Def***: We say that $f(x)$ is continuous on an interval if it's continuous at every point in the interval (w/ appropriate sided continuity at the end points).
+
+***Def***: We say that $f(x)$ is a continuous function if $\lim_{ x \to a }f(x)=f(a)$ for all $x=a$ in $f$'s domain.
+
+Continuity obeys limit laws. (Basically taking two contin)
 ##### Example(s):
 A.
 $$
@@ -68,7 +74,7 @@ h(x)=
 -1 & x<0
 \end{cases}
 $$
-is continuous from the right since $\lim_{ x \to \infty }$, but discontinuous from the left
+is continuous from the right since $\lim_{ x \to 0^+ }h(x)=1=h(0)$, but discontinuous from the left since $\lim_{ x \to 0^- }h(x)=-1\neq h(0)$.
 
 ### Main Idea 3
 *subtitle*
