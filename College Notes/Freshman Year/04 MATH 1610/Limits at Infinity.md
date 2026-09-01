@@ -43,13 +43,19 @@ B.
 $$
 g(x)=\frac{1}{x}
 $$
-$y=0$ is a horizontal asymptote
+$y=0$ is a vertical asymptote
 
 C.
 $$
 h(x)=e^x
 $$
-$x=0$ is a 
+$x=0$ is a horizontal asymptote
+
+D.
+$$
+t(x)=\arctan(x)
+$$
+$y=\pm \frac{\pi}{2}$ are vertical
 ### Main Idea 3
 *subtitle*
 
