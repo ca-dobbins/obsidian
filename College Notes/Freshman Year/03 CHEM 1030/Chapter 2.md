@@ -66,6 +66,7 @@ $$
 Binding energy for the photon to escape: $\phi=hv_{0}$
 ![[Pasted image 20260901101836.png]]
 
+quantized: only have a specfifc amont of energy
 ##### Example(s):
 A. 
 $$
