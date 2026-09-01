@@ -19,6 +19,12 @@ c) $\lim_{ x \to a }=f(a)$
 ##### Example(s):
 A.
 $$
+g(x)=
+\begin{cases}
+
+\end{cases}
+$$
+$$
 
 $$
 
@@ -49,10 +55,20 @@ p(x)=\sin\left( \frac{\pi}{x} \right)
 $$
 is an *oscillatory Discontinuity*
 
-### Main Idea 2
+### Sided Continuity
 *subtitle*
 
+We say $f(x)$ is continuous from the right at $x=a$ if $\lim_{ x \to a^+ }f(x)=f(a)$. Similarly, $f(x)$ is continuous from the left at $x=a$ if $\lim_{ x \to a^- }f(x)=f(a)$.
 ##### Example(s):
+A.
+$$
+h(x)=
+\begin{cases}
+1 & x\geq0 \\
+-1 & x<0
+\end{cases}
+$$
+is continuous from the right since $\lim_{ x \to \infty }$, but discontinuous from the left
 
 ### Main Idea 3
 *subtitle*
