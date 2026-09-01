@@ -19,11 +19,35 @@ c) $\lim_{ x \to a }=f(a)$
 ##### Example(s):
 A.
 $$
-Sign(x)=
-\begin{align}
 
-\end{align}
 $$
+
+B.
+$$
+Sign(x)=
+\begin{cases}
+1 & x>0 \\
+0 & x=0 \\
+-1 & x<0
+\end{cases}
+$$
+is a *Jump Discontinuity*
+
+C.
+$$
+h(x)=
+\begin{cases}
+\frac{1}{x^{2}} & x\neq0 \\
+2 & x=0
+\end{cases}
+$$
+is a *Infinite/Asymptotic Discontinuity*
+
+D.
+$$
+p(x)=\sin\left( \frac{\pi}{x} \right)
+$$
+is an *oscillatory Discontinuity*
 
 ### Main Idea 2
 *subtitle*
