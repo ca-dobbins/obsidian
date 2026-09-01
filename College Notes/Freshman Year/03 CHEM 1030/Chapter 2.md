@@ -54,8 +54,14 @@ the interaction between waves is called _interference_
 **diffraction**
 - when traveling waves encounter an opening in an object similar in size to the wavelength, it bends around the opening (traveling particles do not diffract)
 
-photoelectric effect - electrons emitted when light is shined on a surface
-
+**photoelectric effect** - electrons emitted when light is shined on a surface
+$$
+Energy=h\times \nu
+$$
+the energy of a photon of light is directly proportional to its frequnecy
+$$
+Energy=\frac{h}{}
+$$
 ##### Example(s):
 A. 
 $$
