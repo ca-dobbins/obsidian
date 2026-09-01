@@ -64,7 +64,16 @@ is an *oscillatory Discontinuity*
 
 ***Def***: We say that $f(x)$ is a continuous function if $\lim_{ x \to a }f(x)=f(a)$ for all $x=a$ in $f$'s domain.
 
-Continuity obeys limit laws. (Basically taking two contin)
+Continuity obeys limit laws. (Basically taking two continuous functions and squishing them together preserves continuity, also composite functions preserve continuity)
+
+All of the following are continuous on their domain:
+1. polynomial
+2. rational functions
+3. roots
+4. trigonometric
+5. inverse trig
+6. exponentials
+7. logarithms
 ##### Example(s):
 A.
 $$
@@ -76,6 +85,10 @@ h(x)=
 $$
 is continuous from the right since $\lim_{ x \to 0^+ }h(x)=1=h(0)$, but discontinuous from the left since $\lim_{ x \to 0^- }h(x)=-1\neq h(0)$.
 
+B. 
+$$
+\lim_{ x \to 0 } e^{\sin x^{2}+\pi} \to 
+$$
 ### Main Idea 3
 *subtitle*
 
