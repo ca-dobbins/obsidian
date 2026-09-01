@@ -44,6 +44,8 @@ $$
 \nu=\frac{c}{\lambda}
 $$
 ![[Pasted image 20260827105521.png]]
+![[Pasted image 20260901094033.png]]
+
 ##### Example(s):
 A. 
 $$
