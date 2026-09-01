@@ -21,7 +21,7 @@ A.
 $$
 g(x)=
 \begin{cases}
-
+\frac{x^{2}-4}{}
 \end{cases}
 $$
 $$

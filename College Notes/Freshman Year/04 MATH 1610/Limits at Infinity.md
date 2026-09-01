@@ -26,9 +26,30 @@ Similarly for $x\to-\infty$.
 ### Asymptotes
 *subtitle*
 
-***Def***: The line $y=L$ is a horizontal asymp
-##### Example(s):
+***Def***: The line $y=L$ is a horizontal asymptote for $f(x)$ if either $\lim_{ x \to \infty }f(x)=L$ or $\lim_{ x \to -\infty }f(x)=L$
 
+How many asymptotes can there be?
+Vertical: as many as necessary
+Horizontal: at most 2
+
+##### Example(s):
+A.
+$$
+f(x)=x^{2}
+$$
+no asymptotes
+
+B.
+$$
+g(x)=\frac{1}{x}
+$$
+$y=0$ is a horizontal asymptote
+
+C.
+$$
+h(x)=e^x
+$$
+$x=0$ is a 
 ### Main Idea 3
 *subtitle*
 
