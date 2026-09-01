@@ -93,4 +93,12 @@ $$
 ### Squeeze Theorem
 **
 
-Suppose $f(x)\leq g(x)\leq l(x)$ for all $x$ near $a$, except possibly at $x=a$. If $\lim_{ x \to a }f(x)=\lim_{ x \to a }$
+Suppose $f(x)\leq g(x)\leq l(x)$ for all $x$ near $a$, except possibly at $x=a$. If $\lim_{ x \to a }f(x)=\lim_{ x \to a }l(x)=L$, then $\lim_{ x \to a }g(x)=L$
+![[Pasted image 20260901111227.png]]
+
+##### Example(s):
+A.
+$$
+\lim_{ x \to 0 } x^{2}\sin\left( \frac{1}{x} \right)
+$$
+We know $-1\leq \sin\left( \frac{1}{x} \right)\leq1$ for all $x\neq0$. We also know that $x^{2}>0$ for all $x\neq0$, so we can multiply an ineq. by $x^{2}$ without changing the direction. This gives $-x^{2}\leq x^{2}\sin\left( \frac{1}{x} \right)\leq x^{2}$
