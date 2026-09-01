@@ -66,7 +66,13 @@ $$
 Binding energy for the photon to escape: $\phi=hv_{0}$
 ![[Pasted image 20260901101836.png]]
 
-quantized: only have a specfifc amont of energy
+quantized: only have a specific amount of energy
+![[Pasted image 20260901103344.png]]
+excitation: gaining energy by moving up
+emission: losing energy by moving down
+
+ground state: lowest e of particle
+
 ##### Example(s):
 A. 
 $$
