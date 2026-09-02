@@ -6,7 +6,7 @@
 #### Class Summary
 
 #### Exam Schedule
-- 
+- *Final*: Last day of class
 ---
 ## Jump to Important Notes
 

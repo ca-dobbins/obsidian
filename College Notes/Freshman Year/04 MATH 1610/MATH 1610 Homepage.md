@@ -6,7 +6,7 @@
 #### Class Summary
 
 #### Exam Schedule
-- 
+- *Final*: Dec 10th, 4-6pm
 ---
 ## Jump to Important Notes
 
