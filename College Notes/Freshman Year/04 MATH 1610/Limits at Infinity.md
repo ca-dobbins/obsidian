@@ -56,7 +56,8 @@ $$
 \text{If}\, r>0,\, \text{then}\lim_{ x \to \pm \infty} \frac{1}{x^r}=0 
 \end{align}
 $$
-
+***Defs***:
+If $f(x)$ grows w/o bound as $x$ grows large, we say $\lim_{ x \to \infty } f(x)=\infty$. Similarly large and negative.
 ##### Example(s):
 A.
 $$
@@ -85,6 +86,10 @@ $y=\pm \frac{\pi}{2}$ are vertical
 E.
 $$
 \lim_{ x \to -\infty } \frac{3x^{2}-x+2}{5x^{2}-5x+3} \times \left( \frac{\frac{1}{x^{2}}}{\frac{1}{x^{2}}} \right)=\frac{3}{5}
+$$
+F.
+$$
+f(x)=e^x
 $$
 
 ### Main Idea 3
