@@ -71,6 +71,7 @@ quantized: only have a specific amount of energy
 excitation (excited e): gaining energy by moving up
 emission (relaxed e): losing energy by moving down, also releases a photon of light
 e in high energy states are unstable (meaning they tend to lose energy and move down a state)
+![[Pasted image 20260903103609.png]]
 
 ground state: lowest e of particle
 excited state: ANY energy state above ground
@@ -116,6 +117,14 @@ Schrodinger developed a mathematical model of calculating the probibility of fin
 	 - *Spin QN $m_{s}$*: describes spin value (angular momentum). Values are either $+\frac{1}{2} \, \text{(spin up)}, -\frac{1}{2} \, \text{spin down}$ (always has one of each)
 	orbitals of same n value are within the same principal shell
 	orbitals of same n and l are within the same sublevel
+
+**S Orbital**
+each principal energy state has one s orbital
+lowest energy state
+number of nodes = (n-1)
+
+**P Orbital**
+
 ##### Example(s):
 A.
 
