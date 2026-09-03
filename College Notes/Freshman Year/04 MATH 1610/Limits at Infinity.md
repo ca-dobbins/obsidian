@@ -92,6 +92,14 @@ $$
 f(x)=e^x
 $$
 
+$$
+\begin{align}
+\lim_{ x \to -\infty } e^x = 0 \\
+\lim_{ x \to \infty } e^x = \infty
+\end{align}
+$$
+
+
 ### Main Idea 3
 *subtitle*
 
