@@ -41,7 +41,17 @@ f(x)
 3 & x\geq0
 \end{cases}
 $$
-y=0 is a H
+y=0 is a H.A since
+$\lim_{ x \to -\infty }f(x)=0$
+
+y=3 is a H.A since
+$\lim_{ x \to \infty }f(x)=3$
+
+***Building Blocks***
+
+$$
+
+$$
 ##### Example(s):
 A.
 $$
