@@ -113,3 +113,9 @@ Schrodinger developed a mathematical model of calculating the probibility of fin
 		 - 3 = f (flower?)
 	 - 
 ##### Example(s):
+A.
+
+n=1 -> 1s
+n=2 -> 2s 2p
+n=3 -> 3s 3p 3d
+n=4 -> 4s 4p 4d 4f
