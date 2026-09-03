@@ -92,7 +92,14 @@ $$
 \end{align}
 $$
 
-### Main Idea 3
+### Wave Duality and Uncertainty
 *subtitle*
+
+particles move on in a path determined by it's velocity, position, and forces acting on it.
+- because we do not know the position and velocity of an electron, we cannot predict it's path, but we can desrbile the probibility of where it will be
+- *electron behavior is indeterminate*
+- best thing we can do is describe a region it will be in
+
+***Quantum Mechanics*** <- most modern understanding
 
 ##### Example(s):
