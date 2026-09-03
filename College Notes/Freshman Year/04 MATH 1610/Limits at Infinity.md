@@ -32,6 +32,16 @@ How many asymptotes can there be?
 Vertical: as many as necessary
 Horizontal: at most 2
 
+A graph *can* touch it's asymptotes:
+
+$$
+f(x)
+\begin{cases}
+\frac{1}{x} & x<0 \\
+3 & x\geq0
+\end{cases}
+$$
+y=0 is a H
 ##### Example(s):
 A.
 $$

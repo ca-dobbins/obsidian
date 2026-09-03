@@ -4,6 +4,9 @@ Suggested HW:
 ### Main Idea 1
 *subtitle*
 
+$$
+
+$$
 ##### Example(s):
 
 ### Main Idea 2
