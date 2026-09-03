@@ -50,8 +50,13 @@ $\lim_{ x \to \infty }f(x)=3$
 ***Building Blocks***
 
 $$
-
+\begin{align}
+\text{Constant:}\lim_{ x \to \pm \infty } c=c \\
+\text{Reciprocal:}\lim_{ x \to \pm \infty } \frac{1}{x}=0 \\
+\text{If}\, r>0,\, \text{then}\lim_{ x \to \pm \infty} \frac{1}{x^r}=0 
+\end{align}
 $$
+
 ##### Example(s):
 A.
 $$
@@ -76,6 +81,12 @@ $$
 t(x)=\arctan(x)
 $$
 $y=\pm \frac{\pi}{2}$ are vertical
+
+E.
+$$
+\lim_{ x \to -\infty } \frac{3x^{2}-x+2}{5x^{2}-5x+3} \times \left( \frac{\frac{1}{x^{2}}}{\frac{1}{x^{2}}} \right)=\frac{3}{5}
+$$
+
 ### Main Idea 3
 *subtitle*
 
