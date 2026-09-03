@@ -107,6 +107,9 @@ Schrodinger developed a mathematical model of calculating the probibility of fin
  - **Quantum Number**: one of four numbers that specifiy shape, energy, orbital orientation, and spin orientation
 	 - *Principal QN (n)*: charactarizes the energy of the electon in a perticular orbital $n\geq1$, larger n = more energy + larger orbital
 	 - *Angular momentum QN (l)*: determines shape of orbital. $l$ can have int values from 0 to (n-1). each $l$ is designated a letter designation:
-		 - 0  = s (spherical)
-		 - 1 = 
+		 - 0 = s (spherical)
+		 - 1 = p (peanut)
+		 - 2 = d (donut/dumbell)
+		 - 3 = f (flower?)
+	 - 
 ##### Example(s):
