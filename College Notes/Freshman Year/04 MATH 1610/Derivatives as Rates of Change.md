@@ -24,7 +24,13 @@ $$
 A.
 Let $f(x)=\frac{3}{x}$. Find the tangent line at $x=\frac{1}{2}$.
 $$
-m = \lim_{ n \to \infty } 
+ans = m\left( x-\frac{1}{2} \right)+6
+$$
+$$
+\begin{align}
+f'(x)=-\frac{3}{x^{2}} \\
+f'\left( \frac{1}{2} \right)=-12
+\end{align}
 $$
 
 ### Main Idea 2
