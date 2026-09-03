@@ -112,6 +112,7 @@ Schrodinger developed a mathematical model of calculating the probibility of fin
 		 - 2 = d (donut/dumbell)
 		 - 3 = f (flower?)
 	 - *Magnetic QN $m_{l}$*: int that specifies orientation of the orbital. goes from $-l \,\text{to}  +l$ (includes 0).
+	 - *Spin QN $m_{s}$*: 
 ##### Example(s):
 A.
 
