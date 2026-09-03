@@ -111,7 +111,7 @@ Schrodinger developed a mathematical model of calculating the probibility of fin
 		 - 1 = p (peanut)
 		 - 2 = d (donut/dumbell)
 		 - 3 = f (flower?)
-	 - 
+	 - *Magnetic QN $m_{l}$*: int that specifies orientation of the or
 ##### Example(s):
 A.
 
