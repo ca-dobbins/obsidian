@@ -102,4 +102,8 @@ particles move on in a path determined by it's velocity, position, and forces ac
 
 ***Quantum Mechanics*** <- most modern understanding
 
+Schrodinger developed a mathematical model of calculating the probibility of finding an electron within a region
+ - solutions of his equations produce many wave functions
+ - **Quantum Number**: one of four numbers that specifiy shape, energy, orbital orientation, and spin orientation
+ - x
 ##### Example(s):
