@@ -105,5 +105,8 @@ particles move on in a path determined by it's velocity, position, and forces ac
 Schrodinger developed a mathematical model of calculating the probibility of finding an electron within a region
  - solutions of his equations produce many wave functions
  - **Quantum Number**: one of four numbers that specifiy shape, energy, orbital orientation, and spin orientation
- - x
+	 - *Principal QN (n)*: charactarizes the energy of the electon in a perticular orbital $n\geq1$, larger n = more energy + larger orbital
+	 - *Angular momentum QN (l)*: determines shape of orbital. $l$ can have int values from 0 to (n-1). each $l$ is designated a letter designation:
+		 - 0  = s (spherical)
+		 - 1 = 
 ##### Example(s):
