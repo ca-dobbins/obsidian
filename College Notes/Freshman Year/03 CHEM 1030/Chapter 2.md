@@ -123,8 +123,16 @@ each principal energy state has one s orbital
 lowest energy state
 number of nodes = (n-1)
 
-**P Orbital**
+**P Orbitals**
+each principal energy state $\geq2$ has three p orbitals
+	$m_{l}$ = -1,0,+1
+meach of the three orbitals points along a diff axis
+	$p_{x}$,$p_{y}$,$p_{z}$
+second lowesr energy
+one node at nuc; total of n nodes
 
+
+**Orbitals are determined from mathematical wave functions** (reporting tool not a charge)
 ##### Example(s):
 A.
 
