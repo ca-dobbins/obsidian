@@ -68,8 +68,9 @@ Binding energy for the photon to escape: $\phi=hv_{0}$
 
 quantized: only have a specific amount of energy
 ![[Pasted image 20260901103344.png]]
-excitation: gaining energy by moving up
-emission: losing energy by moving down
+excitation (excited e): gaining energy by moving up
+emission (relaxed e): losing energy by moving down, also releases a photon of light
+e in high energy states are unstable (meaning they tend to lose energy and move down a state)
 
 ground state: lowest e of particle
 excited state: ANY energy state above ground
