@@ -24,13 +24,17 @@ $$
 A.
 Let $f(x)=\frac{3}{x}$. Find the tangent line at $x=\frac{1}{2}$.
 $$
-ans = m\left( x-\frac{1}{2} \right)+6
+ans(y) = m\left( x-\frac{1}{2} \right)+6
 $$
 $$
 \begin{align}
 f'(x)=-\frac{3}{x^{2}} \\
-f'\left( \frac{1}{2} \right)=-12
+f'\left( \frac{1}{2} \right)=-12=m
 \end{align}
+$$
+So,
+$$
+y=-12\left( x-\frac{1}{2} \right)+6
 $$
 
 ### Main Idea 2
