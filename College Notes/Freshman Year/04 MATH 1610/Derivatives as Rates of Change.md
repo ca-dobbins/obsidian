@@ -15,11 +15,17 @@ m=\lim_{ x \to a } \frac{f(x)-f(a)}{x-a}
 $$
 
 ***Def of the Derivative***:
+The derivative of $f(x)$ at $x$ is:
 $$
-\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}
+f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}
 $$
 
 ##### Example(s):
+A.
+Let $f(x)=\frac{3}{x}$. Find the tangent line at $x=\frac{1}{2}$.
+$$
+m = \lim_{ n \to \infty } 
+$$
 
 ### Main Idea 2
 *subtitle*
