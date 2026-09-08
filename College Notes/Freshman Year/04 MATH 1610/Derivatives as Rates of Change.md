@@ -15,9 +15,9 @@ m=\lim_{ x \to a } \frac{f(x)-f(a)}{x-a}
 $$
 
 ***Def of the Derivative***:
-The derivative of $f(x)$ at $x$ is:
+The derivative of $f(x)$ at $x=a$ is:
 $$
-f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}
+f'(a)=\lim_{ h \to 0 } \frac{f(a+h)-f(x)}{h}
 $$
 
 ##### Example(s):
