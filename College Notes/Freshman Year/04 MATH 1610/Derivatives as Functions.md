@@ -46,5 +46,12 @@ $$
 f'(x)=\lim_{ h \to 0 } \frac{(x+h)^4-x^4}{h}
 $$
 ![[Pasted image 20260908113840.png]]
-
+So,
+$$
+f'(x)=4x^{3},
+$$
+finding it's tangent lines:
+$$
+f''(x)=\lim_{ h \to 0 } \frac{4(x+h)^{3}-4x}{}
+$$
 ##### Example(s):
