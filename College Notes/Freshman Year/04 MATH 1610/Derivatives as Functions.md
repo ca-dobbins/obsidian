@@ -32,9 +32,14 @@ $$
 ***Non-diff***
 1. Corner
 2. Cusp
+3. Vertical Line
+4. Discontinuity
+
+***Theorem***:
+	If $f'(a)$ exists, then $f(x)$ must be continuous, at $x=a$. Not necessarily true in reverse.
 ##### Example(s):
 
-### Main Idea 3
+### Higher Order Derivatives
 *subtitle*
 
 ##### Example(s):
