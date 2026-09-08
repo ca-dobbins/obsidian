@@ -10,16 +10,20 @@ $$
 So that means,
 ***Def***:
 $$
-f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}
+f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h},
 $$
-let $y=f(x)$, all of the following mean the same:
+provided the limit exists.
+
+Let $y=f(x)$, all of the following mean the same:
 $$
 f'(x)=y'=\frac{dy}{dx}=\frac{df}{dx}=\frac{d}{dx}y=\frac{d}{dx}f(x)    
 $$
+The last two are also known as differential operators, ($Df(x)=D_{x}f(x)$ are also diff operators)
 So:
 $$
-\frac{d}{dx} 
+\frac{d}{dx}\sqrt{ x }=\frac{1}{2\sqrt{ x }} 
 $$
+
 ##### Example(s):
 
 ### Main Idea 2
