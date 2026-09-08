@@ -1,8 +1,9 @@
 # Topic: Periodic Properties of the Elements
 Date: 2026-09-08
 
-### Main Idea 1
+### History of the Periodic Table
 *subtitle*
+
 
 ##### Example(s):
 
