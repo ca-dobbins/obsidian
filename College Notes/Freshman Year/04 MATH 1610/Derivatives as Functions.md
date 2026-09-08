@@ -5,7 +5,7 @@ Suggest HW: 1-31, 47-52
 *thank god*
 Let $f(x)=\sqrt{ x }$:
 $$
-\lim_{ h \to 0 } \frac{\sqrt{ x+h }-\sqrt{ x }}{h} . \left( \frac{\sqrt{ x+h }+\sqrt{ x }}{\sqrt{ x+h }+\sqrt{ x }} \right)=\frac{1}{2\sqrt{ x }}
+\lim_{ h \to 0 } \frac{\sqrt{ x+h }-\sqrt{ x }}{h} \cdot \left( \frac{\sqrt{ x+h }+\sqrt{ x }}{\sqrt{ x+h }+\sqrt{ x }} \right)=\frac{1}{2\sqrt{ x }}
 $$
 So that means,
 ***Def***:
@@ -26,9 +26,12 @@ $$
 
 ##### Example(s):
 
-### Main Idea 2
+### Differentiability
 *subtitle*
 
+***Non-diff***
+1. Corner
+2. Cusp
 ##### Example(s):
 
 ### Main Idea 3
