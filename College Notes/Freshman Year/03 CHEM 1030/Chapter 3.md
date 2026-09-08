@@ -37,7 +37,17 @@ m_{l}=0 \\
 m_{s}=+\frac{1}{2}
 \end{align}
 $$
+two concepts affect multi-e atoms
 
+**E Spin**
+- all e have equal spin
+	- up/down (eq and opp)
+	- $+\frac{1}{2} \,\text{and} -\frac{1}{2}$
+- half arrows (start with up)
+- spins must cancel out
+- $\ce{He - 1s^{2}}$
+- e are paired, meaning diamagnetic
+	**
 ##### Example(s):
 
 ### Main Idea 3
