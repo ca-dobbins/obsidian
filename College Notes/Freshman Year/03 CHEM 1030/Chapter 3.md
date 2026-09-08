@@ -22,10 +22,21 @@ Can also be divided into:
 - transition elements:
 	- less predictable
 	- **anything with a # + B on P.T**
+
 ##### Example(s):
 
-### Main Idea 2
+### Electron Configs
 *subtitle*
+Schrodinger's eq for the hydrogen atom showed that its one electron will occupy the lowest energy orbital
+$$
+H \, -
+\begin{align}
+n=1 \\
+l=0 \\
+m_{l}=0 \\
+m_{s}=+\frac{1}{2}
+\end{align}
+$$
 
 ##### Example(s):
 
