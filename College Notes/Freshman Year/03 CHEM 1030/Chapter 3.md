@@ -58,7 +58,7 @@ two concepts affect multi-e atoms
 - lower the value l, the less energy the sublevel has
 ![[Pasted image 20260908100127.png]]
 *Electrons fill orbitals from lowest to highest - Aufbau Principle*
-$\ce{1s^{2} 2s^{2} 2p^{6}\dots}$
+$\ce{1s^{n} 2s^{n} 2p^{n}\dots}$
 
 ***Coulomb's Law***
 attractions and repulsions between charged particles
