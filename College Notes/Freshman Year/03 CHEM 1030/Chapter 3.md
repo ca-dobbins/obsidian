@@ -58,10 +58,21 @@ two concepts affect multi-e atoms
 - lower the value l, the less energy the sublevel has
 ![[Pasted image 20260908100127.png]]
 *Electrons fill orbitals from lowest to highest - Aufbau Principle*
-$\ce{1s^{2} 2$
+$\ce{1s^{2} 2s^{2} 2p^{6}\dots}$
+
+***Coulomb's Law***
+attractions and repulsions between charged particles
+like charges - PE = + | decreases as they get farther apart
+opp charges - PE = - | value becomes more negative as they get closer
+*strength increases as size of the charges increases*
+
+***Filling the Orbitals***:
+when more e are added, each e 
+
 ##### Example(s):
 
-### Main Idea 3
+### 
 *subtitle*
+
 
 ##### Example(s):
