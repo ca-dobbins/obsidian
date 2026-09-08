@@ -9,8 +9,19 @@ Mendeleev's Periodic Law (1896):
 ***Modern Periodic Table***
 The elements are in order of increasing atomic #
 Rows - periods
-Columns - groups/families
+Columns - groups/families and have similar properties
 
+*Groupings*
+- metals
+- non-metals
+- metalloids
+Can also be divided into:
+- main-group elements:
+	- predictable patterns/properties
+	- **anything with a # + A on P.T**
+- transition elements:
+	- less predictable
+	- **anything with a # + B on P.T**
 ##### Example(s):
 
 ### Main Idea 2
