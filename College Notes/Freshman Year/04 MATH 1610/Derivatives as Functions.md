@@ -54,7 +54,7 @@ finding it's tangent lines:
 $$
 f''(x)=\lim_{ h \to 0 } \frac{4(x+h)^{3}-4x^{3}}{h}=12x^{2}
 $$
-Third derivative:
+This can continue, so for example, the third derivative:
 $$
 f'''(x)=24x
 $$
@@ -64,6 +64,7 @@ f^4(x)=24
 $$
 Fifth derivative:
 $$
-f^5(x)
+f^5(x)=0
 $$
+
 ##### Example(s):
