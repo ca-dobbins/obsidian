@@ -52,7 +52,13 @@ two concepts affect multi-e atoms
 
 **Sublevel Spliting**
 - sublevels (QN l) all have the same energy
-- orbitals w the same energy are said to be degenerate
+- orbitals w the same energy are said to be degenerate (equal)
+	- for multi electron atoms, the energies of sublevels are split
+		- charge int, shielding, penetration
+- lower the value l, the less energy the sublevel has
+![[Pasted image 20260908100127.png]]
+*Electrons fill orbitals from lowest to highest - Aufbau Principle*
+$\ce{1s^{2} 2$
 ##### Example(s):
 
 ### Main Idea 3
