@@ -1,1 +1,8 @@
-1: one derivative - USING LIMIT DEF
+1: one derivative q (15pts) - USING LIMIT DEF
+	IVT q (10pt)
+	literaly read a graph 5q (5pts/ea)
+	find limits 3q (10pts/ea)
+	H.A q (10pts)
+	V.A q (10pts)
+	misc q (10pts)
+	=110/100
