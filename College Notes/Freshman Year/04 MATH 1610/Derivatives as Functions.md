@@ -52,6 +52,18 @@ f'(x)=4x^{3},
 $$
 finding it's tangent lines:
 $$
-f''(x)=\lim_{ h \to 0 } \frac{4(x+h)^{3}-4x}{}
+f''(x)=\lim_{ h \to 0 } \frac{4(x+h)^{3}-4x^{3}}{h}=12x^{2}
+$$
+Third derivative:
+$$
+f'''(x)=24x
+$$
+Fourth derivative:
+$$
+f^4(x)=24
+$$
+Fifth derivative:
+$$
+f^5(x)
 $$
 ##### Example(s):
