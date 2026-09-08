@@ -3,7 +3,13 @@ Date: 2026-09-08
 
 ### History of the Periodic Table
 *subtitle*
+Mendeleev's Periodic Law (1896):
+- when the elements are arranged in order of mass, certain sets of properties recur periodically
 
+***Modern Periodic Table***
+The elements are in order of increasing atomic #
+Rows - periods
+Columns - groups/families
 
 ##### Example(s):
 
