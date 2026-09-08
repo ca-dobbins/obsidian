@@ -12,6 +12,14 @@ So that means,
 $$
 f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}
 $$
+let $y=f(x)$, all of the following mean the same:
+$$
+f'(x)=y'=\frac{dy}{dx}=\frac{df}{dx}=\frac{d}{dx}y=\frac{d}{dx}f(x)    
+$$
+So:
+$$
+\frac{d}{dx} 
+$$
 ##### Example(s):
 
 ### Main Idea 2
