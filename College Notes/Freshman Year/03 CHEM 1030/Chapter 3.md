@@ -67,7 +67,8 @@ opp charges - PE = - | value becomes more negative as they get closer
 *strength increases as size of the charges increases*
 
 ***Filling the Orbitals***:
-when more e are added, each e 
+when more e are added, each e experiences both attraction to protons and repulsion by other e (shielding: other e block/interfere w attractive forces)
+- total amount of attraction that an e feels is called the effective nuclear charge     ($\ce{z_{eff}}$)
 
 ##### Example(s):
 
