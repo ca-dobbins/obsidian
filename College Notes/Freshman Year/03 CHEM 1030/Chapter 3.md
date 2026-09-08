@@ -69,8 +69,15 @@ opp charges - PE = - | value becomes more negative as they get closer
 ***Filling the Orbitals***:
 when more e are added, each e experiences both attraction to protons and repulsion by other e (shielding: other e block/interfere w attractive forces)
 - total amount of attraction that an e feels is called the effective nuclear charge     ($\ce{z_{eff}}$)
-
+	***Hun's Rule***:
+	- when filling orbitals that are degenerate, place one e in each orbital before completing pairs
 ##### Example(s):
+A.
+$$
+\ce{C - \begin{align}
+n=1,l=0,m_{l},m_{}
+\end{align}}
+$$
 
 ### 
 *subtitle*
