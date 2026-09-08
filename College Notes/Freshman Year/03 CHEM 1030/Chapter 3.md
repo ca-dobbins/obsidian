@@ -47,7 +47,12 @@ two concepts affect multi-e atoms
 - spins must cancel out
 - $\ce{He - 1s^{2}}$
 - e are paired, meaning diamagnetic
-	**
+	*Paulie Exclusion Principle*:
+	- no two numbers may have the same set of four QNs
+
+**Sublevel Spliting**
+- sublevels (QN l) all have the same energy
+- orbitals w the same energy are said to be degenerate
 ##### Example(s):
 
 ### Main Idea 3
