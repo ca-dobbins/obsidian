@@ -73,6 +73,13 @@ when more e are added, each e experiences both attraction to protons and repulsi
 - total amount of attraction that an e feels is called the effective nuclear charge     ($\ce{z_{eff}}$)
 	***Hun's Rule***:
 	- when filling orbitals that are degenerate, place one e in each orbital before completing pairs
+metals form cations
+- alkali +1
+- alkaline +2
+- transition varies
+nonmetals form anions
+- halogens -1
+- others vary
 ##### Example(s):
 
 ### 
