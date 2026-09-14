@@ -56,11 +56,11 @@ the interaction between waves is called _interference_
 
 **photoelectric effect** - electrons emitted when light is shined on a surface
 $$
-Energy=h\times \nu
+\text{E}_{photon}=h\times \nu
 $$
-the energy of a photon of light is directly proportional to its frequnecy
+the energy of a photon of light is directly proportional to its frequency
 $$
-Energy=\frac{h\times c}{\lambda}
+\text{E}=\frac{h\times c}{\lambda}
 $$
 **Planck's Constant**: $h=6.626\times10^{-34}J\times s$ 
 Binding energy for the photon to escape: $\phi=hv_{0}$
