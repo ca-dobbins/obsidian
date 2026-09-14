@@ -60,7 +60,7 @@ $$
 $$
 the energy of a photon of light is directly proportional to its frequency
 $$
-\text{E}=\frac{h\times c}{\lambda}
+\text{E}_{photon}=\frac{h\times c}{\lambda}
 $$
 **Planck's Constant**: $h=6.626\times10^{-34}J\times s$ 
 Binding energy for the photon to escape: $\phi=hv_{0}$
