@@ -97,5 +97,16 @@ nonmetals form anions
 ***Alkaline Earth Metals***
 - 2 more e than prev. noble gas
 - usually form cations
-***
+***Transition + Inner Transition Metals***
+- d-block of periodic table
+- cations by losing s and/or d e
+***P-block Metals***
+- left of metalloids
+- cations by losing s and/or d e
+***Metalloids***
+- p-block, zigzag
+- cations/anions
+***Nonmetals***
+- p-block area (upper right)
+- gain e depending on how far from 
 ##### Example(s):
