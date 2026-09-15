@@ -108,5 +108,9 @@ nonmetals form anions
 - cations/anions
 ***Nonmetals***
 - p-block area (upper right)
-- gain e depending on how far from 
+- gain e depending on how far from noble gasses
+***Halogens***
+- nonmetals
+- one fewer e than noble gasses
+- shares e w nonmetals to make bonds in reactions
 ##### Example(s):
