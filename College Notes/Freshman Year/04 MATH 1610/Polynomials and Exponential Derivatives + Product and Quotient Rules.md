@@ -49,6 +49,10 @@ $$
 
 
 ##### Example(s):
+A.
+$$
+\frac{d}{dx}x^2e^x=x^2\frac{d}{dx}e^x+e^x\frac{d}{dx}x^2=x^2e^x+2xe^x
+$$
 
 ### Main Idea 3
 *subtitle*
