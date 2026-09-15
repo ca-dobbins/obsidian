@@ -84,6 +84,18 @@ nonmetals form anions
 
 ### Characteristics of the Periodic Table
 *subtitle*
+![[Pasted image 20260915085948.png]]
 ![[Pasted image 20260915085900.png]]
 
+***Noble Gasses***
+- 8 valence e
+- esp. nonreactive
+- stable
+***Alkali Metals***
+- 1 more e than prev. noble gas
+- usually form cations
+***Alkaline Earth Metals***
+- 2 more e than prev. noble gas
+- usually form cations
+- 
 ##### Example(s):
