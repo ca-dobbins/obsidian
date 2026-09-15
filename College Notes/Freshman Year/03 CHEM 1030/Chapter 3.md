@@ -97,5 +97,5 @@ nonmetals form anions
 ***Alkaline Earth Metals***
 - 2 more e than prev. noble gas
 - usually form cations
-- 
+***
 ##### Example(s):
