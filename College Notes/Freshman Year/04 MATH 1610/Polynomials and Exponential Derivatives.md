@@ -14,10 +14,13 @@ $$
 $$
 \frac{d}{dx}cf(x)=cf'(x)
 $$
-***Sum of two functions***:
+***Sum/Difference of two functions***:
 
 $$
-\frac{d}{dx}[f(x)+g(x)]=f'(x)+g'(x)
+\begin{align}
+\frac{d}{dx}[f(x)+g(x)]=f'(x)+g'(x) \\
+\frac{d}{dx}[f(x)-(x)]=f'(x)-g'(x) 
+\end{align}
 $$
 
 
