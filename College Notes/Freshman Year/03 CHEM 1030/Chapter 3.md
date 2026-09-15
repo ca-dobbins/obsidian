@@ -73,7 +73,13 @@ when more e are added, each e experiences both attraction to protons and repulsi
 - total amount of attraction that an e feels is called the effective nuclear charge     ($\ce{z_{eff}}$)
 	***Hun's Rule***:
 	- when filling orbitals that are degenerate, place one e in each orbital before completing pairs
-***Paramagnetic
+***Paramagnetic***
+- elements with unpaired electrons, atom will have a net magnetic field
+- *attracted to mag field*
+***Diamagnetism***
+- all paired e, no magnetic field
+- *repelled by mag field*
+
 ##### Example(s):
 
 ### Characteristics of the Periodic Table
