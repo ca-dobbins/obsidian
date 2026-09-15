@@ -1,7 +1,7 @@
-# Topic: 3.1
+# Topic: 3.1, 3.2
 Date: 2026-09-15
 Suggested HW: 3-42, 59-63
-### Basics
+### 3.1
 *subtitle*
 Review: [[Derivatives as Functions#Taking the Derivative|Derivatives as Functions]]
 ***Power Rule***:
@@ -39,8 +39,14 @@ $$
 $$
 
 
-### Main Idea 2
+### 3.2
 *subtitle*
+***Product Rule***:
+
+$$
+\frac{d}{dx}[f(x)g(x)]=f(x)g'(x)+f'(x)g(x)
+$$
+
 
 ##### Example(s):
 
