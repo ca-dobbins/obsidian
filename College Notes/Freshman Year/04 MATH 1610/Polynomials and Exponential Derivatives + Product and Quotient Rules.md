@@ -46,7 +46,11 @@ $$
 $$
 \frac{d}{dx}[f(x)g(x)]=f(x)g'(x)+f'(x)g(x)
 $$
+***Quotient Rule***:
 
+$$
+\frac{d}{dx} \frac{f(x)}{g(x)}=\frac{g(x)f'(x)-f(x)g'(x)}{g(x)^2}
+$$
 
 ##### Example(s):
 A.
