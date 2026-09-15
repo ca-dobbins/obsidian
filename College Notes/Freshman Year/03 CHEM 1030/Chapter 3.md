@@ -126,4 +126,9 @@ Cations < Parent atom
 Anions > Parent atom
 ![[Pasted image 20260915101640.png]]
 
+
+| Metals | Nonmetals |
+| ------ | --------- |
+|        |           |
+
 ##### Example(s):
