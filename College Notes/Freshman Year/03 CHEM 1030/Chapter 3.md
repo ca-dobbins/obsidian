@@ -82,8 +82,8 @@ nonmetals form anions
 - others vary
 ##### Example(s):
 
-### 
+### Characteristics of the Periodic Table
 *subtitle*
-
+![[Pasted image 20260915085900.png]]
 
 ##### Example(s):
