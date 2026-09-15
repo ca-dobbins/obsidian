@@ -124,4 +124,6 @@ when more e are added, each e experiences both attraction to protons and repulsi
 
 Cations < Parent atom
 Anions > Parent atom
+![[Pasted image 20260915101640.png]]
+
 ##### Example(s):
