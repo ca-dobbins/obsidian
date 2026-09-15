@@ -121,4 +121,7 @@ when more e are added, each e experiences both attraction to protons and repulsi
 *nonmetals form anions*
 - *halogens -1*
 - *others vary*
+
+Cations < Parent atom
+Anions > Parent atom
 ##### Example(s):
