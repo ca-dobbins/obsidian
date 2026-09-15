@@ -14,12 +14,17 @@ $$
 $$
 \frac{d}{dx}cf(x)=cf'(x)
 $$
+***Sum of two functions***:
+
+$$
+\frac{d}{dx}[f(x)+g(x)]=f'(x)+g'(x)
+$$
 
 
 ##### Example(s):
 A.
 $$
-\frac{d}{dx}12x^3= 
+\frac{d}{dx}12x^3=12\frac{d}{dx}x^3=36x^2  
 $$
 
 ### Main Idea 2
