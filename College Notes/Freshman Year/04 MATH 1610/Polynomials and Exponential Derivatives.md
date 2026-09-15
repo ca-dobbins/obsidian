@@ -24,6 +24,9 @@ $$
 $$
 ***Exponentials***:
 
+$$
+\frac{d}{dx}e^x= e^x
+$$
 
 ##### Example(s):
 A.
