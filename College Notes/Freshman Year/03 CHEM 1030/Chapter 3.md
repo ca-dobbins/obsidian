@@ -127,8 +127,13 @@ Anions > Parent atom
 ![[Pasted image 20260915101640.png]]
 
 
-| Metals | Nonmetals |
-| ------ | --------- |
-|        |           |
+| Metals                         | Nonmetals                          |
+| ------------------------------ | ---------------------------------- |
+| Malleable and ductile          | Brittle as a solid                 |
+| Shiny, lustrous, reflect light | Dull, nonreflective, solid surface |
+| Conduct heat and electricity   | Electrical and thermal insulators  |
+| Most oxides basic and ionic    | Most oxides acidic and molecular   |
+| Form cations in solution       | Form anions and polyatomic atoms   |
+| lose electrons in reactions    | gain electrons in reactions        |
 
 ##### Example(s):
