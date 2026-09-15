@@ -3,7 +3,13 @@ Date: 2026-09-15
 
 ### Chemical Compounds
 *subtitle*
-2+ elements cambine, a new substance forms
+2+ elements combine, a new substance forms
+- The same: $\ce{O2}$
+- Different: $\ce{H2O}$
+**Two main types**:
+- ionic
+- covalent
+- *metallic (not usually seen)*
 
 ##### Example(s):
 
