@@ -24,7 +24,12 @@ $$
 $$
 
 
+
 ##### Example(s):
+A. 
+$$
+\frac{d^{1000}}{dx^{1000}}\sin x=\sin x 
+$$
 
 ### Main Idea 3
 *subtitle*
