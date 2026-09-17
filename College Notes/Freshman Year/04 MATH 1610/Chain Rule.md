@@ -34,7 +34,14 @@ $$
 $$
 \frac{d}{dx}f(x)=2\sin x\cos x 
 $$
+B.
+$$
+\frac{d}{dx}\left( \frac{x^{2}}{x^{3}+1} \right)^5 
+$$
 
+$$
+=\frac{x^{3}+1(2x)-x^{2}(3x^{2})}{(x^{3}+1)^{2}}\cdot5\left( \frac{x^{2}}{x^{3}+1} \right)^4
+$$
 ### Main Idea 2
 *subtitle*
 
