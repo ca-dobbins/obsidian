@@ -10,10 +10,19 @@ $$
 $$
 \lim_{ h \to 0 } \frac{\cos(h) -1}{h}=0
 $$
+
 ##### Example(s):
 
-### Main Idea 2
+### Derivatives
 *subtitle*
+$$
+\frac{d}{dx}\sin x=\cos x
+$$
+
+$$
+\frac{d}{dx}\cos x=-\sin x 
+$$
+
 
 ##### Example(s):
 
