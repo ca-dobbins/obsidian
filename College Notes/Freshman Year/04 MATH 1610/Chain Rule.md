@@ -20,9 +20,20 @@ or:
 $$
 \frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx}  
 $$
+The derivative of $\frac{d}{dx}\sqrt{ x^{3}+x }$ is:
+$$
+\frac{3x^{2}+1}{2\sqrt{ x^{3}+1 }}
+$$
 
 ##### Example(s):
+A.
+$$
+f(x)=\sin ^{2}x
+$$
 
+$$
+
+$$
 ### Main Idea 2
 *subtitle*
 
