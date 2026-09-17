@@ -32,8 +32,9 @@ f(x)=\sin ^{2}x
 $$
 
 $$
-
+\frac{d}{dx}f(x)=2\sin x\cos x 
 $$
+
 ### Main Idea 2
 *subtitle*
 
