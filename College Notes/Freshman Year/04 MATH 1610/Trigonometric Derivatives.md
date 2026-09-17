@@ -23,12 +23,38 @@ $$
 \frac{d}{dx}\cos x=-\sin x 
 $$
 
+$$
+\frac{d}{dx}=\tan x=\sec^2x
+$$
 
+$$
+\frac{d}{dx}=\sec x=\sec x\tan x
+$$
+
+$$
+\frac{d}{dx}=\cot x=-\csc^2x
+$$
+
+$$
+\frac{d}{dx}\csc x=-\csc x\cot x
+$$
 
 ##### Example(s):
 A. 
 $$
 \frac{d^{1000}}{dx^{1000}}\sin x=\sin x 
+$$
+
+b/c
+
+$$
+\begin{align}
+f(x)=\sin x \\
+f'(x)=\cos x \\
+f''(x)=-\sin x \\
+f'''(x)=-\cos x \\
+f^4(x)=\sin x
+\end{align}
 $$
 
 ### Main Idea 3

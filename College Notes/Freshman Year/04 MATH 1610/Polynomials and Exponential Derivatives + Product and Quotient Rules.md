@@ -57,6 +57,10 @@ A.
 $$
 \frac{d}{dx}x^2e^x=x^2\frac{d}{dx}e^x+e^x\frac{d}{dx}x^2=x^2e^x+2xe^x
 $$
+B.
+$$
+\frac{d}{dx} \frac{5e^x}{(x^{2}+1)(x^{3}+x-2)} 
+$$
 
 ### Main Idea 3
 *subtitle*
