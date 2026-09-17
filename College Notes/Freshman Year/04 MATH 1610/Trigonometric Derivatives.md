@@ -12,6 +12,18 @@ $$
 $$
 
 ##### Example(s):
+A.
+$$
+\lim_{ x \to 0 } \frac{\sin4x}{4x}=1
+$$
+B.
+$$
+\lim_{ x \to 0 } \frac{\sin7x}{3x}=\frac{7}{3}
+$$
+C.
+$$
+\lim_{ x \to 0 } \frac{\sin2x}{\sin5x}=\frac{2}{5}
+$$
 
 ### Derivatives
 *subtitle*
