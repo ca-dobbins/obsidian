@@ -74,7 +74,7 @@ X: Element
 Atoms can gain or lose electrons and become charged particles called ions
 - positively charged are called cations
 	- usually metals
-	- ex: $\ce{Na+ or Na+\degree}$ 
+	- ex: $\ce{Na+ or Na-}$ 
 	*loss of electron*
 - negatively charged are called anions
 	- usually non-metals
