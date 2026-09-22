@@ -48,7 +48,11 @@ Next, we take the derivative of this new equation and we end up with something t
 $$
 \frac{d^2y}{dx^2} =\frac{y^{3}(-3x^{2})+x^{3}\left( 3y^{2}\frac{dy}{dx}  \right)}{y^6}
 $$
-Now obviously we can't have three variables $\left( x,y,\frac{dy}{dx} \right)$ in the equation when we only started out with two $(x,y)$. So we will plug in the first derivati
+Now obviously we can't have three variables $\left( x,y,\frac{dy}{dx} \right)$ in the equation when we only started out with two $(x,y)$. So we will plug in the first derivative,
+$$
+\frac{d^2y}{dx^2}=\frac{-3y^{3}x^{2}+3y^{2}x^{3}\left( -\frac{x^{3}}{y^{3}} \right)}{y^6} 
+$$
+...but do NOT clean it up unless you're doing a 3rd derivative (for some god forsaken reason).
 ##### Example(s):
 
 ### Inverse Trig
