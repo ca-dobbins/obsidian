@@ -42,9 +42,22 @@ $$
 $$
 =\frac{(x^{3}+1)(2x)-x^{2}(3x^{2})}{(x^{3}+1)^{2}}\cdot5\left( \frac{x^{2}}{x^{3}+1} \right)^4
 $$
-### Main Idea 2
+### Going Further
 *subtitle*
+***Power-Chain***
 
+$$
+\frac{d}{dx}u^n=n u^{n-1}\frac{du}{dx}
+$$
+***Nested Chain***
+
+$$
+\frac{d}{dx}u(v(x))=u'(v(x))(v'(f(x))) 
+$$
+***Exponentials***
+$$
+\frac{d}{dx}b^u=b^u\ln(b)\frac{du}{dx}  
+$$
 ##### Example(s):
 
 ### Main Idea 3
