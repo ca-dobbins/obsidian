@@ -40,7 +40,7 @@ $$
 $$
 
 $$
-=\frac{x^{3}+1(2x)-x^{2}(3x^{2})}{(x^{3}+1)^{2}}\cdot5\left( \frac{x^{2}}{x^{3}+1} \right)^4
+=\frac{(x^{3}+1)(2x)-x^{2}(3x^{2})}{(x^{3}+1)^{2}}\cdot5\left( \frac{x^{2}}{x^{3}+1} \right)^4
 $$
 ### Main Idea 2
 *subtitle*
