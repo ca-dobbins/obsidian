@@ -53,6 +53,11 @@ $\ce{CuCl2}$ -> Ionic
 $\ce{CH2O}$ -> Molecular
 ### Modeling
 *subtitle*
+- ***Molecular Models***
+- ***Ball-and-Stick***
+- ***Space-filling***
+![[Pasted image 20260922100028.png]]
+
 
 ##### Example(s):
 
