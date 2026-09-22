@@ -21,6 +21,14 @@ $$
 y'=\pm \frac{1}{2}(25-x^{2})^{-\frac{1}{2}}(2x)
 $$
 ##### Example(s):
+A.
+$$
+\frac{d}{dx} (x^{3}+y^{3})=\frac{d}{dx} 6xy
+$$
+
+$$
+3x^{2}+3y^{2}\frac{dy}{dx}=\left( 6x\frac{dy}{dx}+6y  \right) 
+$$
 
 ### Main Idea 2
 *subtitle*
