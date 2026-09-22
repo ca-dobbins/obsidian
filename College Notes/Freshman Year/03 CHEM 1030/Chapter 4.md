@@ -36,12 +36,12 @@ Date: 2026-09-15
 Ionic Bond:
 $\ce{Na + Cl->Na+Cl-}$
 
-$\ce{CaF2}$ ->
-$\ce{F2O}$ ->
-$\ce{Al2O3}$ ->
-$\ce{HCl(g)}$ ->
-$\ce{CuCl2}$ ->
-$\ce{CH2O}$ ->
+$\ce{CaF2}$ -> Ionic
+$\ce{F2O}$ -> Molecular
+$\ce{Al2O3}$ -> Ionic
+$\ce{HCl(g)}$ -> Molecular
+$\ce{CuCl2}$ -> Ionic
+$\ce{CH2O}$ -> Molecular
 ### Modeling
 *subtitle*
 
