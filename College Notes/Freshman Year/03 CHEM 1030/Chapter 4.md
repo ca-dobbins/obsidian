@@ -52,7 +52,8 @@ $\ce{CH2O}$ -> Molecular
 
 ##### Example(s):
 
-### Main Idea 3
+### Energy
 *subtitle*
-
+- when anions and cations form a structure, they release energy and form a crystal lattice
+	- held by electrostatic attraction
 ##### Example(s):
