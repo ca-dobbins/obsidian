@@ -57,5 +57,11 @@ $$
 
 ### Inverse Trig
 *subtitle*
+$$
+\begin{array}{l l}
+\frac{d}{dx} \arcsin(x)=\frac{1}{\sqrt{ 1-x^{2} }} & \frac{d}{dx}\arccos(x)=\frac{-1}{\sqrt{ 1-x^{2} }} \\
+\frac{d}{dx}\arctan(x)=  
+\end{array}
+$$
 
 ##### Example(s):
