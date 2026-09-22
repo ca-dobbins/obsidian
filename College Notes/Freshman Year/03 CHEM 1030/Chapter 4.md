@@ -19,8 +19,14 @@ Date: 2026-09-15
 - involve the **sharing of electrons** between two **nonmetals**
 
 #### Chemical Formulas
-$\chemfig$ 
+```tikz
+\usepackage{chemfig}
+\begin{document}
 
+\chemfig{[:-90]HN(-[::-45](-[::-45]R)=[::+45]O)>[::+45]*4(-(=O)-N*5(-(<:(=[::-60]O)-[::+60]OH)-(<[::+0])(<:[::-108])-S>)--)}
+
+\end{document}
+```
 ##### Example(s):
 $\ce{CaF2}$ ->
 $\ce{F2O}$ ->
