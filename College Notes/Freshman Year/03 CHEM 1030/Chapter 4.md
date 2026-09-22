@@ -30,17 +30,6 @@ Date: 2026-09-15
 - ***Empirical Formula***
 	- simplest ratio of formula
 	- least info
-
-```tikz
-\usepackage{chemfig}
-\begin{document}
-
-\chemfig{Li}
-
-
-\end{document}
-```
-
 ##### Example(s):
 Ionic Bond:
 $\ce{Na + Cl->Na+Cl-}$
@@ -58,6 +47,8 @@ $\ce{CH2O}$ -> Molecular
 - ***Space-filling***
 ![[Pasted image 20260922100028.png]]
 
+#### Lewis Electron Dot Structures
+- depicts the structural formula with its **valence** electrons
 
 ##### Example(s):
 
