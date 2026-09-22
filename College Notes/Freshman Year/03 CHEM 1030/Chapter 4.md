@@ -13,11 +13,13 @@ Date: 2026-09-15
 ![[Pasted image 20260922085340.png]]
 
 #### Ionic Bonds
+- 
 
-#### Covalent Bonds
-- involve the sharing of $e-$
+#### Covalent Bonds (molecular)
+- involve the **sharing of electrons** between two **nonmetals**
 
 ##### Example(s):
+	ce
 
 ### Main Idea 2
 *subtitle*
