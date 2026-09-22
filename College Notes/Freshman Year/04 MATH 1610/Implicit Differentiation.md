@@ -58,10 +58,12 @@ $$
 ### Inverse Trig
 *subtitle*
 $$
-\begin{array}{l l}
+\begin{array}{c c}
 \frac{d}{dx} \arcsin(x)=\frac{1}{\sqrt{ 1-x^{2} }} & \frac{d}{dx}\arccos(x)=\frac{-1}{\sqrt{ 1-x^{2} }} \\
-\frac{d}{dx}\arctan(x)=  
+\frac{d}{dx}\arctan(x)=\frac{1}{1+x^{2}} & \frac{d}{dx}\operatorname{arccot}(x)=\frac{-1}{1+x^{2}}  \\
+\frac{d}{dx}\operatorname{arcsec}(x)=\frac{1}{x\sqrt{ x^{2}-1 }} & \frac{d}{dx}\operatorname{arccsc}(x)=\frac{-1}{x\sqrt{ x^{2}-1 }}  
 \end{array}
 $$
+
 
 ##### Example(s):
