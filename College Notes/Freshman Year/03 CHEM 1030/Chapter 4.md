@@ -21,6 +21,14 @@ Date: 2026-09-15
 - involve the **sharing of electrons** between two **nonmetals**
 
 #### Chemical Formulas
+- ***Structural Formula***
+	- visual picture
+	- full formula -> most info
+- ***Molecular Formula***
+	- provides actual # of atoms in each element
+	- med info
+- ***Empirical Formula***
+	- simplest ratio of formula
 
 ```tikz
 \usepackage{chemfig}
