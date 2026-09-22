@@ -18,10 +18,16 @@ Date: 2026-09-15
 #### Covalent Bonds (molecular)
 - involve the **sharing of electrons** between two **nonmetals**
 
-##### Example(s):
-	ce
+#### Chemical Formulas
 
-### Main Idea 2
+##### Example(s):
+$\ce{CaF2}$ ->
+$\ce{F2O}$ ->
+$\ce{Al2O3}$ ->
+$\ce{HCl(g)}$ ->
+$\ce{CuCl2}$ ->
+$\ce{CH2O}$ ->
+### Modeling
 *subtitle*
 
 ##### Example(s):
