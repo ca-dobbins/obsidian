@@ -20,6 +20,15 @@ Date: 2026-09-15
 
 #### Chemical Formulas
 
+```tikz
+\usepackage{chemfig}
+\begin{document}
+
+\chemfig{Li}
+
+
+\end{document}
+```
 
 ##### Example(s):
 $\ce{CaF2}$ ->
