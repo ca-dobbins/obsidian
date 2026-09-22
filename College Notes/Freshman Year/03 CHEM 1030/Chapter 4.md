@@ -20,14 +20,7 @@ Date: 2026-09-15
 
 #### Chemical Formulas
 
-```tikz
-\usepackage{chemfig}
-\begin{document}
 
-\chemfig{}
-
-\end{document}
-```
 ##### Example(s):
 $\ce{CaF2}$ ->
 $\ce{F2O}$ ->

@@ -1,3 +1,8 @@
-$$
+```tikz
+\usepackage{chemfig}
+\begin{document}
 
-$$
+\chemfig{}
+
+\end{document}
+```
