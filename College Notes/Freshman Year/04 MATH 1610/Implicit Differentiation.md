@@ -39,7 +39,17 @@ $$
 $$
 ### Higher Order I.D
 *subtitle*
+$$
+\frac{d^2}{dx^2} (x^4+y^4=16)
+$$
 
+$$
+\frac{d}{dx} (\frac{dy}{dx}=\frac{-x^{3}}{y^{3}}) 
+$$
+
+$$
+=
+$$
 ##### Example(s):
 
 ### Inverse Trig
