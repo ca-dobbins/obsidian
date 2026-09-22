@@ -30,6 +30,13 @@ $$
 3x^{2}+3y^{2}\frac{dy}{dx}=\left( 6x\frac{dy}{dx}+6y  \right) 
 $$
 
+$$
+\frac{dy}{dx}(3y^{2}-6x)=-3x^{2}+6y 
+$$
+
+$$
+\frac{dy}{dx}=\frac{-3x^{2}+6y}{3y^{2}-6x} 
+$$
 ### Main Idea 2
 *subtitle*
 
