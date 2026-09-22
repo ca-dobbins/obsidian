@@ -48,7 +48,7 @@ $$
 $$
 
 $$
-=
+=\frac{y^{3}(-3x^{2})+x^{3}\left( 3y^{2}\frac{dy}{dx}  \right)}{y^6}
 $$
 ##### Example(s):
 
