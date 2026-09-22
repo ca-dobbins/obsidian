@@ -39,17 +39,16 @@ $$
 $$
 ### Higher Order I.D
 *subtitle*
-$$
-\frac{d^2}{dx^2} (x^4+y^4=16)
-$$
+Now let's take the 2nd derivative of the function $x^4+y^4=16$. We first begin by taking the first derivative, and we end up with this equation.
 
 $$
-\frac{d}{dx} (\frac{dy}{dx}=\frac{-x^{3}}{y^{3}}) 
+\frac{dy}{dx}=\frac{-x^{3}}{y^{3}} 
 $$
-
+Next, we take the derivative of this new equation and we end up with something that looks like this:
 $$
-=\frac{y^{3}(-3x^{2})+x^{3}\left( 3y^{2}\frac{dy}{dx}  \right)}{y^6}
+\frac{d^2y}{dx^2} =\frac{y^{3}(-3x^{2})+x^{3}\left( 3y^{2}\frac{dy}{dx}  \right)}{y^6}
 $$
+Now obviously we can't have three variables $\left( x,y,\frac{dy}{dx} \right)$ in the equation when we only started out with two $(x,y)$. So we will plug in the first derivati
 ##### Example(s):
 
 ### Inverse Trig
