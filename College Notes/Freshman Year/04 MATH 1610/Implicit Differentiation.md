@@ -14,9 +14,12 @@ $$
 ...and solving for $\frac{dy}{dx}$:
 
 $$
-\frac{dy}{dx}=\frac{-2x}{2y}=\frac{-x}{y} 
+\frac{dy}{dx}=\frac{-2x}{2y}=\frac{-x}{y}. 
 $$
-
+If we take the equation solved for $y$, we get the same derivative:
+$$
+y'=\pm \frac{1}{2}(25-x^{2})^{-\frac{1}{2}}(2x)
+$$
 ##### Example(s):
 
 ### Main Idea 2
