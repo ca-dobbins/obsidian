@@ -29,6 +29,7 @@ Date: 2026-09-15
 	- med info
 - ***Empirical Formula***
 	- simplest ratio of formula
+	- least info
 
 ```tikz
 \usepackage{chemfig}
