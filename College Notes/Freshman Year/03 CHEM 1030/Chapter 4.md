@@ -16,6 +16,7 @@ Date: 2026-09-15
 - involves the **transfer of electrons** between a **metal** and a **nonmetal**
 	- metal -> cation
 	- nonmetal -> anion
+- composed of a lattice
 #### Covalent Bonds (molecular)
 - involve the **sharing of electrons** between two **nonmetals**
 
@@ -32,6 +33,9 @@ Date: 2026-09-15
 ```
 
 ##### Example(s):
+Ionic Bond:
+$\ce{Na + Cl->Na+Cl-}$
+
 $\ce{CaF2}$ ->
 $\ce{F2O}$ ->
 $\ce{Al2O3}$ ->
