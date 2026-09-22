@@ -37,12 +37,12 @@ $$
 $$
 \frac{dy}{dx}=\frac{-3x^{2}+6y}{3y^{2}-6x} 
 $$
-### Main Idea 2
+### Higher Order I.D
 *subtitle*
 
 ##### Example(s):
 
-### Main Idea 3
+### Inverse Trig
 *subtitle*
 
 ##### Example(s):
