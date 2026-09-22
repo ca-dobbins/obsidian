@@ -19,6 +19,7 @@ Date: 2026-09-15
 - involve the **sharing of electrons** between two **nonmetals**
 
 #### Chemical Formulas
+$\chemfig$ 
 
 ##### Example(s):
 $\ce{CaF2}$ ->
