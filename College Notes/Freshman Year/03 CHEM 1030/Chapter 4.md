@@ -13,8 +13,9 @@ Date: 2026-09-15
 ![[Pasted image 20260922085340.png]]
 
 #### Ionic Bonds
-- 
-
+- involves the **transfer of electrons** between a **metal** and a **nonmetal**
+	- metal -> cation
+	- nonmetal -> anion
 #### Covalent Bonds (molecular)
 - involve the **sharing of electrons** between two **nonmetals**
 
