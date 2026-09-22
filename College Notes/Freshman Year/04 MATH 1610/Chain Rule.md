@@ -52,7 +52,7 @@ $$
 ***Nested Chain***
 
 $$
-\frac{d}{dx}u(v(x))=u'(v(x))(v'(f(x))) 
+\frac{d}{dx}u(g(x))=u'(g(x))\frac{dg}{dx}  
 $$
 ***Exponentials***
 $$
