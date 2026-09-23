@@ -10,3 +10,20 @@ $$
 $$
  
 $$
+
+$$
+\begin{array}{}
+
+\end{array}
+
+\begin{align}{}
+
+\end{align}
+
+\begin{matrix}{}
+
+\end{matrix}
+\begin{cases}{}
+
+\end{cases}
+$$
