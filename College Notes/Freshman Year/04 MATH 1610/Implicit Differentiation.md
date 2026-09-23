@@ -69,7 +69,7 @@ $$
 $$
 All of these rules can still be used in conjunction with the others, for example:
 $$
-\frac{d}{dx}\arctan(1+\sqrt{ 8x+2 })=\frac{1}{1+(1+\sqrt{ 8x+2 })}\left( \frac{1}{2}(8x+2)^{-1/2} \right)(8)
+\frac{d}{dx}\arctan(1+\sqrt{ 8x+2 })=\frac{1}{1+(1+\sqrt{ 8x+2 })^{2}}\left( \frac{1}{2}(8x+2)^{-1/2} \right)(8)
 $$
 
 ##### Example(s):
