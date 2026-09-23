@@ -7,10 +7,10 @@ how do we find $\frac{d}{dx}\sqrt{ x^{3}+x }$?
 Let $f(x)=\sqrt{ x^{3}+x }$. It turns out $f(x)$ is a composition of two functions. So $f(u)=\sqrt{ u }$ and $u=x^{3}+x$; meaning $f(x)=f(u(x))$.
 
 $$
-\begin{align}
-f'(u)=\frac{1}{2}u^{-1/2} \\
-u'(x)=3x^{2}+1
-\end{align}
+\begin{array}{l} \\
+f(u)=\sqrt{ u } & u=x^{3}+x \\
+f'(u)=\frac{1}{2}u^{-1/2} & u'(x)=3x^{2}+1
+\end{array}
 $$
 ***Def***: Suppose $f(x)$ and $g(x)$ are differentiable functions. Then:
 $$
@@ -20,7 +20,7 @@ or:
 $$
 \frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx}  
 $$
-The derivative of $\frac{d}{dx}\sqrt{ x^{3}+x }$ is:
+So the derivative of $\frac{d}{dx}\sqrt{ x^{3}+x }$ is:
 $$
 \frac{3x^{2}+1}{2\sqrt{ x^{3}+1 }}
 $$

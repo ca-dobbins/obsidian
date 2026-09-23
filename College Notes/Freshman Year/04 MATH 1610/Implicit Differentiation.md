@@ -18,7 +18,9 @@ $$
 $$
 If we take the equation solved for $y$, we get the same derivative:
 $$
-y'=\pm \frac{1}{2}(25-x^{2})^{-\frac{1}{2}}(2x)
+\begin{array}{l}
+y=\pm \sqrt{ 25-x^{2} } & y'=\pm \frac{1}{2}(25-x^{2})^{-\frac{1}{2}}(2x)
+\end{array}
 $$
 ##### Example(s):
 A.
