@@ -60,6 +60,7 @@ $$
 b/c
 
 $$
+\large
 \begin{align}
 f(x)=\sin x \\
 f'(x)=\cos x \\
