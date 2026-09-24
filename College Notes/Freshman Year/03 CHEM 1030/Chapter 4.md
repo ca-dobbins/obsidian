@@ -115,8 +115,8 @@ $$
 ***Ionic***
 $$
 \begin{array}{l} \\
-\text{Sodium Fluoride} & \to & \ce{} \\
-\text{Aluminum Sulfide} & \to & \ce{} \\
+\text{Sodium Fluoride} & \to & \ce{NaF} \\
+\text{Aluminum Sulfide} & \to & \ce{Al} \\
 \text{Lead(IV) Chloride} & \to & \ce{} \\
 \text{Potassium Oxide} & \to & \ce{}
 
