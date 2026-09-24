@@ -14,11 +14,20 @@ $$
 $$
 \frac{d}{dx}\log_{b}u=\frac{1}{u\ln b}\frac{du}{dx}  
 $$
-More spec:
+More specifically:
 $$
 \frac{d}{dx}\ln(u)=\frac{1}{u}\frac{dy}{dx}  
 $$
 ##### Example(s):
+
+$$
+\frac{d}{dx}\log_{2}(x^{3}+\cos x)=\frac{3x^{2}-\sin x }{(x^{3}+\cos x)\ln2}
+$$
+
+$$
+\frac{d}{dx}\ln(x^{2}+\arctan x)=\frac{2x+\frac{1}{1+x^{2}}}{x^{2}+\arctan x} 
+$$
+
 
 ### Main Idea 2
 *subtitle*
