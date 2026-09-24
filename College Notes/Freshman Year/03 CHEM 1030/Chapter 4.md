@@ -173,6 +173,8 @@ $$
 \end{array}
 $$
 ### Molar Mass
+The Molar Mass + Avagadro's # can be used to determine the # of atoms in a given mass of an element.
+
 Calculate the Molar Mass of Glucose $\ce{C6H12O6}$:
 
 $$
