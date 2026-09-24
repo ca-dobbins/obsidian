@@ -108,6 +108,13 @@ $$
 $$
 ![[Pasted image 20260924090127.png]]
 #### Covalent
+compounds of non-metals are made of individual molecule units
+
+Rules for naming:
+1. use prefix for both elements
+2. the first element keeps its elemental name
+3. add -ide to the root of the second element
+4. name elements in the same order that they are written
 
 ***Electrons***
 - electrons that are shared are called bonding pairs
@@ -116,10 +123,11 @@ $$
 ***Double and Triple Bonds***
 when two atoms share two pairs of electrons, the result is a double covalent bond.
 - 4 electrons
-- elements that can doble-bond with themselves and each other
+- elements that can double-bond with themselves and each other
 	- $\ce{C,N,O,S,P}$ 
 similarly when three pairs are shared, the result is a triple covalent bond
 - 6 electrons
+- elements that can triple-bond with themselves and each other
 	- $\ce{C,N,O,S}$ 
 
 ##### Example(s):
@@ -147,12 +155,12 @@ $$
 $$
 \begin{array}{c} \\
 \text{Formula} & | & \text{Name} \\
-\ce{NI3} & | & \text{} \\
-\ce{} & | & \text{Tetraphosphorus Decasulfide} \\
-\ce{PCl5} & | & \text{} \\
-\ce{} & | & \text{Dihydrogen Monoxide} \\
-\ce{N2O5} & | & \text{} \\
-\ce{} & | & \text{Carbon Dioxide}
+\ce{NI3} & | & \text{Nitrogen Triodide} \\
+\ce{P4S10} & | & \text{Tetraphosphorus Decasulfide} \\
+\ce{PCl5} & | & \text{Phosphorus Pentachloride} \\
+\ce{H2O} & | & \text{Dihydrogen Monoxide} \\
+\ce{N2O5} & | & \text{Dinitrogen Pentaoxide} \\
+\ce{C} & | & \text{Carbon Dioxide}
 
 \end{array}
 $$
