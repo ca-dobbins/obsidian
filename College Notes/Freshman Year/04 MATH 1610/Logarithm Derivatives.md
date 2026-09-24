@@ -35,7 +35,7 @@ Recall Log Rules:
 1. $\ln(ab)=\ln (a)+\ln (b)$
 2. $\ln\left( \frac{a}{b} \right)=\ln(a)-\ln(b)$
 3. $\ln(a^b)=b\ln(a)$
-To make a disgusting function easier, just take the $\ln$ of both sides.
+To make a disgusting log function easier, just use the log rules to split it up and make it easier.
 $$
 \begin{array}{c} \\
 \large
@@ -43,7 +43,7 @@ $$
 \Large=\frac{2x}{x^{2}+1}-\frac{1}{2}\left( \frac{3x^{2}}{x^{3}-1} \right)
 \end{array}
 $$
-
+or, alternatively for a regular function, take the log of both sides and use log rules to clean it up.
 ##### Example(s):
 
 $$
