@@ -80,7 +80,20 @@ There are two types that ionic bonds can be categorized in,
 1. Metal forms only one type of ion -> charge remains the same while forming bond
 2. Metal forms more than one type of ion -> metals that vary in charge from one compound to another
 The rules for naming ionic compounds are as follows:
-- the metal is names  
+- the metal is named first and it keeps its elemental name
+- if the metal can have more than one charge, report it as a roman numeral
+- non-metal is named second
+- add -ide to the root of the non-metal
+$$
+\begin{array}{l} \\
+\text{Formula Unit} & \text{Name} \\
+\ce{NaCl} & \text{Sodium Chloride} \\
+\ce{AlCl3} & \text{} \\
+\ce{FeS} & \text{} \\
+\ce{CuO} & \text{}
+\end{array}
+$$
+
 #### Covalent
 
 ##### Example(s):
