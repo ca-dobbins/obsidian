@@ -104,7 +104,13 @@ $$
 
 
 ##### Example(s):
-Sodium Fluoride    -> $\ce{}$
-Aluminum Sulfide  -> $\ce{}$ 
-Lead (IV) Chloride -> $\ce{}$ 
-Potassium Oxide   -> $\ce{}$ 
+
+$$
+\begin{array}{l} \\
+\text{Sodium Fluoride} & \to & \ce{} \\
+\text{Aluminum Sulfide} & \to & \ce{} \\
+\text{Lead(IV) Chloride} & \to & \ce{} \\
+\text{Potassium Oxide} & \to & \ce{}
+
+\end{array}
+$$
