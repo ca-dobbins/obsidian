@@ -52,11 +52,21 @@ $\ce{CH2O}$ -> Molecular
 *put lewis dot structures here from written notes*
 
 #### Octet Rule
-- basically elements like to have 8 valence electrons when bonded, 
+- basically elements like to have 8 valence electrons when bonded, with some exceptions:
+	- expanded octets
+	- hydrogen (forms a duet)
+	- boron forms incomplete octets with 3 bonds and 6 total electrons
+	- *non-metal row 2 elements must obey the octet rule*
 ##### Example(s):
+![[Pasted image 20260924083849.png]]
+
 
 ### Energy
 *subtitle*
 - when anions and cations form a structure, they release energy and form a crystal lattice
 	- held by electrostatic attraction
+	- ***Lattice energy***: the energy released when one mole of an ionic compound forms from free ions in the gas phase
+$$
+\ce{Na+(g) + Cl-(g)->NaCl}
+$$
 ##### Example(s):
