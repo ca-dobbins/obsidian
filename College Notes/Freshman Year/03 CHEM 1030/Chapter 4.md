@@ -110,7 +110,8 @@ $$
 #### Covalent
 
 ***Electrons***
-
+- electrons that are shared are called bonding pairs
+- electrons not shared but 
 ***Double and Triple Bonds***
 
 
