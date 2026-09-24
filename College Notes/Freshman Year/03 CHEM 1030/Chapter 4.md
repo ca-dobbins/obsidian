@@ -67,6 +67,16 @@ $\ce{CH2O}$ -> Molecular
 	- held by electrostatic attraction
 	- ***Lattice energy***: the energy released when one mole of an ionic compound forms from free ions in the gas phase
 $$
-\ce{Na+(g) + Cl-(g)->NaCl}
+\ce{Na+(g) + Cl-(g)->NaCl(s) + energy}
 $$
+	- *in essence*:
+		- greater charges = larger lattice energy
+		- smaller radius = larger lattice energy
+##### Example(s):
+
+### Naming Bonds
+#### Ionic
+
+#### Covalent
+
 ##### Example(s):
