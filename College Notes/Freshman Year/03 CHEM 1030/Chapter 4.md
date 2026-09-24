@@ -117,7 +117,7 @@ $$
 ##### Example(s):
 ***Ionic***
 $$
-\begin{array}{l} \\
+\begin{array}{l} 
 \text{Sodium Fluoride} & \to & \ce{NaF} \\
 \text{Aluminum Sulfide} & \to & \ce{Al2S3} \\
 \text{Lead(IV) Chloride} & \to & \ce{PbCl4} \\
@@ -128,7 +128,7 @@ $$
 ***Polyatomic***
 $$
 \begin{array}{c} \\
-\text{} \\
+\text{Formula} & | & \text{Name} \\
 \ce{K3PO4} & | & \text{Potassium Phosphate} \\
 \ce{Mg(CN)2} & | & \text{Magnesium Cyanide} \\
 \ce{NaOH} & | & \text{Sodium Hydroxide} \\
