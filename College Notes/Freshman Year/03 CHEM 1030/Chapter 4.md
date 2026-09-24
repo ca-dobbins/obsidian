@@ -93,7 +93,7 @@ The rules for naming ionic compounds are as follows:
 - non-metal is named second
 - add -ide to the root of the non-metal
 $$
-\begin{array}{l} \\
+\begin{array}{c} \\
 \text{Formula Unit} & | &  \text{Name} \\
 \ce{NaCl} & | & \text{Sodium Chloride} \\
 \ce{AlCl3} & | & \text{Aluminum Chloride} \\
@@ -116,15 +116,15 @@ $$
 $$
 \begin{array}{l} \\
 \text{Sodium Fluoride} & \to & \ce{NaF} \\
-\text{Aluminum Sulfide} & \to & \ce{Al} \\
-\text{Lead(IV) Chloride} & \to & \ce{} \\
-\text{Potassium Oxide} & \to & \ce{}
+\text{Aluminum Sulfide} & \to & \ce{Al2S3} \\
+\text{Lead(IV) Chloride} & \to & \ce{PbCl4} \\
+\text{Potassium Oxide} & \to & \ce{K2O}
 
 \end{array}
 $$
 ***Covalent***
 $$
-\begin{array}{l} \\
+\begin{array}{c} \\
 \text{Formula} & | & \text{Name} \\
 \ce{NI3} & | & \text{} \\
 \ce{} & | & \text{Tetraphosphorus Decasulfide} \\
