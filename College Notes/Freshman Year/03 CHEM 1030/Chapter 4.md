@@ -111,9 +111,16 @@ $$
 
 ***Electrons***
 - electrons that are shared are called bonding pairs
-- electrons not shared but 
+- electrons not shared but belong to a particular atom are called lone pairs
+*when two atoms share one pair of electrons, the result is a single covalent bond*
 ***Double and Triple Bonds***
-
+when two atoms share two pairs of electrons, the result is a double covalent bond.
+- 4 electrons
+- elements that can doble-bond with themselves and each other
+	- $\ce{C,N,O,S,P}$ 
+similarly when three pairs are shared, the result is a triple covalent bond
+- 6 electrons
+	- $\ce{C,N,O,S}$ 
 
 ##### Example(s):
 ***Ionic***
