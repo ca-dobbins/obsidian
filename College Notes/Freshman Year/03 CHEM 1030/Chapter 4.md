@@ -115,7 +115,15 @@ Rules for naming:
 2. the first element keeps its elemental name
 3. add -ide to the root of the second element
 4. name elements in the same order that they are written
-
+$$
+\begin{array}{l}
+\text{Mono-} & 1 & | & \text{Hexa-} & 6 \\
+\text{Di-} & 2 & | & \text{Hepta-} & 7  \\
+\text{Tri-} & 3 & | & \text{Octa-} & 8  \\
+\text{Tetra-} & 4 & | & \text{Nona-} & 9  \\
+\text{Penta-} & 5 & | & \text{Deca-} & 10 
+\end{array}
+$$
 ***Electrons***
 - electrons that are shared are called bonding pairs
 - electrons not shared but belong to a particular atom are called lone pairs
@@ -160,7 +168,13 @@ $$
 \ce{PCl5} & | & \text{Phosphorus Pentachloride} \\
 \ce{H2O} & | & \text{Dihydrogen Monoxide} \\
 \ce{N2O5} & | & \text{Dinitrogen Pentaoxide} \\
-\ce{C} & | & \text{Carbon Dioxide}
+\ce{CO2} & | & \text{Carbon Dioxide}
 
 \end{array}
+$$
+### Molar Mass
+Calculate the Molar Mass of Glucose $\ce{C6H12O6}$:
+
+$$
+
 $$
