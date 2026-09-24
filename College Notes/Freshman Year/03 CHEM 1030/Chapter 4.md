@@ -97,7 +97,11 @@ $$
 
 ![[Pasted image 20260924090127.png]]
 #### Covalent
+***Electrons***
 
+***Double and Triple Bonds***
+
+Rules for 
 ##### Example(s):
 Sodium Fluoride    -> $\ce{}$
 Aluminum Sulfide  -> $\ce{}$ 
