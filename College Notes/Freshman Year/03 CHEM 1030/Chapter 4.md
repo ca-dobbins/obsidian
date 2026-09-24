@@ -73,7 +73,14 @@ $$
 		- greater charges = larger lattice energy
 		- smaller radius = larger lattice energy
 ##### Example(s):
-
+$$
+\begin{array}{l}
+\ce{LiF} & \to & \text{} \\
+\ce{NaF} & \to & \text{} \\
+\ce{NaCl} & \to & \text{} \\
+\ce{MgO} & \to & \text{greatest lattice energy}
+\end{array}
+$$
 
 ### Naming Bonds
 #### Ionic
