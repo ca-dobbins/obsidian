@@ -60,9 +60,10 @@ $$
 ### Inverse Trig
 *subtitle*
 Let $y=\arcsin(x)$ (also known as $x=\sin(y),-\frac{\pi}{2}\leq y\leq \frac{\pi}{2}$) and differentiate it:
-$$\begin{array}{l}
+$$\begin{array}{c}
 \large
-\frac{dy}{dx}=\frac{1}{\cos y}
+\frac{dy}{dx}=\frac{1}{\cos y} \\
+=\frac{1}{\sqrt{ 1-x^{2} }},\cos(y)=\sqrt{ 1-\sin ^{2}(y) },x=\sin y
 \end{array} 
 $$
 $$
