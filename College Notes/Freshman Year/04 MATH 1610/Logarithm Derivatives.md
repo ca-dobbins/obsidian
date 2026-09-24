@@ -5,7 +5,7 @@ Suggested HW: 1-40, 45-58, 63-78
 *subtitle*
 Suppose $y=\log_{b}x$, $(b>0)$. What is $\frac{dy}{dx}$? This is equivalent to $x=b^y$ which is another implicit function.
 $$\large\begin{array}{c}
-b^y\ln(b)\frac{dy}{dx}=1 \\
+b^y\ln(b)\frac{dy}{dx}=1 \\ 
 \frac{dy}{dx}=\frac{1}{x\ln b} 
 \end{array} 
 $$
@@ -36,7 +36,19 @@ Recall Log Rules:
 2. $\ln\left( \frac{a}{b} \right)=\ln(a)-\ln(b)$
 3. $\ln(a^b)=b\ln(a)$
 
+$$
+\begin{array}{c} \\
+\large
+\ln\left( \frac{x^{2}+1}{\sqrt{ x^{3}-1 }} \right)=\ln(x^{2}+1)-\ln(\sqrt{ x^{3}-1 }) \\
+\Large=\frac{2x}{x^{2}+1}-\frac{1}{2}\left( \frac{3x^{2}}{x^{3}-1} \right)
+\end{array}
+$$
+
 ##### Example(s):
+
+$$
+y=\frac{(x^{2}+x^5)\sqrt[7]{ x^{3}+\tan x }}{(\csc ^{2}(x))(6^{\sin x})}
+$$
 
 ### Main Idea 3
 *subtitle*
