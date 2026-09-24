@@ -93,7 +93,13 @@ $$
 \ce{CuO} & \text{}
 \end{array}
 $$
+***Polyatomic Ions***
 
+![[Pasted image 20260924090127.png]]
 #### Covalent
 
 ##### Example(s):
+Sodium Fluoride    -> $\ce{}$
+Aluminum Sulfide  -> $\ce{}$ 
+Lead (IV) Chloride -> $\ce{}$ 
+Potassium Oxide   -> $\ce{}$ 
