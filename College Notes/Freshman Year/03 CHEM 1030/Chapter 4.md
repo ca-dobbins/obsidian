@@ -76,7 +76,11 @@ $$
 
 ### Naming Bonds
 #### Ionic
-
+There are two types that ionic bonds can be categorized in,
+1. Metal forms only one type of ion -> charge remains the same while forming bond
+2. Metal forms more than one type of ion -> metals that vary in charge from one compound to another
+The rules for naming ionic compounds are as follows:
+- the metal is names  
 #### Covalent
 
 ##### Example(s):
