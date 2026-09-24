@@ -102,7 +102,10 @@ $$
 \end{array}
 $$
 ***Polyatomic Ions***
-
+These are named the same as simple ions, except that the name of the polyatomic ion is used:
+$$
+\ce{NaNO3->\text{Sodium Nitrate}}
+$$
 ![[Pasted image 20260924090127.png]]
 #### Covalent
 
