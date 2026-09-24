@@ -96,9 +96,9 @@ $$
 \begin{array}{l} \\
 \text{Formula Unit} & | &  \text{Name} \\
 \ce{NaCl} & | & \text{Sodium Chloride} \\
-\ce{AlCl3} & | & \text{} \\
-\ce{FeS} & | & \text{} \\
-\ce{CuO} & | & \text{}
+\ce{AlCl3} & | & \text{Aluminum Chloride} \\
+\ce{FeS} & | & \text{Iron (II) Sulfide} \\
+\ce{CuO} & | & \text{Copper (II) Oxide}
 \end{array}
 $$
 ***Polyatomic Ions***
