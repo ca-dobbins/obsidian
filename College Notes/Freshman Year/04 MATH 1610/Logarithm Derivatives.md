@@ -35,7 +35,7 @@ Recall Log Rules:
 1. $\ln(ab)=\ln (a)+\ln (b)$
 2. $\ln\left( \frac{a}{b} \right)=\ln(a)-\ln(b)$
 3. $\ln(a^b)=b\ln(a)$
-
+To make a disgusting function easier, just take the $\ln$ of both sides.
 $$
 \begin{array}{c} \\
 \large
