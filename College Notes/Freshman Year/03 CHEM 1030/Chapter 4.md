@@ -71,7 +71,7 @@ $$
 $$
 	- *in essence*:
 		- greater charges = larger lattice energy
-		- smaller radius = larger lattice energy*
+		- smaller radius = larger lattice energy
 ##### Example(s):
 
 ### Naming Bonds
@@ -104,13 +104,27 @@ $$
 
 
 ##### Example(s):
-
+***Ionic***
 $$
 \begin{array}{l} \\
 \text{Sodium Fluoride} & \to & \ce{} \\
 \text{Aluminum Sulfide} & \to & \ce{} \\
 \text{Lead(IV) Chloride} & \to & \ce{} \\
 \text{Potassium Oxide} & \to & \ce{}
+
+\end{array}
+$$
+***Covalent***
+
+$$
+\begin{array}{l} \\
+\text{Formula} & | & \text{Name} \\
+\ce{NI3} & | & \text{} \\
+\ce{} & | & \text{Tetraphosphorus Decasulfide} \\
+\ce{PCl5} & | & \text{} \\
+\ce{} & | & \text{Dihydrogen Monoxide} \\
+\ce{N2O5} & | & \text{} \\
+\ce{} & | & \text{Carbo}
 
 \end{array}
 $$
