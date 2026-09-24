@@ -163,11 +163,11 @@ $$
 $$
 \begin{array}{c} \\
 \text{Formula} & | & \text{Name} \\
-\ce{NI3} & | & \text{Nitrogen Triodide} \\
+\ce{NI3} & | & \text{Nitrogen Triiodide} \\
 \ce{P4S10} & | & \text{Tetraphosphorus Decasulfide} \\
 \ce{PCl5} & | & \text{Phosphorus Pentachloride} \\
 \ce{H2O} & | & \text{Dihydrogen Monoxide} \\
-\ce{N2O5} & | & \text{Dinitrogen Pentaoxide} \\
+\ce{N2O5} & | & \text{Dinitrogen Pentoxide} \\
 \ce{CO2} & | & \text{Carbon Dioxide}
 
 \end{array}
@@ -176,7 +176,11 @@ $$
 The Molar Mass + Avagadro's # can be used to determine the # of atoms in a given mass of an element.
 
 Calculate the Molar Mass of Glucose $\ce{C6H12O6}$:
-
 $$
-
+\begin{array}{}
+\ce{C6:12.011*6}=72.06 \frac{g}{mol} \\
+\ce{H12:4.003*12}=12.12 \\
+\ce{O6:15.999*6} \\
+=
+\end{array}
 $$
