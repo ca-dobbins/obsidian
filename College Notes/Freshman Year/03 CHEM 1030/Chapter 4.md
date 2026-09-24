@@ -50,6 +50,9 @@ $\ce{CH2O}$ -> Molecular
 #### Lewis Electron Dot Structures
 - depicts the structural formula with its **valence** electrons
 *put lewis dot structures here from written notes*
+
+#### Octet Rule
+- basically elements like to have 8 valence electrons when bonded, 
 ##### Example(s):
 
 ### Energy
