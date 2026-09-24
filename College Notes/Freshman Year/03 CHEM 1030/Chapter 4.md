@@ -74,6 +74,7 @@ $$
 		- smaller radius = larger lattice energy
 ##### Example(s):
 
+
 ### Naming Bonds
 #### Ionic
 There are two types that ionic bonds can be categorized in,
@@ -115,7 +116,6 @@ $$
 \end{array}
 $$
 ***Covalent***
-
 $$
 \begin{array}{l} \\
 \text{Formula} & | & \text{Name} \\
@@ -124,7 +124,7 @@ $$
 \ce{PCl5} & | & \text{} \\
 \ce{} & | & \text{Dihydrogen Monoxide} \\
 \ce{N2O5} & | & \text{} \\
-\ce{} & | & \text{Carbo}
+\ce{} & | & \text{Carbon Dioxide}
 
 \end{array}
 $$
