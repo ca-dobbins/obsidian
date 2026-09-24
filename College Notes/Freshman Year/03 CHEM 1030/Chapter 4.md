@@ -179,8 +179,8 @@ Calculate the Molar Mass of Glucose $\ce{C6H12O6}$:
 $$
 \begin{array}{}
 \ce{C6:12.011*6}=72.06 \frac{g}{mol} \\
-\ce{H12:4.003*12}=12.12 \\
-\ce{O6:15.999*6} \\
-=
+\ce{H12:4.003*12}=12.12 \frac{g}{mol} \\
+\ce{O6:15.999*6}=96 \frac{g}{mol} \\
+=180.18 \frac{g}{mol}
 \end{array}
 $$
