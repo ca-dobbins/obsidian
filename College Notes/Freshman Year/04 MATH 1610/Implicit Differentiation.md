@@ -59,6 +59,8 @@ $$
 
 ### Inverse Trig
 *subtitle*
+Let $y=\arcsin(x)$ (also known as $x=\sin(y),-\frac{\pi}{2}\leq$) and differentiate it:
+
 $$
 \Large
 \begin{array}{l}
