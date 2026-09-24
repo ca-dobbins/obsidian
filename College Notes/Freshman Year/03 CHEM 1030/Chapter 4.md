@@ -71,7 +71,7 @@ $$
 $$
 	- *in essence*:
 		- greater charges = larger lattice energy
-		- smaller radius = larger lattice energy
+		- smaller radius = larger lattice energy*
 ##### Example(s):
 
 ### Naming Bonds
@@ -86,11 +86,11 @@ The rules for naming ionic compounds are as follows:
 - add -ide to the root of the non-metal
 $$
 \begin{array}{l} \\
-\text{Formula Unit} & \text{Name} \\
-\ce{NaCl} & \text{Sodium Chloride} \\
-\ce{AlCl3} & \text{} \\
-\ce{FeS} & \text{} \\
-\ce{CuO} & \text{}
+\text{Formula Unit} & | &  \text{Name} \\
+\ce{NaCl} & | & \text{Sodium Chloride} \\
+\ce{AlCl3} & | & \text{} \\
+\ce{FeS} & | & \text{} \\
+\ce{CuO} & | & \text{}
 \end{array}
 $$
 ***Polyatomic Ions***
