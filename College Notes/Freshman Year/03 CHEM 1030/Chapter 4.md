@@ -125,6 +125,16 @@ $$
 
 \end{array}
 $$
+***Polyatomic***
+$$
+\begin{array}{c} \\
+\text{} \\
+\ce{K3PO4} & | & \text{Potassium Phosphate} \\
+\ce{Mg(CN)2} & | & \text{Magnesium Cyanide} \\
+\ce{NaOH} & | & \text{Sodium Hydroxide} \\
+\ce{Ca(CH3COO)2} & | & \text{Calcium Acetate}
+\end{array}
+$$
 ***Covalent***
 $$
 \begin{array}{c} \\
