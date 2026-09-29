@@ -9,6 +9,12 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 - pure cov: equal sharing of $e^-$
 - polar cov: unequal sharing
 - ionic: one atom "owns" electrons, no sharing
+
+***Dipole Moment*** $\mu$:
+- material with + and - end
+- directly prop. to size of partial charges (q)
+- directly prop to distance (r)
+- $\mu=qr$
 ##### Example(s):
 
 ### Main Idea 2
