@@ -1,8 +1,9 @@
 # Topic: 3.9
 Date: 2026-09-29
-Suggested HW:
-### 
+Suggested HW: 1-33
+### Technique
 *subtitle*
+
 
 ##### Example(s):
 
