@@ -1,7 +1,7 @@
 [
   "obsidian-git",
   "obsidian-latex-suite",
-  "notebook-navigator",
   "obsidian-style-settings",
-  "inline-tikz"
+  "inline-tikz",
+  "notebook-navigator"
 ]
