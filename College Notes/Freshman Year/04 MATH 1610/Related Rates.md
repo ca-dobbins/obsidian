@@ -39,10 +39,16 @@ $$
 \begin{array}{c}
 \text{Given:}  & h=3 & \frac{dV}{dt}=2 \\
 \text{Find:} & \frac{dh}{dt}  \\
-\text{Equation} &  
+\text{Equation} & V=\frac{1}{3}\pi r^{2}h 
 \end{array}
 $$
+however we don't know $\frac{dr}{dt}$, so we should replace $r$ in terms of $h$. And drawing a picture reveals similar triangles
+$$
+\frac{r}{h}=
+$$
+$$
 
+$$
 ##### Example(s):
 
 ### Main Idea 3
