@@ -42,12 +42,15 @@ $$
 \text{Equation} & V=\frac{1}{3}\pi r^{2}h 
 \end{array}
 $$
-however we don't know $\frac{dr}{dt}$, so we should replace $r$ in terms of $h$. And drawing a picture reveals similar triangles
+however we don't know $\frac{dr}{dt}$, so we should replace $r$ in terms of $h$. And drawing a picture (put the picture here) reveals similar triangles
 $$
-\frac{r}{h}=
+\frac{r}{h}=\frac{2}{4}\to r=\frac{1}{2}h
 $$
-$$
-
+So,
+$$\begin{array}{}
+V=\frac{\pi}{12}h^{3} & \frac{dV}{dt}=\frac{\pi}{4}h^{2}\frac{dh}{dt} \\
+\text{Find:}\frac{dh}{dt} & \frac{dh}{dt}=\frac{8}{9\pi}    
+\end{array}
 $$
 ##### Example(s):
 
