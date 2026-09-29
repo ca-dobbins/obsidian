@@ -24,7 +24,8 @@ $$
 \begin{array}{c}
 r=25cm & \frac{dV}{dt}=100 & \text{Find:} \frac{dr}{dt} \\
 V=\frac{4}{3}\pi r^{3} \\
-\frac{dV}{dt}=4\pi r^{2}\frac{dr}{dt}
+\frac{dV}{dt}=4\pi r^{2}\frac{dr}{dt} & \text{so,} & \frac{dr}{dt} =\frac{\frac{dV}{dt}}{4\pi r^{2}} \\
+ & =\frac{1}{25\pi} \frac{cm}{s} 
 \end{array}
 $$
 
