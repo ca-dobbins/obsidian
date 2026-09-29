@@ -17,9 +17,14 @@ Steps:
 
 ##### Example(s):
 Air is being pumped into a spherical balloon so that its volume is increasing at a rate of $100 \frac{cm^{3}}{s}$ How fast is the radius increasing when the diameter of the balloon is $50cm$? 
+$r$ is radius
+$V$ is volume
+$d$ is diameter
 $$
-\begin{array}{l}
-
+\begin{array}{c}
+r=25cm & \frac{dV}{dt}=100 & \text{Find:} \frac{dr}{dt} \\
+V=\frac{4}{3}\pi r^{3} \\
+\frac{dV}{dt}=4\pi r^{2}\frac{dr}{dt}
 \end{array}
 $$
 
