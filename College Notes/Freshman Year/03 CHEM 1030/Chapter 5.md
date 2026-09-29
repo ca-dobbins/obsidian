@@ -1,9 +1,11 @@
 # Topic: Chemical Bonding
 Date: 2026-09-29
 
-### Bonds
+### Bond Polarity
 *subtitle*
+covalent bonding results in unequal sharing resulting in a polar cov bond, resulting in: $\delta^-$, a partial negative
 
+![[Pasted image 20260929102158.png]]
 
 ##### Example(s):
 
