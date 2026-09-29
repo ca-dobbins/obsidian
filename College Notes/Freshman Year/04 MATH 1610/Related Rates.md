@@ -12,9 +12,16 @@ Steps:
 5. Note required rate/your unknown as a derivative
 6. Find an equation that relates everything
 	1. you may need a substitution if they are errant variables
-7. Use the [[Chain Rule]] to diffe
+7. Use the [[Chain Rule]] to differentiate the equation with respect to time
+8. Solve for the desired rate.
 
 ##### Example(s):
+Air is being pumped into a spherical balloon so that its volume is increasing at a rate of $100 \frac{cm^{3}}{s}$ How fast is the radius increasing when the diameter of the balloon is $50cm$? 
+$$
+\begin{array}{l}
+
+\end{array}
+$$
 
 ### Main Idea 2
 *subtitle*
