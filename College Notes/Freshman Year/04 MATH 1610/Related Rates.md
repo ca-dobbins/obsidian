@@ -29,8 +29,9 @@ V=\frac{4}{3}\pi r^{3} \\
 \end{array}
 $$
 
-### Main Idea 2
+### Substituting
 *subtitle*
+A water tank has the shape of an inverted circular cone with base diameter and the height are 4m. Water is p
 
 ##### Example(s):
 
