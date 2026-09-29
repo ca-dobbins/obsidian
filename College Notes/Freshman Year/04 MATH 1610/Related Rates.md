@@ -31,7 +31,17 @@ $$
 
 ### Substituting
 *subtitle*
-A water tank has the shape of an inverted circular cone with base diameter and the height are 4m. Water is p
+A water tank has the shape of an inverted circular cone with base diameter and the height are 4m. Water is pumped in at a rate of $2 \frac{m^{3}}{min}$. How fast is the water level rising when the water is 3m deep?
+$r$ is water base radius
+$h$ is water depth
+$V$ is water volume
+$$
+\begin{array}{c}
+\text{Given:}  & h=3 & \frac{dV}{dt}=2 \\
+\text{Find:} & \frac{dh}{dt}  \\
+\text{Equation} &  
+\end{array}
+$$
 
 ##### Example(s):
 
