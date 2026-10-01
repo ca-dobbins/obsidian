@@ -25,7 +25,9 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 	1. $\ce{CO2 ->16e^-}$
 	2. *all atoms and charges*
 2. Arrange atoms:
-	1. generally less $e^-$-negative atom (except H) goes in the 
+	1. generally less $e^-$-negative atom (except H) goes in the middle
+3. Distribute $e^-$ among the atoms
+4. If any atoms lack an octet, form double/triple bonds to form octets
 
 ##### Example(s):
 
