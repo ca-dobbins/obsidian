@@ -20,7 +20,12 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 
 ### Lewis Structures
 *recall: [[Chapter 4#Octet Rule|Octet Rule]]*
-
+***Steps for drawing lewis structures***
+1. Determine total valence $e^-$
+	1. $\ce{CO2 ->16e^-}$
+	2. *all atoms and charges*
+2. Arrange atoms:
+	1. generally less $e^-$-negative atom (except H) goes in the 
 
 ##### Example(s):
 
