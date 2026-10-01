@@ -39,6 +39,13 @@ when 2+ valid lewis structures can be drawn for the same compound
 
 #### Formal Charge
 allows us to discriminate between lewis structures
+***Rules***
+1. the sum of all formal charges in a neutral molecule must be zero
+2. the sum of all formal charges in an ion must = the ion
+3. small/zero formal charges on individual atoms are better than large ones
+4. negative formal charge must reside on the most electronegative
+
+FC
 
 ##### Example(s):
 
