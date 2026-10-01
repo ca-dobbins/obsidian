@@ -1,4 +1,5 @@
-1: one derivative q (15pts) - USING LIMIT DEF
+1: 
+	one derivative q (15pts) - USING LIMIT DEF
 	IVT q (10pt)
 	literaly read a graph 5q (5pts/ea)
 	find limits 3q (10pts/ea)
@@ -6,3 +7,11 @@
 	V.A q (10pts)
 	misc q (10pts)
 	=110/100
+
+2:
+	6 explicit differentiation (60pts total)
+	1 related rates
+	1 linearization/differential
+	1 log differentiation 
+	1 implicit
+	1 misc
