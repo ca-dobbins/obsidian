@@ -8,6 +8,12 @@ $$
 f'(4)=\frac{1}{2\sqrt{ 2 }}=\frac{1}{4}
 $$
 Therefore tangent line is $y=\frac{x}{4}+1$. We can say that if $x\approx4$, then $\sqrt{ x }\approx \frac{x}{4}+1$.
+
+The line tangent to the curve $f(x)$ at $x=a$ is:
+$$
+L(x)=f'(a)(x-a)+f(a)
+$$
+
 ##### Example(s):
 
 ### Main Idea 2
