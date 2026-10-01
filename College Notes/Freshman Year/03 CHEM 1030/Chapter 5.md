@@ -18,8 +18,9 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 - $\mu=qr$
 ##### Example(s):
 
-### Main Idea 2
-*subtitle*
+### Lewis Structures
+*recall: [[Chapter 4#Octet Rule|Octet Rule]]*
+
 
 ##### Example(s):
 
