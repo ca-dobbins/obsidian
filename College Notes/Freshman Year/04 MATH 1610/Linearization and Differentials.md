@@ -24,7 +24,18 @@ dy=f'(x)dx
 $$
 
 ##### Example(s):
-
+A. $y=\sqrt{ x }$
+$$
+dy=\frac{1}{2\sqrt{ x }}dx
+$$
+For $\sqrt{ 4.05 }$, which is $x=4$ and $dx=0.05$:
+$$
+dy=\frac{1}{2\sqrt{ 4 }}(.05)=0.0125
+$$
+And plugging in:
+$$
+\sqrt{ 4.05 }\approx f'(4)+(0.0125)
+$$
 ### Main Idea 3
 *subtitle*
 
