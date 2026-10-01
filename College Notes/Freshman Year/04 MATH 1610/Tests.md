@@ -10,8 +10,9 @@
 
 2:
 	6 explicit differentiation (60pts total)
-	1 related rates
-	1 linearization/differential
-	1 log differentiation 
-	1 implicit
-	1 misc
+	1 related rates (10pts)
+	1 linearization/differential (10pts)
+	1 log differentiation (10pts)
+	1 implicit (10pts)
+	1 misc (table of values maybe) (10pts)
+	=110/100
