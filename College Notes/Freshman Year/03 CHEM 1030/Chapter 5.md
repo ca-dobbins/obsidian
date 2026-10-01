@@ -45,7 +45,7 @@ allows us to discriminate between lewis structures
 3. small/zero formal charges on individual atoms are better than large ones
 4. negative formal charge must reside on the most electronegative
 
-FC
+FC=(# of valence)-(# of nonbinding electrons)-(# of bonds)
 
 ##### Example(s):
 
