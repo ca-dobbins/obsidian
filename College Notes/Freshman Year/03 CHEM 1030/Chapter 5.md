@@ -31,6 +31,11 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 
 #### Resonance
 when 2+ valid lewis structures can be drawn for the same compound
+- $e^-$ are delocalized from one atom
+	- this helps to stabilize the molecule
+- resonance structure
+	- when there is more than one lewis structure for a molecule that differ only in $e^-$ position
+	- resonance hybrid: combination of the resonance forms
 
 #### Formal Charge
 allows us to discriminate between lewis structures
