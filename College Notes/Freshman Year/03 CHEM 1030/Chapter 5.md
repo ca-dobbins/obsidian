@@ -29,6 +29,8 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 3. Distribute $e^-$ among the atoms
 4. If any atoms lack an octet, form double/triple bonds to form octets
 
+#### Resonance
+
 ##### Example(s):
 
 ### Main Idea 3
