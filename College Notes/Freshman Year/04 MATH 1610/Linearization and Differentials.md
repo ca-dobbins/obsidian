@@ -13,11 +13,15 @@ The line tangent to the curve $f(x)$ at $x=a$ is:
 $$
 L(x)=f'(a)(x-a)+f(a)
 $$
-
+Which is known as the linearization of $f(x)$ at $a$.
 ##### Example(s):
 
-### Main Idea 2
+### Differential
 *subtitle*
+***Def***: Let $y=f(x)$, then the differential of $y$, written as $dy$, is defined to be:
+$$
+dy=f'(x)dx
+$$
 
 ##### Example(s):
 
