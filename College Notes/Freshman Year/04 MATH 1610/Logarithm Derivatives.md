@@ -15,7 +15,7 @@ $$
 $$
 More specifically: 
 $$
-\frac{d}{dx}\ln(u)=\frac{1}{u}\frac{dy}{dx}  
+\frac{d}{dx}\ln(u)=\frac{1}{u}\frac{du}{dx}  
 $$
 ##### Example(s):
 A. 
