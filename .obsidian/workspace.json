@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Notes/Freshman Year/02 ENGR 1110/Exam Material.md",
-                "mode": "source",
+                "file": "College Notes/Freshman Year/04 MATH 1610/Trigonometric Derivatives.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam Material"
+              "title": "Trigonometric Derivatives"
             }
           }
         ]
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College Notes/Freshman Year/04 MATH 1610/Trigonometric Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,14 +201,21 @@
   },
   "active": "f726faf02e116d6e",
   "lastOpenFiles": [
+    "College Notes/Freshman Year/04 MATH 1610/Derivatives as Functions.md",
+    "College Notes/Freshman Year/04 MATH 1610/Polynomials and Exponential Derivatives + Product and Quotient Rules.md",
+    "College Notes/Freshman Year/04 MATH 1610/Linearization and Differentials.md",
+    "College Notes/Freshman Year/04 MATH 1610/Related Rates.md",
     "College Notes/Freshman Year/04 MATH 1610/Logarithm Derivatives.md",
     "College Notes/Freshman Year/04 MATH 1610/Implicit Differentiation.md",
-    "College Notes/Freshman Year/04 MATH 1610/Related Rates.md",
-    "College Notes/Freshman Year/04 MATH 1610/Linearization and Differentials.md",
-    "College Notes/Freshman Year/04 MATH 1610/Tests.md",
     "College Notes/Freshman Year/04 MATH 1610/Chain Rule.md",
     "College Notes/Freshman Year/04 MATH 1610/Trigonometric Derivatives.md",
-    "College Notes/Freshman Year/04 MATH 1610/Polynomials and Exponential Derivatives + Product and Quotient Rules.md",
+    "College Notes/Freshman Year/04 MATH 1610/Derivatives as Rates of Change.md",
+    "College Notes/Freshman Year/04 MATH 1610/Limits at Infinity.md",
+    "College Notes/Freshman Year/04 MATH 1610/Continuity.md",
+    "College Notes/Freshman Year/04 MATH 1610/Limit Laws.md",
+    "College Notes/Freshman Year/04 MATH 1610/Limit of a Function.md",
+    "College Notes/Freshman Year/02 ENGR 1110/Exam Material.md",
+    "College Notes/Freshman Year/04 MATH 1610/Tests.md",
     "College Notes/Freshman Year/03 CHEM 1030/Chapter 5.md",
     "College Notes/Freshman Year/03 CHEM 1030/Chapter 4.md",
     "_resources/Pasted image 20261001092318.png",
