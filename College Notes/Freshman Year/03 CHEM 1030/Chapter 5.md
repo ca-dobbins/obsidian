@@ -76,8 +76,17 @@ electron groups around an atom are most stable when they are as far apart as pos
 - lone pairs = 1 group
 the steric number is used to find the arrangements of electron groups
 - linear: SN 2
+	- bond angle $180\degree$
 - trigonal planar: SN 3
+	- bond angle $120\degree$
 - tetrahedral: SN 4
+	- bond angle $109.5\degree$
 - bipyramidal: SN 5
+	- axial: on axis (top-bottom)
+	- equatorial: in the same plane
+		- angle between axial-eq $90\degree$
+		- angle between eq-eq $120\degree$
 - octahedral: SN 6
+- 
+
 ##### Example(s):
