@@ -109,6 +109,8 @@ the steric number is used to find the arrangements of electron groups
 
 ***Full Molecular Diagram***
 ![[Pasted image 20261006102839.png]]
+![[Pasted image 20261006102935.png]]
 
+#### Bond Polarity
 
 ##### Example(s):
