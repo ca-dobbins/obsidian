@@ -111,6 +111,10 @@ the steric number is used to find the arrangements of electron groups
 ![[Pasted image 20261006102839.png]]
 ![[Pasted image 20261006102935.png]]
 
-#### Bond Polarity
+#### Molecular Polarity
+needs to have:
+- polar bonds
+- unsymmetrical
+
 
 ##### Example(s):
