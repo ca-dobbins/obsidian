@@ -106,4 +106,9 @@ the steric number is used to find the arrangements of electron groups
 ***Octahedral***
 ![[Pasted image 20261006100758.png]]
 
+
+***Full Molecular Diagram***
+![[Pasted image 20261006102839.png]]
+
+
 ##### Example(s):
