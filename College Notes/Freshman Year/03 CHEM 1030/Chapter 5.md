@@ -49,8 +49,9 @@ FC=(# of valence)-(# of nonbinding electrons)-(# of bonds)
 
 ##### Example(s):
 
-### Bond Energy
+### Bonds
 *subtitle*
+#### Bond Energy
 the amount of energy that it take to break on emole of a bond in a compound:
 $$
 \Delta H=\text{(bonds broken)}-\text{(bonds formed)}
@@ -59,4 +60,14 @@ $$
 - the shorter the covalent bonds, the stronger the bond
 ![[Pasted image 20261006093821.png]]
 
+#### Bond Length
+the distance between the nuclei of bonded atoms
+- triple < double < single
+
+generally:
+- bond length decreases from left to right 
+- bond length increases down a column
+
+#### VSEPR
+electron groups around an atom are most stable when they are as far apart as possible
 ##### Example(s):
