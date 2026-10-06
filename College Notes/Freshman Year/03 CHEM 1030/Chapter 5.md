@@ -49,7 +49,14 @@ FC=(# of valence)-(# of nonbinding electrons)-(# of bonds)
 
 ##### Example(s):
 
-### Main Idea 3
+### Bond Energy
 *subtitle*
+the amount of energy that it take to break on emole of a bond in a compound:
+$$
+\Delta H=\text{(bonds broken)}-\text{(bonds formed)}
+$$
+- the more electrons two atoms share, the stronger the bond
+- the shorter the covalent bonds, the stronger the bond
+![[Pasted image 20261006093821.png]]
 
 ##### Example(s):
