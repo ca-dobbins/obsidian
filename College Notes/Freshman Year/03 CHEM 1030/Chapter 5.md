@@ -70,4 +70,14 @@ generally:
 
 #### VSEPR
 electron groups around an atom are most stable when they are as far apart as possible
+
+***Steric Number***
+- bonds to central atom = 1 group
+- lone pairs = 1 group
+the steric number is used to find the arrangements of electron groups
+- linear: SN 2
+- trigonal planar: SN 3
+- tetrahedral: SN 4
+- bipyramidal: SN 5
+- octahedral: SN 6
 ##### Example(s):
