@@ -87,6 +87,6 @@ the steric number is used to find the arrangements of electron groups
 		- angle between axial-eq $90\degree$
 		- angle between eq-eq $120\degree$
 - octahedral: SN 6
-- 
+	- bond angle $90\degree$
 
 ##### Example(s):
