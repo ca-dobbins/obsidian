@@ -56,4 +56,4 @@ ALSO if $f(x)$ has an extreme value at $x=c$, it does not necessarily mean that 
 ##### Example(s):
 $f(x)=x^{3/5}(4-x)$
 $f'(x)=-x^{3/5}+(4-x)\left(  \frac{3}{5}x^{-2/5}  \right)$
-$0=\frac{12-8x}{5x^{2/5}}$, so the criti
+$0=\frac{12-8x}{5x^{2/5}}$, so the critical numbers are $x=\frac{3}{2},0$.
