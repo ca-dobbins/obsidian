@@ -6,10 +6,10 @@ Date: 2026-10-13
 - valence $e^-$ of atoms in a molecule reside in quantum-mechanical orbitals
 	- s, p, d, f
 
-To interact, orbitals must do either of the follwoing
-- be aligned along the axis (end-on
+To interact, orbitals must do either of the following
+- be aligned along the axis (end-on)
 	- single bond is known as $\sigma$
-- be parallel to each other and perpendicular to the interatomic axis
+- be parallel to each other and perpendicular to the interatomic axis (side-on)
 	- double and triple are known as $\pi$
 - for example, a triple can be written as $\sigma+\pi+\pi$.
 
