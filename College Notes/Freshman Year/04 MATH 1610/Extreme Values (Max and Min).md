@@ -26,8 +26,14 @@ The absolute min is $-1$, occurring at $x=-\frac{\pi}{2}+2k\pi$
 
 However if the domain is not closed $f(x)=\frac{1}{x},\;(0,2)$, looking at the graph of $\frac{1}{x}$, there is no abs max (because $0^+$ goes to $\infty$) and there is no abs min (because $2$ is not defined).
 
-As well, if the function $f$ is not continuous
-
+As well, if the function $f$ is not continuous,
+$$f(x)=
+\begin{cases}{}
+\frac{1}{x} & x\neq0 \\
+0 & x=0
+\end{cases}
+$$
+the example has no extrema.
 
 ##### Example(s):
 $g(x)=x^{2}, \;-1\leq x\geq3$
@@ -35,7 +41,8 @@ has an abs max of $9$ when $x=3$
 has an abs min of $0$ when $x=0$
 
 
-### Main Idea 3
+### Fermat's Theorem
 *subtitle*
 
+***Def***: If $f$ has a local extreme value at $x=c$
 ##### Example(s):
