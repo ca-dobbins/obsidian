@@ -16,6 +16,9 @@ To interact, orbitals must do either of the follwoing
 hybridization
 - mix of orbitals
 ![[Pasted image 20261013095107.png]]
+- the same type of atom can have different types of hybridization
+	- $\ce{C=sp,sp^2,sp^3}$ 
+
 ##### Example(s):
 
 ### Main Idea 2
