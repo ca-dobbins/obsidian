@@ -19,10 +19,13 @@ $f(x)=\sin x$
 The absolute max is $1$, occurring at $x=\frac{\pi}{2}+2k\pi$
 The absolute min is $-1$, occurring at $x=-\frac{\pi}{2}+2k\pi$
 
-### Main Idea 2
+### The Extreme Value Theorem (EVT)
 *subtitle*
 
+***Def***: If $f$ is continuous on a closed interval $[a,b]$, then $f$ must attain both an abs max $f(c)$ and an abs min of $f(d)$ for some $c,d$ in $[a,b]$.
 ##### Example(s):
+$g(x)=x^{2}, -1\leq x\geq3$
+
 
 ### Main Idea 3
 *subtitle*
