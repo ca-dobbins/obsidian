@@ -10,7 +10,12 @@ Suggested HW: 1-48, 57-66
 - a local max of $f$ if $f(c)\geq f(x)$ for all $x$ *near* $c$
 - a local min of $f$ if $f(c)\leq f(x)$ for all $x$ *near* $c$
 	*near* being some interval in $D$ containing $C$
+
+These can be called *extreme* values, with the plural being **extrema**. The pluralization of *maximum* and *minimum* is **maxima** and **minima** respectively.
 ##### Example(s):
+$f(x)=\sin x$
+The absolute max is $1$, occurring at $x=\frac{\pi}{2}+2k\pi$
+The absolute min is $-1$, occurring at $x=-\frac{\pi}{2}+2k\pi$
 
 ### Main Idea 2
 *subtitle*
