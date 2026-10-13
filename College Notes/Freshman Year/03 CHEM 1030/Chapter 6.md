@@ -10,7 +10,12 @@ To interact, orbitals must do either of the follwoing
 - be aligned along the axis (end-on
 	- single bond is known as $\sigma$
 - be parallel to each other and perpendicular to the interatomic axis
-	- double and triple 
+	- double and triple are known as $\pi$
+- for example, a triple can be written as $\sigma+\pi+\pi$.
+
+hybridization
+- mix of orbitals
+![[Pasted image 20261013095107.png]]
 ##### Example(s):
 
 ### Main Idea 2
