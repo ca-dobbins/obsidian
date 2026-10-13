@@ -1,7 +1,7 @@
 # Topic: Chemical Bonding II
 Date: 2026-10-13
 
-### Main Idea 1
+### Valence Bond Theory
 *subtitle*
 
 ##### Example(s):
