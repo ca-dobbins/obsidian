@@ -55,4 +55,5 @@ ALSO if $f(x)$ has an extreme value at $x=c$, it does not necessarily mean that 
 ***Fermat's Theorem (Updated)***: If $f$ has a local extreme value at $c$, then $c$ must be a critical number of $f$.
 ##### Example(s):
 $f(x)=x^{3/5}(4-x)$
-$f'(x)=-x^{3/5}+(4-x)\left( \frac{3}{5} \right)$
+$f'(x)=-x^{3/5}+(4-x)\left(  \frac{3}{5}x^{-2/5}  \right)$
+$0=\frac{12-8x}{5x^{2/5}}$, so the criti
