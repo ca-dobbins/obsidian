@@ -22,7 +22,7 @@ The absolute min is $-1$, occurring at $x=-\frac{\pi}{2}+2k\pi$
 ### The Extreme Value Theorem (EVT)
 *subtitle*
 
-***Def***: If $f$ is continuous on a closed interval $[a,b]$, then $f$ must attain both an abs max $f(c)$ and an abs min of $f(d)$ for some $c,d$ in $[a,b]$.
+***Theorem***: If $f$ is continuous on a closed interval $[a,b]$, then $f$ must attain both an abs max $f(c)$ and an abs min of $f(d)$ for some $c,d$ in $[a,b]$.
 
 However if the domain is not closed $f(x)=\frac{1}{x},\;(0,2)$, looking at the graph of $\frac{1}{x}$, there is no abs max (because $0^+$ goes to $\infty$) and there is no abs min (because $2$ is not defined).
 
@@ -44,11 +44,15 @@ has an abs min of $0$ when $x=0$
 ### Fermat's Theorem
 *subtitle*
 
-***Def***: If $f$ has a local extreme value at $x=c$ and $f'(c)$ exists, then $f'(c)=0$.
+***Theorem***: If $f$ has a local extreme value at $x=c$ and $f'(c)$ exists, then $f'(c)=0$.
 
 Just because $f'(c)=0$, it doesn't mean that $f$ has an extreme value at $x=c$.
 
 ALSO if $f(x)$ has an extreme value at $x=c$, it does not necessarily mean that $f'(c)=0$.
 
-***Def***: A critical # of $f$ is a value $c$ in $f$'s domainsuch that
+***Def***: A critical # of $f$ is a value $c$ in $f$'s domain such that $f'(c)=0$ or $f'(c)$ does not exist.
+
+***Fermat's Theorem (Updated)***: If $f$ has a local extreme value at $c$, then $c$ must be a critical number of $f$.
 ##### Example(s):
+$f(x)=x^{3/5}(4-x)$
+$f'(x)=-x^{3/5}+(4-x)\left( \frac{3}{5} \right)$
