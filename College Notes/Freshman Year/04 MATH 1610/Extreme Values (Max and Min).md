@@ -23,8 +23,16 @@ The absolute min is $-1$, occurring at $x=-\frac{\pi}{2}+2k\pi$
 *subtitle*
 
 ***Def***: If $f$ is continuous on a closed interval $[a,b]$, then $f$ must attain both an abs max $f(c)$ and an abs min of $f(d)$ for some $c,d$ in $[a,b]$.
+
+However if the domain is not closed $f(x)=\frac{1}{x},\;(0,2)$, looking at the graph of $\frac{1}{x}$, there is no abs max (because $0^+$ goes to $\infty$) and there is no abs min (because $2$ is not defined).
+
+As well, if the function $f$ is not continuous
+
+
 ##### Example(s):
-$g(x)=x^{2}, -1\leq x\geq3$
+$g(x)=x^{2}, \;-1\leq x\geq3$
+has an abs max of $9$ when $x=3$
+has an abs min of $0$ when $x=0$
 
 
 ### Main Idea 3
