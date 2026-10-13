@@ -44,5 +44,11 @@ has an abs min of $0$ when $x=0$
 ### Fermat's Theorem
 *subtitle*
 
-***Def***: If $f$ has a local extreme value at $x=c$
+***Def***: If $f$ has a local extreme value at $x=c$ and $f'(c)$ exists, then $f'(c)=0$.
+
+Just because $f'(c)=0$, it doesn't mean that $f$ has an extreme value at $x=c$.
+
+ALSO if $f(x)$ has an extreme value at $x=c$, it does not necessarily mean that $f'(c)=0$.
+
+***Def***: A critical # of $f$ is a value $c$ in $f$'s domainsuch that
 ##### Example(s):
