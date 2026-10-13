@@ -26,9 +26,9 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 	2. *all atoms and charges*
 2. Arrange atoms:
 	1. generally less $e^-$-negative atom (except H) goes in the middle
-3. Distribute $e^-$ among the atoms,
+3. Distribute $e^-$ among the outer atoms
 4. If any atoms lack an octet, form double/triple bonds to form octets
-5. If there are any extra electrons left over, give them to the central atom as a l
+5. If there are any extra electrons left over, give them to the central atom as a lone pair
 
 #### Resonance
 when 2+ valid lewis structures can be drawn for the same compound
