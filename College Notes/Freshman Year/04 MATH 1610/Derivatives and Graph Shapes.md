@@ -9,9 +9,13 @@ Suggest HW: 1-68
 ***Inc/Dec Test***: A function $f$ is increasing on an interval if $f(x)>0$ for all x in that interval. It's decreasing on an interval if $f(x)<0$ for all x on the interval.
 ##### Example(s):
 
-### Main Idea 2
+### 1st Derivative Test
 *subtitle*
 
+Suppose $c$ is a critical number of a continuous function $f$.
+1. If $f'(x)$ changes from $(+)$ to $(-)$ at $c$, then $f$ has a local max at $x=c$
+2. If $f'(x)$ changes from $(-)$ to $(+)$ at $c$, then $f$ has a local min at $x=c$
+3. If $f'(x)$ does not change signs at $c$, then there is no extrema at $x=c$
 ##### Example(s):
 
 ### Main Idea 3
