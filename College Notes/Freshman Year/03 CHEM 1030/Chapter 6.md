@@ -19,10 +19,17 @@ hybridization
 - the same type of atom can have different types of hybridization
 	- $\ce{C=sp,sp^2,sp^3}$ 
 
+***Problems***
+predicts better than lewis in:
+- bonding schemes, stengths, lengths, and rigidity
+
+but it doesnt predict mag behavior, and doesnt act for delocalizaation
+
 ##### Example(s):
 
-### Main Idea 2
+### Molecular Orbital Theory
 *subtitle*
+
 
 ##### Example(s):
 
