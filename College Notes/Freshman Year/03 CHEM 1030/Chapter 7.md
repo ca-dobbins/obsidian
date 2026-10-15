@@ -1,7 +1,7 @@
-# Topic: Chemical Reactions and 
+# Topic: Chemical Reactions and Chemical Quantities
 Date: 2026-10-15
 
-### Main Idea 1
+### 
 *subtitle*
 
 ##### Example(s):
