@@ -4,7 +4,7 @@ Suggest HW: 1-68
 ### Inc/Dec
 *subtitle*
 
-***Def***: A function $f(x)$ is increasing on an interval I if $f(x_{1})<f(x_{2})$ when $x_{1}$
+***Def***: A function $f(x)$ is increasing on an interval I if $f(x_{1})<f(x_{2})$ when $x_{1}<x_{2}$ on I. Similarly for decreasing.
 ##### Example(s):
 
 ### Main Idea 2
