@@ -18,7 +18,10 @@ Suppose $c$ is a critical number of a continuous function $f$.
 3. If $f'(x)$ does not change signs at $c$, then there is no extrema at $x=c$
 ##### Example(s):
 
-### Main Idea 3
+### Concavity
 *subtitle*
 
+***Def***: If the graph of $f$ lies above all of it's tangent lines on an interval, then $f$ is concave upwards on the interval. Similarly for concave downwards.
+
+***Concavity Test***: 
 ##### Example(s):
