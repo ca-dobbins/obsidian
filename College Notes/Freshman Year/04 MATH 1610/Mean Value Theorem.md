@@ -21,7 +21,8 @@ Then there exists a $c$ in $(a,b)$ such that:
 $$
 f'(c)=\frac{f(b)-f(a)}{b-a}
 $$
-
+***Theorem***: If $f'(x)=0$ for all $x$ in $(a,b)$, then $f(x)=c$ on $(a,b)$.
+***Theorem***: If $f'(x)=g'(x)$ for all x in $(a,b)$, then $f(x)=g(x)+c$ on $(a,b)$.
 ##### Example(s):
 
 ### Main Idea 3
