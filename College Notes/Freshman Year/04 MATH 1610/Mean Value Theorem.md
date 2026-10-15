@@ -3,6 +3,7 @@ Date: 2026-10-15
 Suggested HW: 1-18
 ### Rolle's Theorem
 *subtitle*
+
 ***Def***:
 Let $f(x)$ be a function satisfying all of the following:
 - $f(x)$ is continuous on $[a,b]$
@@ -11,8 +12,9 @@ Let $f(x)$ be a function satisfying all of the following:
 Then there exists a value $c$ in $(a,b)$ such that $f'(c)=0$.
 ##### Example(s):
 
-### Main Idea 2
+### Mean Value Theorem (MVT)
 *subtitle*
+
 
 ##### Example(s):
 
