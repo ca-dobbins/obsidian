@@ -55,8 +55,6 @@ $$
 \frac{d^2y}{dx^2}=\frac{-3y^{3}x^{2}+3y^{2}x^{3}\left( -\frac{x^{3}}{y^{3}} \right)}{y^6} 
 $$
 ...but do NOT clean it up unless you're doing a 3rd derivative (for some god forsaken reason).
-##### Example(s):
-
 ### Inverse Trig
 *subtitle*
 Let $y=\arcsin(x)$ (also known as $x=\sin(y),-\frac{\pi}{2}\leq y\leq \frac{\pi}{2}$) and differentiate it:
