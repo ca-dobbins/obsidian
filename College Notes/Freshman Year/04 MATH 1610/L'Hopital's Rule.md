@@ -20,9 +20,14 @@ $\frac{0}{0}$ and $\frac{\infty}{\infty}$ are called indeterminate forms. These 
 2. $0\cdot\pm \infty$
 3. $\infty-\infty$
 4. $0^0$
+5. $\infty^{0}$
+6. $1^{\infty}$
 
 ##### Example(s):
 
+$$
+\lim_{ x \to \infty } 
+$$
 ### Main Idea 3
 
 
