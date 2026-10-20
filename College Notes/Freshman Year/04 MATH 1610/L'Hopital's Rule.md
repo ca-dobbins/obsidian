@@ -15,7 +15,11 @@ $$
 $$
 
 ### Indeterminate Forms
-$\frac{0}{0}$ and $\frac{\infty}{\infty}$ are called indeterminate forms. These are the only forms that L'Hopital's Rule works for.
+$\frac{0}{0}$ and $\frac{\infty}{\infty}$ are called indeterminate forms. These are the only forms that L'Hopital's Rule works for. However there are other forms:
+1. $\frac{0}{0}$, $\frac{\infty}{\infty}$
+2. $0\cdot\pm \infty$
+3. $\infty-\infty$
+4. $0^0$
 
 ##### Example(s):
 
