@@ -29,5 +29,7 @@ Suppose $c$ is a critical number of a continuous function $f$.
 3. If $f'(x)$ does not change signs at $c$, then there is no extrema at $x=c$
 
 ***2nd Derivative Test***
-
+1. $x=c$ is a point of local maxima if $f'(c)=0$ and $f''(c)<0$. 
+2. $x=c$ is a point of local minima if $f'(c)=0$ and $f''(c)>0$.
+3. $x=c$ is an inflection point if 
 ##### Example(s):
