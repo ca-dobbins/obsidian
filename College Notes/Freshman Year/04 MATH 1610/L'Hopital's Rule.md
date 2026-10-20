@@ -30,6 +30,10 @@ $$
 $$
 \lim_{ x \to 0^+ } x\ln x = \lim_{ x \to 0^+ } \frac{\ln x}{\frac{1}{x}}
 $$
+
+$$
+\lim_{ x \to 1^+ } \frac{1}{\ln x}-\frac{1}{x-1}=\lim_{ x \to 1^+ } \frac{(x-1)-\ln x}{(x-1)\ln x}
+$$
 ### Main Idea 3
 
 
