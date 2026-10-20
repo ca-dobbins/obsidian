@@ -14,8 +14,8 @@ $$
 \lim_{ x \to 1 } \frac{x^{2}-1}{x-1}=2 \;,\;\lim_{ x \to 0 } \frac{\sin x}{x}=1
 $$
 
-### Main Idea 2
-
+### Indeterminate Forms
+$\frac{0}{0}$ and $\frac{\infty}{\infty}$ are called indeterminate forms. These are the only forms that L'Hopital's Rule works for.
 
 ##### Example(s):
 
