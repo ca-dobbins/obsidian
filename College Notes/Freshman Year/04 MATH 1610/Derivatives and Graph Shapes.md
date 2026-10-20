@@ -15,6 +15,8 @@ Suggest HW: 1-68
 ***Def***: If the graph of $f$ lies above all of it's tangent lines on an interval, then $f$ is concave upwards on the interval. Similarly for concave downwards.
 
 ***Concavity Test***: A function $f$ is concave upwards on an interval if $f''>0$ on that interval. It is concave downwards on an interval if $f''<0$ on that interval.
+
+***Inflection Point***: A point $P$ on $y=f(x)$ is an inflection point of $f$ if the concavity changes at that point. i.e. $f''(x)=0$.
 ##### Example(s):
 
 ### 1st/2nd Derivative Test
