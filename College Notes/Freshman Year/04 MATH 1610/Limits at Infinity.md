@@ -21,8 +21,6 @@ $$
 \lim_{ x \to \infty } f(x)=L
 $$
 Similarly for $x\to-\infty$.
-##### Example(s):
-
 ### Asymptotes
 *subtitle*
 
@@ -98,9 +96,3 @@ $$
 \lim_{ x \to \infty } e^x = \infty
 \end{align}
 $$
-
-
-### Main Idea 3
-*subtitle*
-
-##### Example(s):

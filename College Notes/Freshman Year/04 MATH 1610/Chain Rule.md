@@ -58,11 +58,3 @@ $$
 $$
 \frac{d}{dx}b^u=b^u\ln(b)\frac{du}{dx}  
 $$
-
-
-##### Example(s):
-
-### Main Idea 3
-*subtitle*
-
-##### Example(s):

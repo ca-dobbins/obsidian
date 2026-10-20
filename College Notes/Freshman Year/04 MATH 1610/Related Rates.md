@@ -52,8 +52,3 @@ V=\frac{\pi}{12}h^{3} & \frac{dV}{dt}=\frac{\pi}{4}h^{2}\frac{dh}{dt} \\
 \text{Find:}\frac{dh}{dt} & \frac{dh}{dt}=\frac{8}{9\pi}    
 \end{array}
 $$
-##### Example(s):
-
-### Main Idea 3
-*subtitle*
-##### Example(s):

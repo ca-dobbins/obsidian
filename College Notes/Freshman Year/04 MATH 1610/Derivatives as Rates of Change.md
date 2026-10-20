@@ -36,13 +36,3 @@ So,
 $$
 y=-12\left( x-\frac{1}{2} \right)+6
 $$
-
-### Main Idea 2
-*subtitle*
-
-##### Example(s):
-
-### Main Idea 3
-*subtitle*
-
-##### Example(s):

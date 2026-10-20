@@ -94,4 +94,3 @@ $$
 *subtitle*
 
 Suppose $f(x)$ is continuous on a closed interval $[a,b]$. Let $N$ be any vlaue between $f(a)$ and $f(b)$. Then there must be at least one $c$ in $[a,b]$ such that $f(c)=N$.
-##### Example(s):

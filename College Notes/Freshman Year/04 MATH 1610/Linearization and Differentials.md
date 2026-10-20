@@ -14,8 +14,6 @@ $$
 L(x)=f'(a)(x-a)+f(a)
 $$
 Which is known as the linearization of $f(x)$ at $a$.
-##### Example(s):
-
 ### Differential
 *subtitle*
 ***Def***: Let $y=f(x)$, then the differential of $y$, written as $dy$, is defined to be:
@@ -36,7 +34,3 @@ And plugging in:
 $$
 \sqrt{ 4.05 }\approx f'(4)+(0.0125)
 $$
-### Main Idea 3
-*subtitle*
-
-##### Example(s):

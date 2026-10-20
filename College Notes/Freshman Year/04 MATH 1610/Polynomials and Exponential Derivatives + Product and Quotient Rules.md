@@ -61,8 +61,3 @@ B.
 $$
 \frac{d}{dx} \frac{5e^x}{(x^{2}+1)(x^{3}+x-2)} 
 $$
-
-### Main Idea 3
-*subtitle*
-
-##### Example(s):

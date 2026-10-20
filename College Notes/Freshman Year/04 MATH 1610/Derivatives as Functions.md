@@ -23,9 +23,6 @@ So:
 $$
 \frac{d}{dx}\sqrt{ x }=\frac{1}{2\sqrt{ x }} 
 $$
-
-##### Example(s):
-
 ### Differentiability
 *subtitle*
 
@@ -37,8 +34,6 @@ $$
 
 ***Theorem***:
 	If $f'(a)$ exists, then $f(x)$ must be continuous, at $x=a$. Not necessarily true in reverse.
-##### Example(s):
-
 ### Higher Order Derivatives
 *subtitle*
 Let $f(x)=x^4$. Find $f'(x)$.
@@ -66,5 +61,3 @@ Fifth derivative:
 $$
 f^5(x)=0
 $$
-
-##### Example(s):

@@ -49,7 +49,3 @@ $$
 y=\frac{(x^{2}+x)^5\sqrt[7]{ x^{3}+\tan x }}{(\csc ^{2}(x))(6^{\sin x})}\;|\;\ln y=\left( \ln(x^{2}+x^5)+\frac{1}{7}\ln(x^{3}+\tan x) \right)-(\ln (\csc ^{2}(x))+\sin x\ln6)
 $$
 
-### Main Idea 3
-*subtitle*
-
-##### Example(s):

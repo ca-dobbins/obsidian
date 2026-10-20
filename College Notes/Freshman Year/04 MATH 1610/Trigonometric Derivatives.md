@@ -53,8 +53,3 @@ f'''(x)=-\cos x \\
 f^4(x)=\sin x
 \end{align}
 $$
-
-### Main Idea 3
-*subtitle*
-
-##### Example(s):

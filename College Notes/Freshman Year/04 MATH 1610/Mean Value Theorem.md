@@ -9,7 +9,6 @@ Suggested HW: 1-18
 - $f(x)$ is differentiable on $(a,b)$
 - $f(a)=f(b)$
 Then there exists a value $c$ in $(a,b)$ such that $f'(c)=0$.
-##### Example(s):
 
 ### Mean Value Theorem (MVT)
 *subtitle*
@@ -23,9 +22,3 @@ f'(c)=\frac{f(b)-f(a)}{b-a}
 $$
 ***Theorem***: If $f'(x)=0$ for all $x$ in $(a,b)$, then $f(x)=c$ on $(a,b)$.
 ***Theorem***: If $f'(x)=g'(x)$ for all $x$ in $(a,b)$, then $f(x)=g(x)+c$ on $(a,b)$.
-##### Example(s):
-
-### Main Idea 3
-*subtitle*
-
-##### Example(s):
