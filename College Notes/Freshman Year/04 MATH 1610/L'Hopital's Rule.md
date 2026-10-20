@@ -22,11 +22,13 @@ $\frac{0}{0}$ and $\frac{\infty}{\infty}$ are called indeterminate forms. These 
 4. $0^0$
 5. $\infty^{0}$
 6. $1^{\infty}$
-
-##### Example(s):
-
+Note:
 $$
-\lim_{ x \to \infty } 
+\lim_{ x \to a } f(x)g(x)=\lim_{ x \to a } \frac{f(x)}{\frac{1}{g(x)}}
+$$
+##### Example(s):
+$$
+\lim_{ x \to 0^+ } x\ln x = \lim_{ x \to 0^+ } \frac{\ln x}{\frac{1}{x}}
 $$
 ### Main Idea 3
 
