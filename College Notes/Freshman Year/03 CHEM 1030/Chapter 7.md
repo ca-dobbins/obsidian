@@ -24,6 +24,9 @@ $$
 Coefficients in a chemical reaction specify the amounts in moles of each substance involved in the reaction (see written notes for example)
 
 These can also be used to convert between grams (mass) of a reactant and grams (mass) of a product
+$$
+\ce{mass A \cdot \left( \frac{1 mol A}{molar mass A} \right) \cdot \left( \frac{mol B}{mol A} \right) \cdot \left( \frac{molar mass B}{1 mol B} \right)}
+$$
 ##### Example(s):
 
 ### Main Idea 3
