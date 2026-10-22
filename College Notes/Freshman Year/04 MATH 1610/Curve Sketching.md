@@ -13,4 +13,11 @@ HW: 1-54
 	4. periodicity: $f(x+p)=f(x),\;\text{where p is a constant}$
 2. Asymptotes
 	1. Horizontal: $\lim_{ x \to \infty }f(x)=L\;\text{and/or}\;\lim_{ x \to -\infty }f(x)=M$
-	2. Vertical: $\lim_{ x \to a^+ }f(x)=\pm \infty$
+	2. Vertical: $\lim_{ x \to a^+ }f(x)=\pm \infty\;\text{and/or}\;\lim_{ x \to a^- }f(x)=\pm \infty$
+3. [[Derivatives and Graph Shapes#1st Derivative Test|First Derivative Test]]
+	1. Inc/Dec
+	2. Relative Extrema
+4. [[Derivatives and Graph Shapes#Concavity|Concavity Test]]
+	1. Intervals of Concavity
+	2. Inflection Points
+5. Plot important points, sketch asymptotes, graph the curve using a shape chart.
