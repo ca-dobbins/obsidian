@@ -20,8 +20,8 @@ Write a balanced equation for the combustion of gaseous butane $\ce{C4H10(g)}$, 
 $$
 \ce{ 2C4H10(g) + 13O2(g) -> 8CO2(g) + 10H2O(g)}
 $$
-### Main Idea 2
-
+### Stoichiometry
+Coefficients in a chemical reaction specify the amounts in moles of each substance involved in the reaction
 ##### Example(s):
 
 ### Main Idea 3
