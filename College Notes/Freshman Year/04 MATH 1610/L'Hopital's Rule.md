@@ -38,3 +38,7 @@ $$
 $$
 \lim_{ x \to \infty } e^x-x=\lim_{ x \to \infty } x\left( \frac{e^x}{x}-1 \right)=(\lim_{ x \to \infty } x)\left( \lim_{ x \to \infty } \frac{e^x}{x}-\lim_{ x \to \infty } 1 \right)
 $$
+Note:
+$$
+\lim_{ x \to a } f(x)^{g(x)} \; \text{look at written notes for examples}
+$$
