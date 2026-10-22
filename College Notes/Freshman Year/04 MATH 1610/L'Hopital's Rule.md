@@ -34,7 +34,7 @@ $$
 $$
 \lim_{ x \to 1^+ } \frac{1}{\ln x}-\frac{1}{x-1}=\lim_{ x \to 1^+ } \frac{(x-1)-\ln x}{(x-1)\ln x}
 $$
-### Main Idea 3
 
-
-##### Example(s):
+$$
+\lim_{ x \to \infty } e^x-x=\lim_{ x \to \infty } x\left( \frac{e^x}{x}-1 \right)
+$$
