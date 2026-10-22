@@ -18,7 +18,7 @@ $$
 $$
 Write a balanced equation for the combustion of gaseous butane $\ce{C4H10(g)}$, a fuel used in portable stoves and grills, in which it combines with gaseous oxygen $\ce{O2(g)}$ to form gaseous carbon dioxide $\ce{CO2(g)}$ and gaseous water $\ce{H2O(g)}$.
 $$
-\ce{ C4H10(g) + O2(g) -> CO2(g) + H2O(g)}
+\ce{ 2C4H10(g) + 13O2(g) -> 8CO2(g) + 10H2O(g)}
 $$
 ### Main Idea 2
 
