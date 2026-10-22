@@ -11,7 +11,7 @@ HW: 1-54
 		1. even: y-axis: $f(-x)=f(x)$
 		2. odd: origin: $f(-x)=-f(x)$
 	4. periodicity: $f(x+p)=f(x),\;\text{where p is a constant}$
-2. Asymptotes
+2. [[Limits at Infinity#Asymptotes|Asymptotes]]
 	1. Horizontal: $\lim_{ x \to \infty }f(x)=L\;\text{and/or}\;\lim_{ x \to -\infty }f(x)=M$
 	2. Vertical: $\lim_{ x \to a^+ }f(x)=\pm \infty\;\text{and/or}\;\lim_{ x \to a^- }f(x)=\pm \infty$
 3. [[Derivatives and Graph Shapes#1st Derivative Test|First Derivative Test]]
