@@ -12,9 +12,13 @@ $$
 \ce{CH4(g) + 2O2(g) -> CO2(g) + 2H2O}
 $$
 ##### Example(s):
-Write a balanced equation for the reaction between solid cobalt(III) oxide $\ce{Co2O3(s)}$ and solid carbon $\ce{C(s)}$ that produces solid cobalt $\ce{Co(s)}$ and carbon dioxide gas$\ce{CO2(g)}$.
+Write a balanced equation for the reaction between solid cobalt(III) oxide $\ce{Co2O3(s)}$ and solid carbon $\ce{C(s)}$ that produces solid cobalt $\ce{Co(s)}$ and carbon dioxide gas $\ce{CO2(g)}$.
 $$
 \ce{ 2Co2O3(s) + 3C(s) -> 4Co(s) + 3CO2(g)}
+$$
+Write a balanced equation for the combustion of gaseous butane $\ce{C4H10(g)}$, a fuel used in portable stoves and grills, in which it combines with gaseous oxygen $\ce{O2(g)}$ to form gaseous carbon dioxide $\ce{CO2(g)}$ and gaseous water $\ce{H2O(g)}$.
+$$
+\ce{ C4H10(g) + O2(g) -> CO2(g) + H2O(g)}
 $$
 ### Main Idea 2
 
