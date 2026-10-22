@@ -12,9 +12,9 @@ $$
 \ce{CH4(g) + 2O2(g) -> CO2(g) + 2H2O}
 $$
 ##### Example(s):
-Write a balanced equation for the reaction between solid cobalt(III) oxide $\ce{Co2O3}(s)$ and solid carbon $\ce{C}(s)$ that produces solid cobalt $\ce{Co}(s)$ and carbon dioxide gas.
+Write a balanced equation for the reaction between solid cobalt(III) oxide $\ce{Co2O3(s)}$ and solid carbon $\ce{C(s)}$ that produces solid cobalt $\ce{Co(s)}$ and carbon dioxide gas$\ce{CO2(g)}$.
 $$
-\ce{Co2O3}
+\ce{ 2Co2O3(s) + 3C(s) -> 4Co(s) + 3CO2(g)}
 $$
 ### Main Idea 2
 
