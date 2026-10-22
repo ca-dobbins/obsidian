@@ -21,9 +21,12 @@ $$
 \ce{ 2C4H10(g) + 13O2(g) -> 8CO2(g) + 10H2O(g)}
 $$
 ### Stoichiometry
-Coefficients in a chemical reaction specify the amounts in moles of each substance involved in the reaction
+Coefficients in a chemical reaction specify the amounts in moles of each substance involved in the reaction (see written notes for example)
+
+These can also be used to convert between grams (mass) of a reactant and grams (mass) of a product
 ##### Example(s):
 
 ### Main Idea 3
 
 ##### Example(s):
+ 
