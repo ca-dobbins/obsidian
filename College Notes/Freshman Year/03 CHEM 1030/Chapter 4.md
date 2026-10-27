@@ -2,7 +2,6 @@
 Date: 2026-09-15
 
 ### Chemical Bonding
-*subtitle*
 2+ elements combine, a new substance forms
 - The same: $\ce{O2}$
 - Different: $\ce{H2O}$
@@ -41,7 +40,6 @@ $\ce{HCl(g)}$ -> Molecular
 $\ce{CuCl2}$ -> Ionic
 $\ce{CH2O}$ -> Molecular
 ### Modeling
-*subtitle*
 - ***Molecular Models***
 - ***Ball-and-Stick***
 - ***Space-filling***
@@ -49,7 +47,7 @@ $\ce{CH2O}$ -> Molecular
 
 #### Lewis Electron Dot Structures
 - depicts the structural formula with its **valence** electrons
-*put lewis dot structures here from written notes*
+*put lewis dot structures here from written notes (or don't thats fine too)* 
 
 #### Octet Rule
 - basically elements like to have 8 valence electrons when bonded, with some exceptions:
@@ -62,7 +60,6 @@ $\ce{CH2O}$ -> Molecular
 
 
 ### Energy
-*subtitle*
 - when anions and cations form a structure, they release energy and form a crystal lattice
 	- held by electrostatic attraction
 	- ***Lattice energy***: the energy released when one mole of an ionic compound forms from free ions in the gas phase

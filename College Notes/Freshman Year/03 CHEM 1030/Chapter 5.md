@@ -2,7 +2,6 @@
 Date: 2026-09-29
 
 ### Bond Polarity
-*subtitle*
 covalent bonding results in unequal sharing resulting in a polar cov bond, resulting in: $\delta^-$, a partial negative
 
 ![[Pasted image 20260929102158.png]]
@@ -16,8 +15,6 @@ covalent bonding results in unequal sharing resulting in a polar cov bond, resul
 - directly prop. to size of partial charges (q)
 - directly prop to distance (r)
 - $\mu=qr$
-##### Example(s):
-
 ### Lewis Structures
 *recall: [[Chapter 4#Octet Rule|Octet Rule]]*
 ***Steps for drawing lewis structures***
@@ -47,11 +44,7 @@ allows us to discriminate between lewis structures
 4. negative formal charge must reside on the most electronegative
 
 FC=(# of valence)-(# of nonbinding electrons)-(# of bonds)
-
-##### Example(s):
-
 ### Bonds
-*subtitle*
 #### Bond Energy
 the amount of energy that it take to break on emole of a bond in a compound:
 $$
@@ -116,6 +109,3 @@ the steric number is used to find the arrangements of electron groups
 needs to have:
 - polar bonds
 - unsymmetrical
-
-
-##### Example(s):

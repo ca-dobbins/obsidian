@@ -2,7 +2,6 @@
 Date: 2026-09-08
 
 ### History of the Periodic Table
-*subtitle*
 Mendeleev's Periodic Law (1896):
 - when the elements are arranged in order of mass, certain sets of properties recur periodically
 
@@ -22,11 +21,7 @@ Can also be divided into:
 - transition elements:
 	- less predictable
 	- **anything with a # + B on P.T**
-
-##### Example(s):
-
 ### Electron Configs
-*subtitle*
 Schrodinger's eq for the hydrogen atom showed that its one electron will occupy the lowest energy orbital
 $$
 H \, -
@@ -79,11 +74,7 @@ when more e are added, each e experiences both attraction to protons and repulsi
 ***Diamagnetism***
 - all paired e, no magnetic field
 - *repelled by mag field*
-
-##### Example(s):
-
 ### Characteristics of the Periodic Table
-*subtitle*
 ![[Pasted image 20260915085948.png]]
 ![[Pasted image 20260915085900.png]]
 
@@ -135,5 +126,3 @@ Anions > Parent atom
 | Most oxides basic and ionic    | Most oxides acidic and molecular   |
 | Form cations in solution       | Form anions and polyatomic atoms   |
 | lose electrons in reactions    | gain electrons in reactions        |
-
-##### Example(s):

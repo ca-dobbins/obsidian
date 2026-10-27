@@ -2,7 +2,6 @@
 Date: 2026-10-13
 
 ### Valence Bond Theory
-*subtitle*
 - valence $e^-$ of atoms in a molecule reside in quantum-mechanical orbitals
 	- s, p, d, f
 
@@ -24,5 +23,3 @@ predicts better than lewis in:
 - bonding schemes, stengths, lengths, and rigidity
 
 but it doesnt predict mag behavior, and doesnt act for delocalizaation
-
-##### Example(s):

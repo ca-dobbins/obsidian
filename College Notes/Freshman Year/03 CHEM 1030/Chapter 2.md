@@ -15,9 +15,6 @@ light properties:
 - electromagnetic radiation
 - composed of perpendicular oscillating waves, electirc and magnetic field
 - moves at constant speed $c=3.00\times10^8 \frac{m}{s}$
-
-##### Example(s):
-
 ### Waves
 *cool moves man*
 wavelength and amplitude are independant properties
@@ -95,8 +92,6 @@ $$
 $$
 
 ### Wave Duality and Uncertainty
-*subtitle*
-
 particles move on in a path determined by it's velocity, position, and forces acting on it.
 - because we do not know the position and velocity of an electron, we cannot predict it's path, but we can desrbile the probibility of where it will be
 - *electron behavior is indeterminate*

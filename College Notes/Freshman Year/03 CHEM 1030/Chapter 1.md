@@ -56,7 +56,6 @@ From testing it was figured out that:
 | Neutron  | $1.67262 \times 10^{-27}$ | $1.00866$ | $0$             | 0                          |
 | Electron | $0.00091 \times 10^{-27}$ | $0.00055$ | $-1$            | $-1.60218 \times 10^{-19}$ |
 
-##### Example(s):
 ### Varying Elements
 *adding or removing subatomic particles*
 
