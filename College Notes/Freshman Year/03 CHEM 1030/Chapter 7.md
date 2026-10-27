@@ -34,8 +34,9 @@ $$
 $$
 
 $$
-\ce{5.0g C8H18 * \frac{1 mol C8H18}{114.23g }}
+\ce{5.0 g C8H18 * \frac{1 mol C8H18}{114.23 g C8H18} * \frac{16 mol CO2}{2 mol C8H18} * \frac{6.022*10^23 molecules CO2}{1 mol CO2}}
 $$
+So there are $\ce{2.1*10^23}$ molecules of $\ce{CO2}$ produced from the combustion of $\ce{5.0g}$ of $\ce{C8H18}$. 
 ### Limiting Reagent, Theoretical Yield, Percent Yield
 *Limiting Reagent*: The Reagent that runs out first in a chemical reaction, which, therefore limits how much product is made
 *Excess Reagent*: Reagents that are not fully consumed in the reaction
