@@ -58,4 +58,7 @@ $$
 $$
 \ce{10.0 g O2 * \frac{1 mol O2}{32 g O2} * \frac{2 mol CO2}{1 mol O2} * \frac{44.01 g CO2}{1 mol CO2} = 27.5 g CO2}
 $$
- 
+Therefore, $\ce{CO}$ is the limiting reagent with the $\ce{O2}$ being the excess, producing $\ce{15.7 g CO2}$. If a chemist then produced $\ce{14.3 g CO2}$ in the lab, what is the percent yield?
+$$
+\ce{\frac{14.3 g CO2}{15.7 g CO2}*100\% = 91.1\%}
+$$
