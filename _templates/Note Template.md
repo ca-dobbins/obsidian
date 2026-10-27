@@ -1,6 +1,5 @@
 # Topic: 
-Date: {{date}}
-HW: 
+Date: {{date}} | HW: 
 ### Main Idea 1
 
 ##### Example(s):

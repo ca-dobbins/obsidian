@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Notes/Freshman Year/04 MATH 1610/Linearization and Differentials.md",
+                "file": "College Notes/Freshman Year/04 MATH 1610/Implicit Differentiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearization and Differentials"
+              "title": "Implicit Differentiation"
             }
           }
         ]
@@ -201,6 +201,10 @@
   },
   "active": "f726faf02e116d6e",
   "lastOpenFiles": [
+    "College Notes/Freshman Year/04 MATH 1610/Logarithm Derivatives.md",
+    "College Notes/Freshman Year/04 MATH 1610/Related Rates.md",
+    "College Notes/Freshman Year/04 MATH 1610/Linearization and Differentials.md",
+    "_templates/Note Template.md",
     "College Notes/Freshman Year/04 MATH 1610/Extreme Values (Max and Min).md",
     "College Notes/Freshman Year/04 MATH 1610/Mean Value Theorem.md",
     "College Notes/Freshman Year/04 MATH 1610/Derivatives and Graph Shapes.md",
@@ -213,7 +217,6 @@
     "College Notes/Freshman Year/03 CHEM 1030/Chapter 4.md",
     "College Notes/Freshman Year/03 CHEM 1030/Chapter 5.md",
     "College Notes/Freshman Year/03 CHEM 1030/Chapter 6.md",
-    "_templates/Note Template.md",
     "College Notes/Freshman Year/04 MATH 1610/MATH 1610 Homepage.md",
     "College Notes/Freshman Year/03 CHEM 1030/CHEM 1030 Homepage.md",
     "College Notes/Freshman Year/02 ENGR 1110/ENGR 1110 Homepage.md",
@@ -221,9 +224,6 @@
     "College Notes/Freshman Year/00 MUSI 2740/MUSI 2740 Homepage.md",
     "College Notes/Freshman Year/04 MATH 1610/Limits at Infinity.md",
     "College Notes/Freshman Year/04 MATH 1610/Tests.md",
-    "College Notes/Freshman Year/04 MATH 1610/Linearization and Differentials.md",
-    "College Notes/Freshman Year/04 MATH 1610/Related Rates.md",
-    "College Notes/Freshman Year/04 MATH 1610/Logarithm Derivatives.md",
     "College Notes/Freshman Year/04 MATH 1610/Implicit Differentiation.md",
     "College Notes/Freshman Year/04 MATH 1610/Chain Rule.md",
     "College Notes/Freshman Year/04 MATH 1610/Trigonometric Derivatives.md",
