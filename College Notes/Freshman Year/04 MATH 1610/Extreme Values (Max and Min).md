@@ -1,6 +1,5 @@
 # Topic: 4.1
-Date: 2026-10-13
-Suggested HW: 1-48, 57-66
+Date: 2026-10-13 | Suggested HW: 1-48, 57-66
 ### Max & Min
 ***Def***: Let $c$ be a # in the domain $D$ of $f$. Then $f(c)$ is:
 - the abs max of $f$ if $f(c)\geq f(x)$ for all $x$ in $D$

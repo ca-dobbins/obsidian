@@ -1,6 +1,5 @@
 # Topic: 4.2
-Date: 2026-10-15
-Suggested HW: 1-18
+Date: 2026-10-15 | Suggested HW: 1-18
 ### Rolle's Theorem
 ***Def***: Let $f(x)$ be a function satisfying all of the following:
 - $f(x)$ is continuous on $[a,b]$
