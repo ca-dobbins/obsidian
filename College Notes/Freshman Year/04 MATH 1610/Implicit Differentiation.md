@@ -70,7 +70,7 @@ Let $y=\arcsin(x)$ (also known as $x=\sin(y),-\frac{\pi}{2}\leq y\leq \frac{\pi}
 $$\begin{array}{c}
 \large
 \frac{dy}{dx}=\frac{1}{\cos y} \\
-=\frac{1}{\sqrt{ 1-x^{2} }},\cos(y)=\sqrt{ 1-\sin ^{2}(y) },x=\sin y
+=\frac{1}{\sqrt{ 1-x^{2} }},\cos(y)=\sqrt{ 1-\sin ^{2}(y) },\;x=\sin y
 \end{array} 
 $$
 
@@ -78,7 +78,7 @@ $$
 \Large
 \begin{array}{l}
 \frac{d}{dx} \arcsin(x)=\frac{1}{\sqrt{ 1-x^{2} }} & \frac{d}{dx}\arccos(x)=\frac{-1}{\sqrt{ 1-x^{2} }} \\
-\frac{d}{dx}\arctan(x)=\frac{1}{1+x^{2}} & \frac{d}{dx}\operatorname{arccot}(x)=\frac{-1}{1+x^{2}}  \\
+\frac{d}{dx}\arctan(x)=\frac{1}{1+x^{2}} & \frac{d}{dx}\arccot(x)=\frac{-1}{1+x^{2}}  \\
 \frac{d}{dx}\operatorname{arcsec}(x)=\frac{1}{x\sqrt{ x^{2}-1 }} & \frac{d}{dx}\operatorname{arccsc}(x)=\frac{-1}{x\sqrt{ x^{2}-1 }}  
 \end{array}
 $$
