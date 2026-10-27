@@ -48,4 +48,8 @@ $$
 \text{Percent Yield}\;\% =\frac{\text{Actual Yield}}{\text{Theoretical Yield}}\cdot100
 $$
 ##### Example(s):
+If we have $\ce{10.0g}$ of $\ce{CO (28.01 g/mol)}$ and $\ce{10.0g}$ of $\ce{O2 (32 g/mol)}$, which reactant is the limiting reactant? How many grams of $\ce{CO2}$ are produced? What is the excess reagent?
+$$
+\ce{CO(g) + O2(g) -> CO2}
+$$
  
