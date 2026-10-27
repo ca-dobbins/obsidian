@@ -78,8 +78,8 @@ $$
 \Large
 \begin{array}{l}
 \frac{d}{dx} \arcsin(x)=\frac{1}{\sqrt{ 1-x^{2} }} & \frac{d}{dx}\arccos(x)=\frac{-1}{\sqrt{ 1-x^{2} }} \\
-\frac{d}{dx}\arctan(x)=\frac{1}{1+x^{2}} & \frac{d}{dx}\arccot(x)=\frac{-1}{1+x^{2}}  \\
-\frac{d}{dx}\operatorname{arcsec}(x)=\frac{1}{x\sqrt{ x^{2}-1 }} & \frac{d}{dx}\operatorname{arccsc}(x)=\frac{-1}{x\sqrt{ x^{2}-1 }}  
+\frac{d}{dx}\arctan(x)=\frac{1}{1+x^{2}} & \frac{d}{dx}\text{arccot}(x)=\frac{-1}{1+x^{2}}  \\
+\frac{d}{dx}\text{arcsec}(x)=\frac{1}{x\sqrt{ x^{2}-1 }} & \frac{d}{dx}\text{arccsc}(x)=\frac{-1}{x\sqrt{ x^{2}-1 }}  
 \end{array}
 $$
 
