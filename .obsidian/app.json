@@ -3,5 +3,6 @@
   "attachmentFolderPath": "_resources",
   "showLineNumber": true,
   "vimMode": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
