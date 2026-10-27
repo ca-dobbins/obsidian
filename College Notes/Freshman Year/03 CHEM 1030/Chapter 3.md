@@ -23,8 +23,9 @@ Can also be divided into:
 	- **anything with a # + B on P.T**
 ### Electron Configs
 Schrodinger's eq for the hydrogen atom showed that its one electron will occupy the lowest energy orbital
+
 $$
-H
+H^-
 \begin{array}{c}
 n=1 \\
 l=0 \\
@@ -32,7 +33,8 @@ m_{l}=0 \\
 m_{s}=+\frac{1}{2}
 \end{array}
 $$
-two concepts affect multi-e atoms
+
+two concepts affect multi-e atoms:
 
 **E Spin**
 - all e have equal spin
