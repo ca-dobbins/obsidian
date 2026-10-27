@@ -20,6 +20,10 @@
 3:
 	1 graph (25 pts)
 	give f or f' and find concavity and inflection (10 pts)
-	graph a function given all info 
+	graph a function given all info (15 pts)
 		shape chart (5 pts)
-		graph the 
+		graph the thing (10 pts)
+	EVT (10 pts)
+	Rolle's Theorem or MVT (10 pts)
+	optimization (10 pts)
+	3 evaluating limits (10 pts/ea)
