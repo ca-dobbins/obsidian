@@ -4,5 +4,7 @@
   "showLineNumber": true,
   "vimMode": false,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showInlineTitle": true
 }
