@@ -29,7 +29,9 @@ $$
 $$
 ##### Example(s):
 
-### Main Idea 3
+### Limiting Reagent, Theoretical Yield, Percent Yield
+*Limiting Reagent*: The Reagent that runs out first in a chemical reaction, which, therefore limits how much product is made.
+*Excess Reagent*: Reagents that are 
 
 ##### Example(s):
  
