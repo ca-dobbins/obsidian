@@ -14,6 +14,8 @@ A common way to express concentration is **Molarity** $M$:
 $$
 \text{Molarity}=\frac{\text{amount of solute (mol)}}{\text{volume of solution (L)}}
 $$
+
+This **Molarity** can be used as a conversion factor between moles of the solute and liters of the solution
 ##### Example(s):
 
 ### Main Idea 2
