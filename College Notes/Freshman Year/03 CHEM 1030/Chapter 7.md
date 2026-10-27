@@ -50,6 +50,12 @@ $$
 ##### Example(s):
 If we have $\ce{10.0g}$ of $\ce{CO (28.01 g/mol)}$ and $\ce{10.0g}$ of $\ce{O2 (32 g/mol)}$, which reactant is the limiting reactant? How many grams of $\ce{CO2}$ are produced? What is the excess reagent?
 $$
-\ce{CO(g) + O2(g) -> CO2}
+\ce{2CO(g) + O2(g) -> 2CO2(g)}
+$$
+$$
+\ce{10.0 g CO * \frac{1 mol CO}{28.01 g CO} * \frac{2 mol CO2}{2 mol CO} * \frac{44.01 g CO2}{1 mol CO2} = 15.7 g CO2}
+$$
+$$
+\ce{10.0 g O2 * \frac{1 mol O2}{32 g O2} * \frac{2 mol CO2}{1 mol O2} * \frac{44.01 g CO2}{1 mol CO2} = 27.5 g CO2}
 $$
  
