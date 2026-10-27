@@ -16,3 +16,10 @@
 	1 implicit (10pts)
 	1 misc (table of values maybe) (10pts)
 	=110/100
+
+3:
+	1 graph (25 pts)
+	give f or f' and find concavity and inflection (10 pts)
+	graph a function given all info 
+		shape chart (5 pts)
+		graph the 
