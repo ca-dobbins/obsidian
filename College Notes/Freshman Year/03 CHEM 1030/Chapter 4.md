@@ -63,9 +63,11 @@ $\ce{CH2O}$ -> Molecular
 - when anions and cations form a structure, they release energy and form a crystal lattice
 	- held by electrostatic attraction
 	- ***Lattice energy***: the energy released when one mole of an ionic compound forms from free ions in the gas phase
+
 $$
 \ce{Na+(g) + Cl-(g)->NaCl(s) + energy}
 $$
+
 	- *in essence*:
 		- greater charges = larger lattice energy
 		- smaller radius = larger lattice energy
@@ -89,6 +91,7 @@ The rules for naming ionic compounds are as follows:
 - if the metal can have more than one charge, report it as a roman numeral
 - non-metal is named second
 - add -ide to the root of the non-metal
+
 $$
 \begin{array}{c} \\
 \text{Formula Unit} & | &  \text{Name} \\
@@ -98,11 +101,14 @@ $$
 \ce{CuO} & | & \text{Copper (II) Oxide}
 \end{array}
 $$
+
 ***Polyatomic Ions***
 These are named the same as simple ions, except that the name of the polyatomic ion is used:
+
 $$
 \ce{NaNO3->\text{Sodium Nitrate}}
 $$
+
 ![[Pasted image 20260924090127.png]]
 #### Covalent
 compounds of non-metals are made of individual molecule units
@@ -112,6 +118,7 @@ Rules for naming:
 2. the first element keeps its elemental name
 3. add -ide to the root of the second element
 4. name elements in the same order that they are written
+
 $$
 \begin{array}{l}
 \text{Mono-} & 1 & | & \text{Hexa-} & 6 \\
@@ -121,6 +128,7 @@ $$
 \text{Penta-} & 5 & | & \text{Deca-} & 10 
 \end{array}
 $$
+
 ***Electrons***
 - electrons that are shared are called bonding pairs
 - electrons not shared but belong to a particular atom are called lone pairs
@@ -137,6 +145,7 @@ similarly when three pairs are shared, the result is a triple covalent bond
 
 ##### Example(s):
 ***Ionic***
+
 $$
 \begin{array}{l} 
 \text{Sodium Fluoride} & \to & \ce{NaF} \\
@@ -146,7 +155,9 @@ $$
 
 \end{array}
 $$
+
 ***Polyatomic***
+
 $$
 \begin{array}{c} \\
 \text{Formula} & | & \text{Name} \\
@@ -156,7 +167,9 @@ $$
 \ce{Ca(CH3COO)2} & | & \text{Calcium Acetate}
 \end{array}
 $$
+
 ***Covalent***
+
 $$
 \begin{array}{c} \\
 \text{Formula} & | & \text{Name} \\
@@ -166,13 +179,13 @@ $$
 \ce{H2O} & | & \text{Dihydrogen Monoxide} \\
 \ce{N2O5} & | & \text{Dinitrogen Pentoxide} \\
 \ce{CO2} & | & \text{Carbon Dioxide}
-
 \end{array}
 $$
 ### Molar Mass
 The Molar Mass + Avagadro's # can be used to determine the # of atoms in a given mass of an element.
 
 Calculate the Molar Mass of Glucose $\ce{C6H12O6}$:
+
 $$
 \begin{array}{}
 \ce{C6:12.011*6}=72.06 \frac{g}{mol} \\

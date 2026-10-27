@@ -24,13 +24,13 @@ Can also be divided into:
 ### Electron Configs
 Schrodinger's eq for the hydrogen atom showed that its one electron will occupy the lowest energy orbital
 $$
-H \, -
-\begin{align}
+H
+\begin{array}{c}
 n=1 \\
 l=0 \\
 m_{l}=0 \\
 m_{s}=+\frac{1}{2}
-\end{align}
+\end{array}
 $$
 two concepts affect multi-e atoms
 

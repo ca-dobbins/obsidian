@@ -88,15 +88,20 @@ the steric number is used to find the arrangements of electron groups
 ***Tetrahedral***
 1 lone pair, 3 atoms
 ![[Pasted image 20261006100154.png]]
+
 2 lone pairs, 2 atoms
 ![[Pasted image 20261006100230.png]]
+
 ***Trigonal Bipyramidal***
 1 lone pair, 4 atoms
 ![[Pasted image 20261006100356.png]]
+
 2 lone pairs, 3 atoms
 ![[Pasted image 20261006100608.png]]
+
 3 lone pairs, 2 atoms
 ![[Pasted image 20261006100626.png]]
+
 ***Octahedral***
 ![[Pasted image 20261006100758.png]]
 
