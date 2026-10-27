@@ -61,9 +61,11 @@ From testing it was figured out that:
 
 **Isotopes**
 All atoms of a given element have the same # of protons, but can vary how many neutrons they have
+
 $$
 \ce{{}^{A}_{Z}X} 
 $$
+
 A: Mass number
 Z: Atomic Number
 X: Element
@@ -84,13 +86,16 @@ How many electrons in the $\ce{O^2-}$ ? *10 electrons*
 ### Atomic Mass
 *average mass*
 weighted value based on the element's natural abundance of each isotope
+
 $$
 \text{Atomic Mass} = \sum_{n}^{}(\text{fraction of isotope n) * (mass of isotope n)} 
 $$
+
 The masses of atoms and the percent abundances of isotopes of elements are measured using mass spectrometry
 - technique that separates particles using their mass
 ##### Example(s):
-$\ce{Cl-35}$ has an abundance of 75.77% and an amu of 34.97. $\ce{Cl-37}$ has an abundance of 24.23% and an amu of 36.97. Find the atomic mass.  
+$\ce{Cl-35}$ has an abundance of 75.77% and an amu of 34.97. $\ce{Cl-37}$ has an abundance of 24.23% and an amu of 36.97. Find the atomic mass.
+
 $$
 0.7577(34.97)+0.2423(36.97)=35.45 
 $$
@@ -108,10 +113,13 @@ an element's molar mass in $\frac{grams}{mole}$ is numerically equal to the elem
 
 ##### Example(s):
 A. Calculate the number of moles in 2.45 moles of $\ce{Cu}$
+
 $$
 2.45\, \text{moles}\times \frac{6.022\times10^{23}\,\text{atoms}}{1 \,\text{mole}} = 1.48\times10^{24}\, \text{atoms}
 $$
+
 B. How many copper atoms are in a copper penny with a mass of $3.10g$ (assume 100% pure copper) $\ce{g->mol->number of atoms}$
+
 $$
 3.10g \times \frac{1\,\text{mol}}{63.59g} \times \frac{6.022\times10^{23}\,\text{atoms}}{1\,\text{mol}}=2.94\times10^{22}\,\text{atoms}
 $$

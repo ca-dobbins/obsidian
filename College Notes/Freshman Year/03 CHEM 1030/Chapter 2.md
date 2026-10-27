@@ -135,9 +135,9 @@ number of nodes = (n-1)
 **P Orbitals**
 each principal energy state $\geq2$ has three p orbitals
 	$m_{l}$ = -1,0,+1
-meach of the three orbitals points along a diff axis
-	$p_{x}$,$p_{y}$,$p_{z}$
-second lowesr energy
+each of the three orbitals points along a diff axis
+- $p_{x}$, $p_{y}$, $p_{z}$
+second lowest energy
 one node at nuc; total of n nodes
 
 
@@ -152,9 +152,13 @@ n=4 -> 4s 4p 4d 4f
 
 B.
 l=2 so,
-$m_{l}=-2,-1,0,+1,+2$
-l=0 -> $0$
-l=1 -> $-1,0,1$
-l=2 -> $-2,-1,0,+1,+2$
-l=3 -> $-3,-2,-1,0,+1,+2,+3$
 
+$m_{l}=-2,-1,0,+1,+2$
+
+l=0 -> $0$
+
+l=1 -> $-1,0,1$
+
+l=2 -> $-2,-1,0,+1,+2$
+
+l=3 -> $-3,-2,-1,0,+1,+2,+3$
