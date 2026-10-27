@@ -1,6 +1,5 @@
 # Topic: 
-Date: 2026-10-22
-HW: 1-54
+Date: 2026-10-22 | HW: 1-54
 ### Guidelines to Curve Sketching
 1. Pre-calc stuff
 	1. domain

@@ -1,5 +1,5 @@
 # Topic: 4.3
-Date: 2026-10-15Suggest HW: 1-68
+Date: 2026-10-15 | Suggest HW: 1-68
 ### Inc/Dec Test
 ***Def***: A function $f(x)$ is increasing on an interval I if $f(x_{1})<f(x_{2})$ when $x_{1}<x_{2}$ on I. Similarly for decreasing.
 
