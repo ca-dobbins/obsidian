@@ -4,6 +4,7 @@ Suggest HW: 1-4, 11-39
 ### Linearization
 *subtitle*
 Consider $f(x)=\sqrt{ x }$. Sometimes we can compute this really easy, ex. $f(4)=\sqrt{ 4 }=2$. How about $\sqrt{ 4.05 } \;\text{or}\,\sqrt{ 3.98 }$? We can use the tangent line at $x=4$ to approximate these values. 
+
 $$
 f'(4)=\frac{1}{2\sqrt{ 2 }}=\frac{1}{4}
 $$

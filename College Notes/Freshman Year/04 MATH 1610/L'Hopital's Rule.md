@@ -5,7 +5,9 @@ Suggest HW: 1-70
 Suppose $f(x)$ and $g(x)$ are differentiable functions on some interval containing $x=a$ (except possibly at $a$). Suppose $g'(a)\neq 0$. If either:
 1. $\lim_{ x \to a }f(x)=\lim_{ x \to a }g(x)=0$ or,
 2. $\lim_{ x \to a }f(x)=\pm \infty \;\text{and}\; \lim_{ x \to a }g(x)=\pm \infty$.
+
 Then,
+
 $$
 \lim_{ x \to a } \frac{f(x)}{g(x)}=\lim_{ x \to a } \frac{f'(x)}{g'(x)}
 $$
@@ -22,7 +24,9 @@ $\frac{0}{0}$ and $\frac{\infty}{\infty}$ are called indeterminate forms. These 
 4. $0^0$
 5. $\infty^{0}$
 6. $1^{\infty}$
+
 Note:
+
 $$
 \lim_{ x \to a } f(x)g(x)=\lim_{ x \to a } \frac{f(x)}{\frac{1}{g(x)}}
 $$
@@ -39,6 +43,7 @@ $$
 \lim_{ x \to \infty } e^x-x=\lim_{ x \to \infty } x\left( \frac{e^x}{x}-1 \right)=(\lim_{ x \to \infty } x)\left( \lim_{ x \to \infty } \frac{e^x}{x}-\lim_{ x \to \infty } 1 \right)
 $$
 Note:
+
 $$
 \lim_{ x \to a } f(x)^{g(x)} \; \text{look at written notes for examples}
 $$
