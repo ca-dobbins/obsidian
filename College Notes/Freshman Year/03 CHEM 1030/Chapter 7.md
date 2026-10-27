@@ -28,7 +28,14 @@ $$
 \ce{mass A \cdot \left( \frac{1 mol A}{molar mass A} \right) \cdot \left( \frac{mol B}{mol A} \right) \cdot \left( \frac{molar mass B}{1 mol B} \right)}
 $$
 ##### Example(s):
+How many molecules of $\ce{CO2}$ does the combustion of $\ce{5.0g}$ of $\ce{C8H18}$ produce?
+$$
+\ce{2C8H18(l) + 25O2(g)->16CO2(g) + 18H2O(g)}
+$$
 
+$$
+\ce{5.0g C8H18 * \frac{1 mol C8H18}{114.23g }}
+$$
 ### Limiting Reagent, Theoretical Yield, Percent Yield
 *Limiting Reagent*: The Reagent that runs out first in a chemical reaction, which, therefore limits how much product is made
 *Excess Reagent*: Reagents that are not fully consumed in the reaction
