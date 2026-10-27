@@ -30,8 +30,14 @@ $$
 ##### Example(s):
 
 ### Limiting Reagent, Theoretical Yield, Percent Yield
-*Limiting Reagent*: The Reagent that runs out first in a chemical reaction, which, therefore limits how much product is made.
-*Excess Reagent*: Reagents that are 
+*Limiting Reagent*: The Reagent that runs out first in a chemical reaction, which, therefore limits how much product is made
+*Excess Reagent*: Reagents that are not fully consumed in the reaction
+*Theoretical Yield*: The maximum amount of product that can be made, based on the amount of limiting reagent
 
+*Actual Yield*: The actual amount of product made in a chemical reaction
+*Percent Yield*: How much product was made relative to how much could have been made:
+$$
+\text{Percent Yield}\;\% =\frac{\text{Actual Yield}}{\text{Theoretical Yield}}\cdot100
+$$
 ##### Example(s):
  
