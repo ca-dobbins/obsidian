@@ -1,34 +1,31 @@
 # Topic: 2.5  
-Date: 2026-09-01
-Suggested HW: 1-38, 41-51
+Date: 2026-09-01 | Suggested HW: 1-38, 41-51
 
 ### Cont.
-*subtitle*
-
 ***Definition***: A function $f(x)$ is continuous at $x=a$ if 
+
 $$
 \lim_{ x \to a } f(x)=f(a)
 $$
+
 If $f$ is continuous at $x=a$, then all of the following are true:
-a) $f(a)$ exists
-b) $\lim_{ x \to a }f(x)$ exists
-c) $\lim_{ x \to a }=f(a)$
+1. $f(a)$ exists
+2. $\lim_{ x \to a }f(x)$ exists
+3. $\lim_{ x \to a }=f(a)$
 
 ***Definition***: If $\lim_{ x \to a }f(x)\neq f(a)$, then $f(a)$ is discontinuous at $a$.
-
 ##### Example(s):
 A.
+
 $$
 g(x)=
 \begin{cases}
 \frac{x^{2}-4}{}
 \end{cases}
 $$
-$$
-
-$$
 
 B.
+
 $$
 Sign(x)=
 \begin{cases}
@@ -37,9 +34,11 @@ Sign(x)=
 -1 & x<0
 \end{cases}
 $$
+
 is a *Jump Discontinuity*
 
 C.
+
 $$
 h(x)=
 \begin{cases}
@@ -47,17 +46,17 @@ h(x)=
 2 & x=0
 \end{cases}
 $$
+
 is a *Infinite/Asymptotic Discontinuity*
 
 D.
+
 $$
 p(x)=\sin\left( \frac{\pi}{x} \right)
 $$
+
 is an *oscillatory Discontinuity*
-
 ### Sided Continuity
-*subtitle*
-
 ***Def***: We say $f(x)$ is continuous from the right at $x=a$ if $\lim_{ x \to a^+ }f(x)=f(a)$. Similarly, $f(x)$ is continuous from the left at $x=a$ if $\lim_{ x \to a^- }f(x)=f(a)$.
 
 ***Def***: We say that $f(x)$ is continuous on an interval if it's continuous at every point in the interval (w/ appropriate sided continuity at the end points).
@@ -76,6 +75,7 @@ All of the following are continuous on their domain:
 7. logarithms
 ##### Example(s):
 A.
+
 $$
 h(x)=
 \begin{cases}
@@ -83,14 +83,13 @@ h(x)=
 -1 & x<0
 \end{cases}
 $$
+
 is continuous from the right since $\lim_{ x \to 0^+ }h(x)=1=h(0)$, but discontinuous from the left since $\lim_{ x \to 0^- }h(x)=-1\neq h(0)$.
 
 B. 
+
 $$
 \lim_{ x \to 0 } e^{\sin x^{2}+\pi} \dots\to e^{\sin(\lim_{ x \to 0 } x^{2}+\pi)}=e^0=1
 $$
-
 ### Intermediate Value Theorem (IVT)
-*subtitle*
-
 Suppose $f(x)$ is continuous on a closed interval $[a,b]$. Let $N$ be any vlaue between $f(a)$ and $f(b)$. Then there must be at least one $c$ in $[a,b]$ such that $f(c)=N$.

@@ -62,15 +62,19 @@ $$
 ***Defs***: If $f(x)$ grows w/o bound as $x$ grows large, we say $\lim_{ x \to \infty } f(x)=\infty$. Similarly large and negative.
 ##### Example(s):
 A.
+
 $$
 f(x)=x^{2}
 $$
+
 no asymptotes
 
 B.
+
 $$
 g(x)=\frac{1}{x}
 $$
+
 $y=0$ is a vertical asymptote
 
 C.
