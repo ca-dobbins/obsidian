@@ -57,7 +57,7 @@ So there are $\ce{2.1*10^23}$ molecules of $\ce{CO2}$ produced from the combusti
 *Percent Yield*: How much product was made relative to how much could have been made:
 
 $$
-\text{Percent Yield}\;\% =\frac{\text{Actual Yield}}{\text{Theoretical Yield}}\cdot100
+\text{Percent Yield} =\frac{\text{Actual Yield}}{\text{Theoretical Yield}}\cdot100
 $$
 ##### Example(s):
 If we have $\ce{10.0g}$ of $\ce{CO (28.01 g/mol)}$ and $\ce{10.0g}$ of $\ce{O2 (32 g/mol)}$, which reactant is the limiting reactant? How many grams of $\ce{CO2}$ are produced? What is the excess reagent?
