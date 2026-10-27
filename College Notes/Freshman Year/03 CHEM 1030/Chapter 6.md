@@ -26,14 +26,3 @@ predicts better than lewis in:
 but it doesnt predict mag behavior, and doesnt act for delocalizaation
 
 ##### Example(s):
-
-### Molecular Orbital Theory
-*subtitle*
-
-
-##### Example(s):
-
-### Main Idea 3
-*subtitle*
-
-##### Example(s):
