@@ -24,6 +24,14 @@ M_{1}V_{1}=M_{2}V_{2}
 $$
 
 ##### Example(s):
+If $\ce{10.0 g NaCl}$ are added to $\ce{2.0L}$ of water, what is the molarity of the solution? $\ce{NaCl molar mass: 58.44 \frac{g}{mol}}$ 
+
+$$
+\begin{array}{c}
+\ce{10.0 g NaCl \cdot \frac{1 mol NaCl}{58.44 g NaCl} = 0.171 mol NaCl} \\
+\ce{M = }
+\end{array}
+$$
 
 ### Main Idea 2
 
