@@ -46,7 +46,15 @@ Materials that dissolve in water to form a solution that will conduct electricit
 
 A solution of salt (ionic) conducts electricity, however a solution of sugar (molecules) does not.
 
-
+They are classified by how they dissolve in water.
+- If it is dissociated into ions:
+	- Strong
+		- Completely dissociate into ions
+		- $\ce{CaCl2(s) -> Ca^{2+}(aq) + 2Cl-(aq)}$ 
+	- Weak
+		- Partial dissociation into ions
+		- $\ce{CHOOH(aq) -> H+(aq) + CHOO-(aq)}$ 
+- Molecular compounds that dissolve in water but do not form ions are called nonelectrolytes.
 
 ##### Example(s):
 
