@@ -41,7 +41,12 @@ $$
 $$
 
 So $V_{2}=1.00L$. 
-### Main Idea 2
+### Electrolytes
+Materials that dissolve in water to form a solution that will conduct electricity are called *electrolytes*. Conversely, dissolved materials that will not conduct electricity are called *nonelectrolytes*.
+
+A solution of salt conducts electricity, however a solution of sugar does not.
+
+
 
 ##### Example(s):
 
