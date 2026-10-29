@@ -79,3 +79,11 @@ Therefore, $\ce{CO}$ is the limiting reagent with the $\ce{O2}$ being the excess
 $$
 \ce{\frac{14.3 g CO2}{15.7 g CO2}*100\% = 91.1\%}
 $$
+### Combustion
+A combustion reaction involves the reaction of a substance with $\ce{O2}$ to form one or more oxygen compounds. Other products of this reaction include: $\ce{H2O,CO2}$, and Heat (energy).
+
+***Combustion of Methane***:
+
+$$
+\ce{CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g) + Heat}
+$$
