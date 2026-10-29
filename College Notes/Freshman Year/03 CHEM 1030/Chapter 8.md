@@ -27,11 +27,20 @@ $$
 If $\ce{10.0 g NaCl}$ are added to $\ce{2.0L}$ of water, what is the molarity of the solution? $\ce{NaCl molar mass: 58.44 \frac{g}{mol}}$ 
 
 $$
-\begin{array}{c}
 \ce{10.0 g NaCl \cdot \frac{1 mol NaCl}{58.44 g NaCl} = 0.171 mol NaCl} \\
-\ce{M = }
-\end{array}
 $$
+
+$$
+\ce{M = \frac{0.171 mol NaCl}{2.0 L} = 0.0856M soln.}
+$$
+
+To what volume should you dilute $\ce{0.200L}$ of a $\ce{15.0M NaOH}$ solution to obtain a $\ce{3.00M NaOH}$ solution?
+
+$$
+(15.0M)(0.200L) = (3.00M)V_{2}
+$$
+
+So $V_{2}=1.00$ 
 
 ### Main Idea 2
 
