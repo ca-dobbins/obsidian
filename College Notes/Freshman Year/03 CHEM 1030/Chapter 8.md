@@ -56,8 +56,12 @@ They are classified by how they dissolve in water.
 		- $\ce{CHOOH(aq) -> H+(aq) + CHOO-(aq)}$ 
 - Molecular compounds that dissolve in water but do not form ions are called nonelectrolytes.
 
+![[Pasted image 20261029102333.png]]
+A = molecule
 
+B = strong electrolyte
 
+C = weak electrolyte
 ##### Example(s):
 
 ### Main Idea 3
