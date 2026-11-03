@@ -57,6 +57,7 @@ They are classified by how they dissolve in water.
 - Molecular compounds that dissolve in water but do not form ions are called nonelectrolytes.
 
 ![[Pasted image 20261029102333.png]]
+
 A = molecule
 
 B = strong electrolyte
@@ -102,7 +103,7 @@ $$
 \begin{array}{}
 \ce{HCl, H2SO4, HNO3} \\
 \ce{CH3CHOOH}
-\end{align}
+\end{array}
 $$
 
 ***Bases***
