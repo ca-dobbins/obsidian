@@ -62,8 +62,14 @@ A = molecule
 B = strong electrolyte
 
 C = weak electrolyte
-##### Example(s):
-
-### Main Idea 3
 
 ##### Example(s):
+
+### Solubility
+![[Pasted image 20261103092205.png]]
+##### Example(s):
+Write an equation for the precipitation reaction that occurs (if any) when you mix solutions of potassium carbonate and nickel(II) chloride.
+
+$$
+\ce{K2CO3(aq) + NiCl2(aq) -> 2KCl(aq) + NiCO3(s)}
+$$
