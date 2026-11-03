@@ -79,7 +79,13 @@ $$
 becomes...
 
 $$
-\ce{2K+(aq) + 2OH-(aq) + Mg^{2+}(aq) + 2NO3-(aq) -> 2K+}(aq) + 2NO3-}
+\ce{2K+(aq) + 2OH-(aq) + Mg^{2+}(aq) + 2NO3-(aq) -> 2K+(aq) + 2NO3-(aq) + Mg(OH)2(s)}
+$$
+
+The net ionic equation (which is just the ions that are involved in the formation of the precipitate) is...
+
+$$
+\ce{2OH-(aq) + Mg^{2+}(aq) -> Mg(OH)2(s)}
 $$
 ##### Example(s):
 Write an equation for the precipitation reaction that occurs (if any) when you mix solutions of potassium carbonate and nickel(II) chloride.
