@@ -65,8 +65,22 @@ C = weak electrolyte
 
 ##### Example(s):
 
-### Solubility
+### Solubility/Precipitate
 ![[Pasted image 20261103092205.png]]
+
+***Writing the Ionic Equation***
+- Aqueous $\ce{(aq)}$ strong electrolytes are written as ions.
+- Insoluble substances, weak electrolytes, and nonelectrolytes are written in molecular form.
+
+$$
+\ce{2KOH(aq) + Mg(NO3)2(aq) -> 2KNO3(aq) + Mg(OH)2(s)}
+$$
+
+becomes...
+
+$$
+\ce{2K+(aq) + 2OH-(aq) + Mg^{2+}(aq) + 2NO3-(aq) -> 2K+}(aq) + 2NO3-}
+$$
 ##### Example(s):
 Write an equation for the precipitation reaction that occurs (if any) when you mix solutions of potassium carbonate and nickel(II) chloride.
 
