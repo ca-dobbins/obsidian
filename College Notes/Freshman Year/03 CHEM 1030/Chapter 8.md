@@ -104,3 +104,8 @@ $$
 \ce{CH3CHOOH}
 \end{align}
 $$
+***Bases***
+
+Substance that produces $\ce{OH-}$ ions in aqueous solution.
+
+![[Pasted image 20261103095348.png]]
