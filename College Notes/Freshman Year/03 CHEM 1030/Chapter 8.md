@@ -99,11 +99,12 @@ $$
 Acids are molecular compounds that form $\ce{H+}$ when dissolved in water. Acids are composed of hydrogen, usually written first, and then one or more nonmetals, written second.
 
 $$
-\begin{align}{}
+\begin{array}{}
 \ce{HCl, H2SO4, HNO3} \\
 \ce{CH3CHOOH}
 \end{align}
 $$
+
 ***Bases***
 
 Substance that produces $\ce{OH-}$ ions in aqueous solution.
