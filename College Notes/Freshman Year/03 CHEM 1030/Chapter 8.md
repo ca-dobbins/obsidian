@@ -112,4 +112,8 @@ Substance that produces $\ce{OH-}$ ions in aqueous solution.
 
 ***Neutralization***
 
-When an acid an base react, the reaction is known as n
+When an acid an base react, the reaction is known as neutralization.
+
+$$
+\ce{HCl(aq) + NaOH -> H2O(l) + NaCl(aq)}
+$$
