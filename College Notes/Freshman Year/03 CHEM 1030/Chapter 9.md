@@ -30,6 +30,12 @@ Thermodynamics is the study of energy that is exchanged between the system and i
 
 ***First Law of Thermodynamics***
 - law of conservation of energy
+	- the total amount of energy in the universe is constant, matter cannot be created nor destroyed, only converted.
+	- $\Delta \text{E}_{universe}=0=\Delta \text{E}_{system}+\Delta \text{E}_{surroundings}$
+
+**Internal Energy** ($E\;\text{or}\;U$): Sum of $KE$ and $PE$ of all the particles that compose the system.
+- Kinetic Energy ($KE$): $KE=\frac{1}{2}mv^{2}$
+- Potential Energy ($PE$): 
 ##### Example(s):
 
 ### Main Idea 3
