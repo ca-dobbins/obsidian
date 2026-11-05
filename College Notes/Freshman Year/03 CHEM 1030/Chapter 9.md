@@ -27,6 +27,9 @@ Therefore, $\text{System + Surroundings = Universe}$.
 Thermodynamics is the study of energy that is exchanged between the system and its surroundings.
 - **Exothermic** is when energy flows from the system to its surroundings (energy of the system decreases, energy of the surroundings increases).
 - **Endothermic** is when energy flows into the system from the surroundings (energy of the system increases, energy of the surroundings decreases).
+
+***First Law of Thermodynamics***
+- law of conservation of energy
 ##### Example(s):
 
 ### Main Idea 3
