@@ -112,6 +112,8 @@ Substance that produces $\ce{OH-}$ ions in aqueous solution.
 
 ![[Pasted image 20261103095348.png]]
 
+![[Pasted image 20261105122258.png]]
+
 ***Neutralization***
 
 When an acid an base react, the reaction is known as neutralization.

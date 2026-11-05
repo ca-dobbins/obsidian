@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Notes/Freshman Year/04 MATH 1610/5.2.md",
+                "file": "College Notes/Freshman Year/03 CHEM 1030/Chapter 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2"
+              "title": "Chapter 8"
             }
           }
         ]
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 565.3189468383789
+    "width": 588.1042251586914
   },
   "right": {
     "id": "ce195341d07fcf02",
@@ -199,10 +199,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f726faf02e116d6e",
+  "active": "ad5b84696210b0ca",
   "lastOpenFiles": [
-    "College Notes/Freshman Year/04 MATH 1610/5.1.md",
+    "_resources/Pasted image 20261105122258.png",
     "College Notes/Freshman Year/04 MATH 1610/5.2.md",
+    "College Notes/Freshman Year/04 MATH 1610/5.1.md",
     "College Notes/Freshman Year/03 CHEM 1030/Chapter 9.md",
     "College Notes/Freshman Year/03 CHEM 1030/Chapter 8.md",
     "_resources/Pasted image 20261105095333.png",
@@ -230,7 +231,6 @@
     "College Notes/Freshman Year/04 MATH 1610/2.5.md",
     "College Notes/Freshman Year/04 MATH 1610/2.3.md",
     "College Notes/Freshman Year/04 MATH 1610/2.2.md",
-    "College Notes/Freshman Year/04 MATH 1610/Math LaTeX Test.md",
     "_resources/Pasted image 20261013095107.png",
     "_resources/Pasted image 20261006102935.png",
     "_resources/Pasted image 20261006102839.png",
