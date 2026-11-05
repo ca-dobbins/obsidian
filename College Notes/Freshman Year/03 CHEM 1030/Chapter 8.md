@@ -120,4 +120,14 @@ $$
 \ce{HCl(aq) + NaOH -> H2O(l) + NaCl(aq)}
 $$
 #### Redox Reactions
-Oxidation-Reduction reactions (also kn)
+Oxidation-Reduction reactions (also known as redox) are reactions in which electrons are transferred from one reactant to another.
+- Many redox reactions involve the reaction of a substance with oxygen.
+
+$$
+\begin{array}{l}
+\ce{4Fe(s) + 3O2(g) -> 2Fe2O3(s) : Rusting} \\
+\ce{2C8H18(l) + 25O2(g) -> 16CO2(g) + 18H2O : Combustion} \\
+\ce{2H2(g) + O2(g) -> 2H2O(g)}
+\end{array}
+$$
+
