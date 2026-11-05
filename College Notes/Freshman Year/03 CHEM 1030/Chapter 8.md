@@ -141,4 +141,10 @@ To convert a free element into an ion, the atoms must gain/lose electrons.
 
 Oxidation and reduction mut occur simultaneously. If an atom loses electrons, another atom must take them. Therefore:
 - the reactant that reduces an element in another reactant is called the reducing agent (contains the element that is oxidized)
-- the reactant that oxidizes an element in another reactant is called the oxidizing agent ()
+- the reactant that oxidizes an element in another reactant is called the oxidizing agent (contains the element that is reduced)
+
+$$
+\ce{2Na^0(s) + 2Cl2^0(g) -> 2Na^{+1}Cl^{-1}(s)}
+$$
+
+Therefore, $\ce{Na}$ lost $\ce{e^-}$, so it is oxidized and the reducing agent. $\ce{Cl2}$ gained $\ce{e^-}$, so it is reduced and the oxidizing agent.
