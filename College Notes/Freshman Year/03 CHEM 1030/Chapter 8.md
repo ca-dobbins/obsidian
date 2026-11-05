@@ -135,7 +135,7 @@ $$
 
 To convert a free element into an ion, the atoms must gain/lose electrons.
 - atoms that lose electrons are being oxidized
-- atoms that lose electrons are being reduced
+- atoms that gain electrons are being reduced
 
 ![[Pasted image 20261105095333.png]]
 
