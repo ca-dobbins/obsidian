@@ -119,3 +119,5 @@ When an acid an base react, the reaction is known as neutralization.
 $$
 \ce{HCl(aq) + NaOH -> H2O(l) + NaCl(aq)}
 $$
+#### Redox Reactions
+Oxidation-Reduction reactions (also kn)
