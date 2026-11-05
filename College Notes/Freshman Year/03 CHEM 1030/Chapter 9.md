@@ -19,10 +19,13 @@ A calorie $\text{cal}$ is the amount of energy needed to raise the temperature o
 - $1\text{kcal}$ is the energy needed to raise $1000\text{g}$ of water $1\degree\text{C}$.
 
 The conversion between these two is $1\text{cal}=4.184\text{J}$
-##### Example(s):
+### Thermodynamics
+- **System**: part of the universe that is the focus of study
+- **Surroundings**: everything in the study that is not part of the system
+Therefore, $\text{System + Surroundings = Universe}$.
 
-### Main Idea 2
-
+Thermodynamics is the study of energy that is exchanged between the system and its surroundings.
+- **Exothermic** is when energy flows from the system to its surroundings (energy of the system decreases, energy of the surroundings increases)
 ##### Example(s):
 
 ### Main Idea 3
