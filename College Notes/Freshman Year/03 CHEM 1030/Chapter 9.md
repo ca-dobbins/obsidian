@@ -25,7 +25,8 @@ The conversion between these two is $1\text{cal}=4.184\text{J}$
 Therefore, $\text{System + Surroundings = Universe}$.
 
 Thermodynamics is the study of energy that is exchanged between the system and its surroundings.
-- **Exothermic** is when energy flows from the system to its surroundings (energy of the system decreases, energy of the surroundings increases)
+- **Exothermic** is when energy flows from the system to its surroundings (energy of the system decreases, energy of the surroundings increases).
+- **Endothermic** is when energy flows into the system from the surroundings (energy of the system increases, energy of the surroundings decreases).
 ##### Example(s):
 
 ### Main Idea 3
