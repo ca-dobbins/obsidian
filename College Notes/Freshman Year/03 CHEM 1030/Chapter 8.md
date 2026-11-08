@@ -139,7 +139,7 @@ To convert a free element into an ion, the atoms must gain/lose electrons.
 
 ![[Pasted image 20261105095333.png]]
 
-Oxidation and reduction mut occur simultaneously. If an atom loses electrons, another atom must take them. Therefore:
+Oxidation and reduction must occur simultaneously. If an atom loses electrons, another atom must take them. Therefore:
 - the reactant that reduces an element in another reactant is called the reducing agent (contains the element that is oxidized)
 - the reactant that oxidizes an element in another reactant is called the oxidizing agent (contains the element that is reduced)
 
