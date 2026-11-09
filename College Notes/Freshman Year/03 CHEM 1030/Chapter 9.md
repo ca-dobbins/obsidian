@@ -42,9 +42,10 @@ $$
 $$
 
 If $\Delta E$ is negative, energy was released from the system (Exothermic). If $\Delta E$ is positive, energy was absorbed from the surroundings (Endothermic).
+##### Example(s):
 
-***Heat*** ($q$)
-- the exchange of thermal energy between a system and its surroundings. This occurs when there is a temperature difference ($\Delta T$).
+### Heat
+- Heat ($q$) is the exchange of thermal energy between a system and its surroundings. This occurs when there is a temperature difference ($\Delta T$).
 - heat flows from matter with high temperature to matter with low temperature until both objects reach the same temperature, known as thermal equilibrium.
 
 **heat capacity** ($C$)
@@ -59,8 +60,5 @@ where
 - $m$ is mass in grams
 - $C_{s}$ is specific heat capacity of the material
 - $\Delta T$ is temperature change in $\degree C$
-##### Example(s):
-
-### Main Idea 3
 
 ##### Example(s):
