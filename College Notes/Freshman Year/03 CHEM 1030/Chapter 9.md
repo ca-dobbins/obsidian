@@ -36,6 +36,12 @@ Thermodynamics is the study of energy that is exchanged between the system and i
 **Internal Energy** ($E\;\text{or}\;U$): Sum of $KE$ and $PE$ of all the particles that compose the system.
 - Kinetic Energy ($KE$): $KE=\frac{1}{2}mv^{2}$
 - Potential Energy ($PE$): energy of position
+
+$$
+\Delta E=E_{\text{products(final)}}-E_{\text{reactants(initial)}}
+$$
+
+If $\Delta E$ is negative, energy was released from the system. If $\Delta E$ is 
 ##### Example(s):
 
 ### Main Idea 3
