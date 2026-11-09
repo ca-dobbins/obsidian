@@ -60,5 +60,5 @@ $$
 
 - $C_{s}$, or specific heat capacity, is the amount of heat energy required to raise the temperature of one gram of a substance $1\degree C$.
 	- Units: $J /(g\cdot \degree C)$
-- 
 ##### Example(s):
+How much heat is absorbed by the penny as it warms from the temperature of the snow, which is , to the temperature of your body, $37.0 \degree C$? Assume the penny is pure copper and has a mass of 3.10 $g$.
