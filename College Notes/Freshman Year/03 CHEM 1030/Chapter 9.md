@@ -47,7 +47,18 @@ If $\Delta E$ is negative, energy was released from the system (Exothermic). If 
 - the exchange of thermal energy between a system and its surroundings. This occurs when there is a temperature difference ($\Delta T$).
 - heat flows from matter with high temperature to matter with low temperature until both objects reach the same temperature, known as thermal equilibrium.
 
+**heat capacity** ($C$)
+- directly proportional to its mass and the specific heat of the material
+- unit is $J / \degree C$ or $J / K$
 
+$$
+q=m\cdot C_{s}\cdot\Delta T
+$$
+
+where
+- $m$ is mass in grams
+- $C_{s}$ is specific heat capacity of the material
+- $\Delta T$ is temperature change in $\degree C$
 ##### Example(s):
 
 ### Main Idea 3
