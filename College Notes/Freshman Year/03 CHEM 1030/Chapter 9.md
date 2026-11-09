@@ -56,9 +56,9 @@ $$
 q=m\cdot C_{s}\cdot\Delta T
 $$
 
-where
-- $m$ is mass in grams
-- $C_{s}$ is specific heat capacity of the material
-- $\Delta T$ is temperature change in $\degree C$
+- The larger the heat capacity for an object, the smaller the temperature rise will be for a given amount of heat.
 
+- $C_{s}$, or specific heat capacity, is the amount of heat energy required to raise the temperature of one gram of a substance $1\degree C$.
+	- Units: $J /(g\cdot \degree C)$
+- 
 ##### Example(s):
