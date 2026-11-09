@@ -41,7 +41,13 @@ $$
 \Delta E=E_{\text{products(final)}}-E_{\text{reactants(initial)}}
 $$
 
-If $\Delta E$ is negative, energy was released from the system. If $\Delta E$ is 
+If $\Delta E$ is negative, energy was released from the system (Exothermic). If $\Delta E$ is positive, energy was absorbed from the surroundings (Endothermic).
+
+***Heat*** ($q$)
+- the exchange of thermal energy between a system and its surroundings. This occurs when there is a temperature difference ($\Delta T$).
+- heat flows from matter with high temperature to matter with low temperature until both objects reach the same temperature, known as thermal equilibrium.
+
+
 ##### Example(s):
 
 ### Main Idea 3
