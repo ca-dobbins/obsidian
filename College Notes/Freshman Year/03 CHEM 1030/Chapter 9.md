@@ -50,12 +50,17 @@ $$
 \Delta E=q+w
 $$
 
-This can be determined by experimentally measuring $q$ and $w$, with the easiest method keeping $w=0$. The way to do this is to use what is called a bomb calorimeter. It is used because it is able to maintain a constant volume system. 
+This can be determined by experimentally measuring $q$ and $w$, with the easiest method keeping $w=0$. The way to do this is to use what is called a bomb calorimeter. It is used because it is able to maintain a constant volume system.
+
+$$
+q_{\text{cal}}=C_{\text{cal}}\cdot\Delta T
+$$
+
 ##### Example(s):
 When 1.010 g of sucrose ($\ce{C12H22O11}$ ) undergoes combustion in a bomb calorimeter, the temperature rises from $24.92\degree C$ to $28.33\degree C$. Find $\Delta E_{\text{rxn}}$ for the combustion of sucrose in $kJ / mol$ sucrose. The heat capacity of the bomb calorimeter, determined in a separate experiment, is $4.90kJ /\degree C$. (You can ignore the heat capacity of the small sample of sucrose because it is negligible compared to the heat capacity of the calorimeter.)
 
 $$
-
+4.90
 $$
 ### Heat
 - Heat ($q$) is the exchange of thermal energy between a system and its surroundings. This occurs when there is a temperature difference ($\Delta T$).
