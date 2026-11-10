@@ -60,7 +60,11 @@ $$
 When 1.010 g of sucrose ($\ce{C12H22O11}$ ) undergoes combustion in a bomb calorimeter, the temperature rises from $24.92\degree C$ to $28.33\degree C$. Find $\Delta E_{\text{rxn}}$ for the combustion of sucrose in $kJ / mol$ sucrose. The heat capacity of the bomb calorimeter, determined in a separate experiment, is $4.90kJ /\degree C$. (You can ignore the heat capacity of the small sample of sucrose because it is negligible compared to the heat capacity of the calorimeter.)
 
 $$
-4.90
+(4.90)(28.33-24.92)=16.7kJ
+$$
+
+$$
+
 $$
 ### Heat
 - Heat ($q$) is the exchange of thermal energy between a system and its surroundings. This occurs when there is a temperature difference ($\Delta T$).
@@ -114,3 +118,8 @@ $$
 $$
 
 ##### Example(s):
+
+### Enthalpy (H)
+- $H$ of a system is the sum of the internal energy of the system and the product if pressure and volume
+	- $H=E+PV$
+- the enthalpy change $\Delta H$ of a rxn is the heat evolved in a rxn at constant pressure
