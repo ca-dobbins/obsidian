@@ -97,4 +97,10 @@ $$
 w=-P\Delta V
 $$
 
-When this is solved, we get units of $\text{atm}\cdot L$, to convert we use the 
+When this is solved, we get units of $\text{atm}\cdot L$, to convert we use:
+
+$$
+101.3 J=1\text{atm}\cdot L
+$$
+
+##### Example(s):
