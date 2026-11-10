@@ -50,7 +50,7 @@ $$
 \Delta E=q+w
 $$
 
-This can be determined by experimentally measuring $q$ and $w$, with the easiest method keeping $w=0$
+This can be determined by experimentally measuring $q$ and $w$, with the easiest method keeping $w=0$. The way to do this is to use what is called a bomb calorimeter. It 
 ##### Example(s):
 
 ### Heat
