@@ -42,6 +42,14 @@ $$
 $$
 
 If $\Delta E$ is negative, energy was released from the system (Exothermic). If $\Delta E$ is positive, energy was absorbed from the surroundings (Endothermic).
+
+Energy is exchanged between the system and its surroundings through heat and work.
+
+
+$$
+\Delta E=q+w
+$$
+
 ##### Example(s):
 
 ### Heat
@@ -60,9 +68,19 @@ $$
 
 - $C_{s}$, or specific heat capacity, is the amount of heat energy required to raise the temperature of one gram of a substance $1\degree C$.
 	- Units: $J /(g\cdot \degree C)$
+
+**heat transfer and final temperature**
+- heat flows between two objects until both materials reach the same final temperature.
+- the amount of heat energy lost by the hot material equals the amount of heat gained by the cold material, so:
+
+$$
+-q_{\text{metal}}=+q_{\text{water}}
+$$
+
 ##### Example(s):
 How much heat is absorbed by the penny as it warms from the temperature of the snow, which is $-8.0\degree C$, to the temperature of your body, $37.0 \degree C$? Assume the penny is pure copper and has a mass of $3.10 g$.
 
 $$
 q=3.10\cdot(0.385 J /(g\degree C))\cdot(45\degree C) =53.7J
 $$
+
