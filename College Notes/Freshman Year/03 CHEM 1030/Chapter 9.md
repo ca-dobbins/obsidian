@@ -50,6 +50,7 @@ $$
 \Delta E=q+w
 $$
 
+This can be determined by experimentally measuring $q$ and $w$, with the easiest method keeping $w=0$
 ##### Example(s):
 
 ### Heat
