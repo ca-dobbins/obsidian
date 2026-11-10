@@ -123,3 +123,11 @@ $$
 - $H$ of a system is the sum of the internal energy of the system and the product if pressure and volume
 	- $H=E+PV$
 - the enthalpy change $\Delta H$ of a rxn is the heat evolved in a rxn at constant pressure
+	- $\Delta H=q_{p}$
+	- where $q_{p}$ is constant pressure
+
+| Exothermic                                                                       | Endothermic                                                                      |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| $\Delta H$ is negative                                                           | $\Delta H$ is positive                                                           |
+| Surroundings feel hot                                                            | Surroundings feel cold                                                           |
+| Temperature of the surroundings increases from the energy released by the system | Temperature of the surroundings decreases from the energy absorbed by the system |
