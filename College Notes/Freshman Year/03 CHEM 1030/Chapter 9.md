@@ -77,6 +77,11 @@ $$
 -q_{\text{metal}}=+q_{\text{water}}
 $$
 
+which becomes...
+
+$$
+-(m_{m})(C_{s_{m}})(\Delta T_{m})=(m_{w})(C_{s_{w}})(\Delta T_{w})
+$$
 ##### Example(s):
 How much heat is absorbed by the penny as it warms from the temperature of the snow, which is $-8.0\degree C$, to the temperature of your body, $37.0 \degree C$? Assume the penny is pure copper and has a mass of $3.10 g$.
 
@@ -84,3 +89,12 @@ $$
 q=3.10\cdot(0.385 J /(g\degree C))\cdot(45\degree C) =53.7J
 $$
 
+### Work (PV)
+- PV work is work caused by a volume change against an external pressure
+- when gasses expand, $\Delta V$ is positive, but the system is doing work on the surroundings, so $w_{\text{gas}}$ is negative
+
+$$
+w=-P\Delta V
+$$
+
+When this is solved, we get units of $\text{atm}\cdot L$, to convert we use the 
