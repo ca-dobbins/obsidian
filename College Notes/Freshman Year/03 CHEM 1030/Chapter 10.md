@@ -28,10 +28,21 @@ Date: 2026-11-12 | HW:
 ***Avogadro's Law***
 - relates volume and moles
 - volume and moles are proportional ($V\propto n$)
-	- $V_{1}n_{1}=V_{2}$
-
+	- $V_{1}n_{1}=V_{2}n_{2}$
 #### Ideal Gas Law
-The simple gas relationships 
+The simple gas relationships can be combined into a single law.
+
+$$
+PV=nRT
+$$
+
+Where $R$ is...
+
+$$
+\begin{array}{}
+0.082057 \,\text{L}\cdot \text{atm}\cdot \text{mol}^
+\end{array}
+$$
 ##### Example(s):
 As you breathe, you inhale by increasing your lung volume. A woman has an initial lung volume of 2.75 L, which is filled with air at an atmospheric pressure of 1.02 atm. If she increases her lung volume to 3.25 L without inhaling any additional air, what is the pressure in her lungs?
 
