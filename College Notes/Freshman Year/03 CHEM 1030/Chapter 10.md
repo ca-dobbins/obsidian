@@ -21,7 +21,17 @@ Date: 2026-11-12 | HW:
 	- $P_{1}V_{1}=P_{2}V_{2}$
 
 ***Charles's Law***
-- 
+- relates volume and temperature
+- volume and temperature are proportional ($V\propto T$)
+	- $\frac{V_{1}}{T_{1}}=\frac{V_{2}}{T_{2}}$
+
+***Avogadro's Law***
+- relates volume and moles
+- volume and moles are proportional ($V\propto n$)
+	- $V_{1}n_{1}=V_{2}$
+
+#### Ideal Gas Law
+The simple gas relationships 
 ##### Example(s):
 As you breathe, you inhale by increasing your lung volume. A woman has an initial lung volume of 2.75 L, which is filled with air at an atmospheric pressure of 1.02 atm. If she increases her lung volume to 3.25 L without inhaling any additional air, what is the pressure in her lungs?
 
