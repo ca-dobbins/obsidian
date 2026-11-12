@@ -40,7 +40,7 @@ Where $R$ is...
 
 $$
 \begin{array}{}
-0.082057 \,\text{L}\cdot \text{atm}\cdot \text{mol}^
+0.082057 \,\text{L}\cdot \text{atm}\cdot \text{mol}^{-1}\cdot \text{K}^{-1}
 \end{array}
 $$
 ##### Example(s):
@@ -51,6 +51,13 @@ $$
 $$
 
 So $P_{2}=.863\,\text{atm}$.
+
+Calculate the volume occupied by 0.845 mol of nitrogen gas at a pressure of 1.37 atm and a temperature of 315 K.
+
+$$
+(1.37\,\text{atm})V=(.845\,\text{mol})(315\,\text{K})R
+$$
+
 ### Main Idea 3
 
 ##### Example(s):
