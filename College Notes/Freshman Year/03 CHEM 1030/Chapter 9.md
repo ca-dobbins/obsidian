@@ -131,3 +131,10 @@ $$
 | $\Delta H$ is negative                                                           | $\Delta H$ is positive                                                           |
 | Surroundings feel hot                                                            | Surroundings feel cold                                                           |
 | Temperature of the surroundings increases from the energy released by the system | Temperature of the surroundings decreases from the energy absorbed by the system |
+The enthalpy change in a chemical rxn is an extensive property, the more reactants that are used = larger enthalpy change. This is written as:
+
+$$
+\ce{C3H8(g) + 5O2(g) -> 3CO2(g) + 4H2O(g) \Delta H=-2044 kJ}
+$$
+
+So that $\ce{1 mol C3H8(g)=-2044 kJ}$ or $\ce{5 mol O2=-2044 kJ}$. 
