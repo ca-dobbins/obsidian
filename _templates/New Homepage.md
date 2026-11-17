@@ -7,12 +7,4 @@
 
 #### Exam Schedule
 - 
----
-## Jump to Important Notes
-
----
-
-## Important Deadlines
-
-- 
 
