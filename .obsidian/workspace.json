@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Notes/Freshman Year/Freshman Year Navigation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Freshman Year Navigation"
+              "title": "README"
             }
           }
         ]
@@ -201,10 +201,10 @@
   },
   "active": "f726faf02e116d6e",
   "lastOpenFiles": [
-    "College Notes/Freshman Year/Quick Notes.md",
-    "College Notes/Freshman Year/Freshman Year Navigation.md",
-    "README.md",
     "College Notes/Untitled.md",
+    "College Notes/Freshman Year/Freshman Year Navigation.md",
+    "College Notes/Freshman Year/Quick Notes.md",
+    "README.md",
     "College Notes/Freshman Year/04 MATH 1610/MATH 1610 Homepage.md",
     "College Notes/Freshman Year/04 MATH 1610/Tests.md",
     "_templates/New Homepage.md",

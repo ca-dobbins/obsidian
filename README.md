@@ -4,4 +4,4 @@ Howdy there. This is a collection of my personal notes, mostly notes related to 
 # Navigation
 
 ### College Notes
-1. [[]]
+1. [[Freshman Year Navigation]]
