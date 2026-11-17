@@ -1,0 +1,188 @@
+# ENGR 1110: Introduction to Aerospace Engineering — Study Guide
+
+---
+
+## 1. Requirements Development & Trade Studies (Week 6/7)
+
+### Stated vs. Derived Requirements
+* **Stated (Customer) Requirements:** Top-level expectations explicitly provided by stakeholders, customers, or government agencies (Statement of Work). They define high-level mission objectives, performance criteria, safety standards, and regulatory compliance.
+  * *Example:* "The aircraft must have a maximum range of 3,000 nautical miles" or "The rocket must reach Mars orbit."
+* **Derived Requirements:** Detailed, subsystem-specific requirements not explicitly stated by the customer, developed through system engineering, technical analysis, trade studies, and risk assessments to satisfy the stated requirements.
+  * *Example:* "The aircraft must have a fuel efficiency of at least $0.5\text{ nautical miles/lb}$ at cruising altitude" or "The engine must produce $500\text{ kN}$ of thrust."
+
+### Trade Studies
+* **Purpose:** Provides **quantitative** reasoning behind selecting the best material, method, or system for a specific engineering purpose.
+* **5-Step Trade Study Process:**
+  1. **Determine Properties of Interest & Candidates:** Identify relevant evaluation parameters (e.g., Mass, Thrust, $T/W$ ratio, $I_{sp}$, Fuel/Oxidizer, Country of Origin, In-Service status) and candidate options.
+  2. **Property Normalization:** Establish a standardized scoring scale (typically $1$ to $5$). Continuous numerical ranges are divided evenly between highest and lowest values; bimodal traits (e.g., Yes/No, Domestic/Foreign) are assigned endpoint scores ($1$ and $5$).
+  3. **Weighting Values:** Assign importance weights to each parameter based on mission criticality and "deal-busters" (e.g., weighting Thrust = 9 and $I_{sp}$ = 8 higher than Mass = 1).
+  4. **Property Translation:** Convert raw candidate data into normalized scores ($1$–$5$) using the normalization table.
+  5. **Weighted Translation and Summation:** Multiply each normalized score by its parameter's weighting value and sum across each candidate to determine the highest-scoring option.
+
+---
+
+## 2. Additive Manufacturing (Week 8)
+
+### Fundamentals & Workflow
+* **Additive Manufacturing (AM) vs. Subtractive Manufacturing:** AM builds parts layer-by-layer from a 3D model, whereas subtractive manufacturing removes material from a bulk block (billet) via machining.
+* **Digital Workflow ("MRI in Reverse"):**
+  1. **3D CAD Modeling:** Design the 3D solid part (AutoCAD, SolidWorks, Solid Edge) and export as an **`.stl`** or **`.3mf`** file.
+  2. **Slicing (CAM):** Computer-Aided Manufacturing software divides the 3D model into horizontal layers along the **$Z$-axis** and generates a toolpath.
+  3. **G-Code:** A plain-text command file read by the 3D printer containing instructions for coordinates ($X, Y, Z$), extrusion rates, feed speeds, and nozzle/bed temperatures.
+* **7 ASTM Categories of AM:** Binder Jetting, Directed Energy Deposition, Material Extrusion, Material Jetting, Powder Bed Fusion, Sheet Lamination, and Vat Photopolymerization.
+
+### Key AM Technologies
+* **Fused Deposition Modeling (FDM) / Material Extrusion:** Feeds a thermoplastic filament ($1.75\text{ mm}$ most common, or $2.85\text{ mm}$) into a heated nozzle, melting and depositing it layer-by-layer. Common materials: **PLA, PETG, ASA, Nylon blends**.
+* **Stereolithography (SLA):** Oldest 3D printing method (patented by Charles Hull in 1986). Uses a UV laser to cure and harden liquid photopolymer resin in a vat.
+* **Digital Light Processing (DLP):** Created by Larry Hornbeck (Texas Instruments, 1987). Similar to SLA using liquid resin, but cures an entire layer simultaneously using a conventional light source (arc lamp) and Digital Micromirror Devices (DMD) / LCD panel, making it very fast.
+* **Selective Laser Sintering (SLS):** Developed by Carl Deckard and Joe Beaman (UT Austin, 1980s). Uses a laser to sinter powdered material. Requires **no support structures** because surrounding un-sintered powder supports the part.
+* **Selective Laser Melting (SLM):** Developed at Fraunhofer Institute ILT (1995). Uses a high-power laser to **fully melt** metallic powders into homogeneous, fully dense 3D parts.
+* **Electron Beam Melting (EBM):** A powder bed fusion technique for metals that uses a high-energy **electron beam** instead of a laser to fully melt metal powder inside a **vacuum chamber** at high temperatures (up to $1000^\circ\text{C}$).
+* **Laminated Object Manufacturing (LOM):** Developed by Helisys Inc. Layers of adhesive-coated paper, plastic, or metal foil are bonded with a heated roller and cut to shape with a laser or knife; excess material is cross-hatched for easy removal.
+* **Other Materials & Hybrid Systems:** Glass (e.g., RIT molten glass printing), ceramics (paste extrusion), concrete (large-scale construction), Plasma/Laser Spray (Directed Energy Deposition), and Hybrid Additive + Subtractive CNC machines.
+
+### Sintering vs. Melting & Refractory Metals
+| Feature | Sintering | Melting |
+| :--- | :--- | :--- |
+| **Temperature** | Below melting point | Above melting point |
+| **Phase Change** | No (remains solid) | Yes (solid $\rightarrow$ liquid) |
+| **Bonding Mechanism** | Atomic diffusion at particle surfaces | Complete liquefaction and re-solidification |
+| **Structural Control** | Allows porosity control; reduces warping | Forms a fully dense, homogeneous structure |
+| **Energy Requirement** | Lower | Higher |
+
+* **5 Primary Refractory Metals:** **Tungsten ($\text{W}$, $3422^\circ\text{C}$)**, **Rhenium ($\text{Re}$, $3186^\circ\text{C}$)**, **Tantalum ($\text{Ta}$, $3017^\circ\text{C}$)**, **Molybdenum ($\text{Mo}$, $2623^\circ\text{C}$)**, and **Niobium ($\text{Nb}$, $2477^\circ\text{C}$)**. (Others noted: Osmium $3033^\circ\text{C}$, Iridium $2466^\circ\text{C}$, Hafnium $2233^\circ\text{C}$, Zirconium $1855^\circ\text{C}$).
+* **Refractory AM Challenges:** Extreme melting points require very high energy input; rapid cooling induces **thermal cracking, warping, and high residual stresses**; high reactivity creates **oxidation risks** (requiring vacuum or inert gas environments).
+
+---
+
+## 3. Flight Vehicle Anatomy (Week 9)
+
+### Aircraft Anatomy & Degrees of Freedom
+* **Commercial Jet Components (e.g., Boeing 747):**
+  * *Primary Lift & High-Lift Devices:* Wings, leading-edge flaps/slats, trailing-edge main flaps.
+  * *Control Surfaces:* **Ailerons** (outer low-speed and inner high-speed for **Roll**), **Elevators** on the horizontal stabilizer (for **Pitch**), **Rudder** segments on the vertical stabilizer (for **Yaw**), and **Spoilers/Speed Brakes** (disrupt lift and increase drag).
+  * *Propulsion & Storage:* Turbofan engines, main wing fuel tanks, long-range tail fuel tanks, cargo/freight holds, retractable landing gear.
+* **6 Degrees of Freedom (DOF):**
+  * **Translational Axes:** $X$ (Left/Right / Lateral), $Y$ (Forward/Back / Longitudinal), $Z$ (Up/Down / Vertical).
+  * **Rotational Motions:** **Pitch ($U$)** around the lateral ($X$) axis; **Roll ($V$)** around the longitudinal ($Y$) axis; **Yaw ($W$)** around the vertical ($Z$) axis.
+
+### Spacecraft & Launch Vehicle Anatomy
+* **Expendable Multi-Stage Launch Vehicle (e.g., Delta II launching Dawn):**
+  * *First Stage:* Fuel tank, oxidizer tank, centerbody section, interstage, wiring tunnel, and strap-on **Thrust Augmentation Solids** (solid boosters).
+  * *Second Stage:* Engine nozzle, helium and nitrogen pressurization spheres, guidance electronics, miniskirt/support truss, and spin table.
+  * *Upper Stage & Payload:* Third-stage motor, separation clamp band, attach fitting, spacecraft payload, and aerodynamic **payload fairing** (protects payload during atmospheric ascent).
+* **U.S. Space Shuttle:**
+  * *External Tank (ET):* Houses liquid hydrogen ($\text{LH}_2$) and liquid oxygen ($\text{LOX}$) tanks with an antivortex siphon.
+  * *Solid Rocket Boosters (SRBs):* Reusable outer casing, solid propellant grain, factory/field joints, pyrotechnic igniter, recovery parachutes, and separation rockets.
+  * *Orbiter:* Delta wing with **elevons** (control pitch and roll during atmospheric landing), vertical tail with rudder/speed brake, body flap, three Space Shuttle Main Engines (SSMEs), Orbital Maneuvering System (OMS) engines, forward/aft Reaction Control System (RCS) thrusters, cargo bay with remote manipulator system, and star trackers.
+
+---
+
+## 4. Aerodynamic Fundamentals (Week 10/11)
+
+### Aerodynamic & Fluid Forces
+* **Surface Forces:** All aerodynamic forces on a body originate from two surface distributions:
+  1. **Pressure ($P$):** Always acts **normal (perpendicular)** to the surface, opposite the outward unit normal vector ($\overline{F}_p = -\int_{CS} P \overline{n}_s \, dA$). Gage pressure: $P_{\text{gage}} = P_{\text{abs}} - P_{\text{atm}}$.
+  2. **Shear Stress ($\tau$):** Always acts **tangential (parallel)** to the surface, caused by fluid friction (viscosity): $\tau_{\text{wall}} = \mu \left(\frac{\partial u}{\partial y}\right)_{\text{wall}}$.
+  * Integrated over an airfoil, pressure and shear produce **Lift ($L$)** and **Drag ($D$)**.
+* **Body Forces:** Act throughout the volume of the fluid due to external fields (gravity, electric, magnetic): $\overline{F}_b = \int_{CV} \rho \overline{f} \, dV$.
+
+### Fluid & Thermodynamic Properties
+* **Equilibrium & Path Dependence:** Properties are defined only at equilibrium. **Heat and work are NOT properties** because they are path-dependent.
+* **Intensive vs. Extensive:**
+  * *Intensive:* Independent of system size/mass (e.g., Pressure $P$, Temperature $T$, Density $\rho$, Specific Volume $v = 1/\rho$).
+  * *Extensive:* Dependent on system size/mass (e.g., Mass $m$, Volume $\forall$, Total Enthalpy $H$).
+* **Thermodynamic vs. Physical Properties:** Thermodynamic properties ($P, T, v$) do not require an external reference frame; physical properties (velocity, position, potential energy) do.
+* **Temperature & Scales:** Measure of average molecular kinetic energy ($e_k = \frac{1}{2}k_B T$).
+  * $K = {}^\circ\text{C} + 273$
+  * ${}^\circ\text{R} = {}^\circ\text{F} + 460$
+* **Ideal / Perfect Gas Law:** Valid at **low pressure and high temperature** where intermolecular forces are negligible.
+  $$P = \rho R T \quad \text{and} \quad P\forall = n\overline{R}T$$
+  * Universal gas constant: $\overline{R} = 8.3145\text{ J/(mol}\cdot\text{K)}$
+  * Specific gas constant: $R = \frac{\overline{R}}{M}$ (For air: $R = 287\text{ J/(kg}\cdot\text{K)} = 1716\text{ ft}\cdot\text{lb/(slug}\cdot{}^\circ\text{R)}$)
+  * Boltzmann constant: $k_B = \frac{\overline{R}}{N_A} = 1.38 \times 10^{-23}\text{ J/K}$
+* **Compressibility Factor ($Z$):** $Z = \frac{P}{\rho R T} = \frac{P\forall}{n\overline{R}T}$.
+  * $Z = 1$ for an ideal gas.
+  * $Z$ generally **increases with pressure** ($Z > 1$ at high pressure due to intermolecular repulsive forces) and **decreases with temperature** ($Z < 1$ when attractive forces dominate).
+
+### Flow Regimes, Boundary Layers & Bernoulli's Principle
+* **Continuum vs. Free Molecular Flow (Knudsen Number):**
+  $$Kn = \frac{\lambda}{L}$$
+  where $\lambda$ is the molecular mean free path and $L$ is the characteristic body length.
+  * $Kn \ll 1$ ($\lambda \ll L$): **Continuum flow** (valid up to $\sim 100\text{ miles}$ altitude).
+  * $Kn \gtrsim 1$: Continuum assumption breaks down; **free molecular flow** / statistical mechanics required.
+* **Viscous vs. Inviscid & Reynolds Number:**
+  $$Re = \frac{\rho V L}{\mu}$$
+  * Viscosity arises from microscopic **momentum diffusion**. All real flows are viscous, exhibiting mass, momentum, and thermal diffusion.
+  * **Boundary Layer Theory (Prandtl):** At high $Re$, viscous effects are confined to a thin layer near the surface (where velocity transitions from $0$ at the wall to $0.99 u_\infty$). Flow outside the boundary layer is treated as **inviscid**.
+  * Inherently viscous phenomena: **Boundary layer separation, fluid friction, and convective heat transfer**.
+* **Bernoulli's Principle (Incompressible, Inviscid, Non-conducting Flow):**
+  $$P_1 + \frac{1}{2}\rho V_1^2 = P_2 + \frac{1}{2}\rho V_2^2 = \text{constant along a streamline}$$
+  * As fluid velocity increases, static pressure decreases. Used in **Venturi meters** and **manometers** ($h = \frac{P_a - P_o}{\rho g}$).
+* **Flow Visualization:**
+  * *Pathline:* Trajectory of a single fluid particle over time.
+  * *Streakline:* Locus of all fluid particles that have passed through a fixed point (e.g., continuous dye injection).
+  * *Streamline:* Curve tangent to the instantaneous velocity vector ($\frac{dy}{dx} = \frac{v}{u}$). Closer streamlines indicate **higher velocity**.
+  * In **steady flow**, pathlines, streaklines, and streamlines are identical.
+* **Mach Number & Compressibility Regimes:**
+  $$M = \frac{V}{a}, \quad a = \sqrt{\gamma R T}$$
+  * **Incompressible Subsonic:** $M < 0.30$ ($\rho \approx \text{constant}$)
+  * **Compressible Subsonic:** $0.30 \le M < 0.85$
+  * **Transonic:** $0.8 < M < 1.2$
+  * **Supersonic:** $1 < M < 5$
+  * **Hypersonic:** $M > 5$
+
+---
+
+## 5. Rocket Performance (Week 12)
+
+### Fundamental Rocket Equations
+* **General Rocket Thrust Equation:**
+  $$F_T = \dot{m}V_e + (P_e - P_0)A_e = \dot{m}c$$
+  * $\dot{m}$: Propellant mass flow rate ($\text{kg/s}$ or $\text{slug/s}$)
+  * $V_e$ (or $u_e$): Exhaust velocity at the nozzle exit
+  * $P_e$: Nozzle exit static pressure; $P_0$ (or $p_a$): Ambient free-stream pressure; $A_e$: Nozzle exit area
+  * $c$: Effective exhaust velocity ($c = I_{sp} g_0$)
+  * **Ideal Expansion:** Occurs in the atmosphere when $P_e = P_0$ (maximizes thrust by eliminating pressure-area loss/overexpansion).
+* **Tsiolkovsky Rocket Equation ($\Delta V$):**
+  $$\Delta V = c \ln\left(\frac{m_0}{m_f}\right) = I_{sp} g_0 \ln\left(\frac{m_0}{m_f}\right)$$
+  * $m_0$: Initial total mass (wet mass); $m_f$: Final mass after propellant burnout (dry mass).
+* **Impulse Metrics:**
+  * **Total Impulse ($I_{\text{tot}}$):** Average thrust integrated over burn time (area under the thrust-vs.-time curve).
+  * **Specific Impulse ($I_{sp}$):** Thrust per unit propellant weight flow rate, measured in **seconds** ($s$). Represents engine propellant efficiency.
+
+### Isentropic Nozzle Relations
+* Flow is choked at the nozzle throat ($A^*$) at **Mach 1** ($M^* = 1$).
+* **Mass Flow Rate:** $\dot{m} = \frac{A^* p_t}{\sqrt{T_t}} \sqrt{\frac{\gamma}{R}} \left(\frac{\gamma + 1}{2}\right)^{-\frac{\gamma+1}{2(\gamma-1)}}$
+* **Area-Mach Ratio:** $\frac{A_e}{A^*} = \left(\frac{\gamma+1}{2}\right)^{-\frac{\gamma+1}{2(\gamma-1)}} \frac{\left(1 + \frac{\gamma-1}{2}M_e^2\right)^{\frac{\gamma+1}{2(\gamma-1)}}}{M_e}$
+* **Exit Temperature:** $\frac{T_e}{T_t} = \left(1 + \frac{\gamma-1}{2}M_e^2\right)^{-1}$
+* **Exit Pressure:** $\frac{p_e}{p_t} = \left(1 + \frac{\gamma-1}{2}M_e^2\right)^{-\frac{\gamma}{\gamma-1}}$
+* **Exit Velocity:** $V_e = M_e \sqrt{\gamma R T_e}$
+
+### Liquid vs. Solid Rocket Propulsion
+* **Liquid Propellants ($\text{LH}_2/\text{LOX}$):** Very high efficiency (e.g., RS-25 SSME vacuum $I_{sp} = 452\text{ s}$) due to low exhaust molecular weight, but more complex and expensive.
+* **Solid Rocket Motors (SRMs):** Simpler and cheaper to build, but lower $I_{sp}$ due to higher exhaust molecular weight.
+  * **APCP (Ammonium Perchlorate Composite Propellant):** Most common solid propellant; vacuum $I_{sp} \approx 285\text{ s}$. Composed of **Aluminum (fuel)**, **Ammonium Perchlorate (oxidizer)**, and **HTPB (binder)**.
+  * **Grain Geometry & Thrust Profiles:** Cross-sectional bore geometry (e.g., star grain) controls burn surface area over time, tailoring thrust profiles (progressive, neutral, regressive).
+  * **Solid Motor Classes:**
+    1. *Tactical Missiles:* Short burn time, high thrust, small diameter ($2\text{–}4\text{ in}$), very high $g$-loads ($50\text{–}100\text{ g}$).
+    2. *Sounding Rockets / Medium Payloads:* Medium burn time, medium-high thrust, $5\text{–}12\text{ in}$ diameter, moderate $g$-loads ($20\text{–}40\text{ g}$).
+    3. *Boosters (First / "Zero" Stage):* Long burn time, medium-high thrust, large diameter ($12\text{–}30+\text{ in}$), low $g$-loads ($3\text{–}10\text{ g}$) for heavy payloads.
+
+---
+
+## 6. Kessler Syndrome & Space Debris (Week 13)
+
+### Space Debris Classification
+* **Natural Space Debris:** Meteoroids, micrometeorites, interplanetary dust, comets, asteroids (solar and extrasolar).
+* **Artificial (Orbital) Debris:** Nonfunctional spacecraft, spent rocket bodies, mission-related debris (bolts, lens caps, exhaust products), and fragmentation debris (collisional fragments, breakup debris, deterioration products).
+
+### Kessler Syndrome & Orbital Environment
+* **Definition:** Proposed by NASA scientist **Donald Kessler**, Kessler Syndrome is a self-sustaining **collisional cascade** ("shotgun effect") in which orbital debris collisions generate exponential new debris, potentially rendering Low Earth Orbit (LEO) unusable for decades or centuries.
+* **Orbital Decay:** Atmospheric drag causes objects at lower LEO altitudes (e.g., $300\text{–}400\text{ km}$) to decay and re-enter within tens to hundreds of days, whereas debris at higher altitudes ($>800\text{ km}$) persists for decades to centuries.
+* **Major Historical Triggers & Events:**
+  * **2007 Chinese ASAT Test:** Anti-satellite missile test generated $+3,500$ tracked debris fragments.
+  * **2009 Iridium–Cosmos Collision:** Accidental hypervelocity collision between an active Iridium satellite and defunct Cosmos satellite generated $+3,500$ debris fragments.
+  * **2021 Russian ASAT Test:** Destroyed defunct Soviet satellite **COSMOS 1408**, creating $\sim 1,500$ trackable debris pieces.
+* **Mega-Constellations:** Rapidly increasing satellite density in LEO—**Starlink** ($\sim 4,968$ active, $42,000$ planned at $550\text{ km}$), **OneWeb** ($648$ operational at $1,200\text{ km}$), and **Amazon Kuiper** ($3,236$ planned at $590\text{–}630\text{ km}$)—heightens collision risk.
+* **Hypervelocity Impact Damage:** Debris impacts occur at orbital speeds ($\sim 6\text{–}10+\text{ km/s}$). Studies like NASA's **Long Duration Exposure Facility (LDEF)** (left in LEO for $\sim 6$ years and retrieved in Jan 1990) and JSC hypervelocity impact tests demonstrate severe cratering and spallation even from millimeter-sized particles.
