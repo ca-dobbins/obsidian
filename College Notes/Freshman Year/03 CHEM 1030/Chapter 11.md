@@ -7,7 +7,18 @@ Date: 2026-11-19 | HW:
 	- even nonpolar molecules will have temporary charges (instantaneous dipoles)
 - **Larger charge = stronger attraction**
 - **Longer distance = weaker attraction**
-- *Inter*molecular forces are small relative to the bonding forces 
+- *Inter*molecular forces are small relative to the bonding forces (*intra*molecular) between atoms.
+	- smaller charges over longer distances
+
+***Intramolecular Forces***
+- A force that holds together the atoms or ions within a single molecule or compound, these are usually stronger than intermolecular forces.
+
+| Intramolecular Forces | Charactaristics                                                                  | Example                                         |
+| --------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------- |
+| ionic bonds           | between positively and negatively charged ions (most often metals and nonmetals) | $\ce{NaCl}$                                     |
+| metallic bonds        | between metal atoms                                                              | $\ce{Cu}$ (just like an entire block of copper) |
+| covalent bonds        | within molecules (composed of nonmetals and/or semimetals)                       |                                                 |
+
 
 ##### Example(s):
 
