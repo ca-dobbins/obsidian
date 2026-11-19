@@ -59,6 +59,6 @@ $$
 $$
 
 So $V=15.9\,\text{L}$.
-### Main Idea 3
-
+### Condition of Gases
+Because the volume of a gas varies with $P$ and $T$, there are a set of measurements 
 ##### Example(s):
