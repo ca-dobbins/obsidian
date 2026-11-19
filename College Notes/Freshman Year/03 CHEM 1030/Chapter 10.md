@@ -93,5 +93,5 @@ $$
 $$
 
 $$
-n=\frac{PV}{RT}=\frac{(.27\,\text{atm})(1\,\text{L})}{R(298\,\text{K})}=1.125\times10^{-2}\text{ mol Ar}\times \frac{39.95\text{ g}}{1\text{ mol A}}
+n=\frac{PV}{RT}=\frac{(.27\,\text{atm})(1\,\text{L})}{R(298\,\text{K})}=1.125\times10^{-2}\text{ mol Ar}\times \frac{39.95\text{ g}}{1\text{ mol Ar}}=.449\text{ g Ar}
 $$
