@@ -102,4 +102,9 @@ $$
 4. There are *no force of attraction between gas particles* or between the particles and the walls of the container.
 5. *Collisions* between gas particles or collisions with the walls of the container are perfectly *elastic*. *None of the energy* of a gas particle *is lost* when it collides with another particle or with the walls of the container.
 6. The average kinetic energy of a collection of gas particles *depends on the temperature of the gas and nothing else*.
-	1. 
+
+Assuming constant temperature:
+
+$$
+KE_{\text{average}}=\frac{1}{2}m\mu_{\text{rms}}^{2}
+$$
