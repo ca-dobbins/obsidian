@@ -17,13 +17,12 @@ Date: 2026-11-19 | HW:
 | --------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------- |
 | ionic bonds           | between positively and negatively charged ions (most often metals and nonmetals) | $\ce{NaCl}$                                     |
 | metallic bonds        | between metal atoms                                                              | $\ce{Cu}$ (just like an entire block of copper) |
-| covalent bonds        | within molecules (composed of nonmetals and/or semimetals)                       |                                                 |
+| covalent bonds        | within molecules (composed of nonmetals and/or semimetals)                       | $\ce{CH4}$                                      |
 
-
-##### Example(s):
-
-### Main Idea 2
-
+### Intermolecular Forces
+- These are attractive interactions that exist between different molecules (or between a molecule and an ion)
+![[Pasted image 20261119151747.png]]
+- t
 ##### Example(s):
 
 ### Main Idea 3
