@@ -76,5 +76,10 @@ So $V=15.9\,\text{L}$.
 	- In certain applications, the mixture is considered one gas.
 - The pressure of a single gas in a mixture is called its **partial pressure**. This can be calculated in one of the following ways:
 	- A fraction of the mixture it composes and the total pressure are known, or
-	- 
+	- The number of moles of the gas in a container of a given volume and temperature is known.
+- The sum of the partial pressures of all the gases in the mixture equals the total pressure. This is known as **Dalton's Law of Partial Pressures**.
+	- $P_{\text{total}}=P_{a}+P_{b}+P_{c}+\dots$
+
 ##### Example(s):
+A $1.00\,\text{L}$ mixture of helium, neon, and argon has a total pressure of $662\,\text{mmHg}$ at $298\,\text{K}$. If the partial pressure of helium is $341\,\text{mmHg}$ and the partial pressure of neon is $112\,\text{mmHg}$, what mass of argon is present in the mixture?
+- to solve: find the partial pressure of $\ce{Ar}$ first, then use the ideal gas law to determine mass
