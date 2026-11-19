@@ -60,10 +60,21 @@ $$
 
 So $V=15.9\,\text{L}$.
 ### Condition of Gases
-Because the volume of a gas varies with $P$ and $T$, there are a standard set of conditions so that comparison is easy. These are called **standard conditions (STP)**.
-- $\text{Pressure }=1\,\text{atm}$
-- $\text{Temperature}=273\,\text{K}=0\degree\text{C}$
-- $\text{Amount}=1\,\text{mol}$
-- $\text{Volume}= 22.4\,\text{L}$
-	- the volume accepted by one mole of substance is its *molar volume* at STP
+***Standard Conditions***
+- Because the volume of a gas varies with $P$ and $T$, there are a standard set of conditions so that comparison is easy. These are called **standard conditions (STP)**.
+	- $\text{Pressure}=1\,\text{atm}$
+	- $\text{Temperature}=273\,\text{K}=0\degree\text{C}$
+	- $\text{Amount}=1\,\text{mol}$
+	- $\text{Volume}= 22.4\,\text{L}$
+		- the volume accepted by one mole of substance is its *molar volume* at STP
+
+***Density***
+- Density is the ratio of mass to volume, usually for gases given in $\text{g/L}$.
+
+***Mixtures***
+- Many gas samples are not pure but are mixtures of gases.
+	- In certain applications, the mixture is considered one gas.
+- The pressure of a single gas in a mixture is called its **partial pressure**. This can be calculated in one of the following ways:
+	- A fraction of the mixture it composes and the total pressure are known, or
+	- 
 ##### Example(s):
