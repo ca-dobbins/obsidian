@@ -32,6 +32,10 @@ Date: 2026-11-19 | HW:
 - The magnitude of this instantaneous dipole depends on:
 	- polarizability: more electrons = stronger attractions, and
 	- shape: more surface to surface contact = larger induced dipole = stronger attraction
+
+***Dipole-Dipole Forces***
+- Polar molecules have a permanent dipole
+	- bond polarity and molecular geometry determine the substance's polarity (VSEPR)
 ##### Example(s):
 
 ### Main Idea 3
