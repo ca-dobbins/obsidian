@@ -60,5 +60,10 @@ $$
 
 So $V=15.9\,\text{L}$.
 ### Condition of Gases
-Because the volume of a gas varies with $P$ and $T$, there are a set of measurements 
+Because the volume of a gas varies with $P$ and $T$, there are a standard set of conditions so that comparison is easy. These are called **standard conditions (STP)**.
+- $\text{Pressure }=1\,\text{atm}$
+- $\text{Temperature}=273\,\text{K}=0\degree\text{C}$
+- $\text{Amount}=1\,\text{mol}$
+- $\text{Volume}= 22.4\,\text{L}$
+	- the volume accepted by one mole of substance is its *molar volume* at STP
 ##### Example(s):
