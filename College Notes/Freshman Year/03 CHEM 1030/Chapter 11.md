@@ -22,7 +22,15 @@ Date: 2026-11-19 | HW:
 ### Intermolecular Forces
 - These are attractive interactions that exist between different molecules (or between a molecule and an ion)
 ![[Pasted image 20261119151747.png]]
-- t
+- the general trend here is that these forces are strongest at the top and decrease as you go lower in the table
+
+***Dispersion Forces***
+- The attractive forces caused fluctuations in the electron distribution with the atoms and molecules result in a temporary dipole.
+	- regions with excess electron density has $\partial-$ charge
+	- region with depleted electron density has $\partial+$ charge
+- *All* molecules and atoms will have dispersion forces.
+- The magnitude of this instantaneous dipole depends on:
+	- polarizability: more el
 ##### Example(s):
 
 ### Main Idea 3
