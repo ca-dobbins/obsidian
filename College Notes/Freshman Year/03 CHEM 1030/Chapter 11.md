@@ -43,7 +43,11 @@ Date: 2026-11-19 | HW:
 - When a very electronegative atom is bonded to hydrogen, it strongly pulls the bonding electrons toward it.
 	- Example: $\ce{O-H, N-H, or F-H}$.
 - Because hydrogen has no other electrons, when its electrons is pulled away, the nucleus becomes de-shielded (i.e. $\ce{H}$ proton is exposed).
-- 
+- The exposed proton acts as a very strong center of positive charge, attracting all the electron clouds from neighboring molecules.
+
+***Ion-Dipole Attractions***
+- In a mixture, ions from an ionic compound are attracted to the dipole of polar molecules.
+- The strength of the ion-dipole attraction is one of the main factors that determine solubility of ionic compounds in water. 
 ##### Example(s):
 
 ### Main Idea 3
