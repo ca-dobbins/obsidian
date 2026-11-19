@@ -95,3 +95,8 @@ $$
 $$
 n=\frac{PV}{RT}=\frac{(.27\,\text{atm})(1\,\text{L})}{R(298\,\text{K})}=1.125\times10^{-2}\text{ mol Ar}\times \frac{39.95\text{ g}}{1\text{ mol Ar}}=.449\text{ g Ar}
 $$
+### Kinetic Molecular Theory
+1. Gases are composed of a large number of particles that behave like hard, spherical objects in the state of constant, random motion.
+2. The particles move in a straight line until they collide with another particle or the walls of the container.
+3. The particles are much smaller than the distance between particles. Most of the volume of a gas is therefore empty space.
+4. There are no force of attraction between gas particles ir between the particles and the walls of the contaio
