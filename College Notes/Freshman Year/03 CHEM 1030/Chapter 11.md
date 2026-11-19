@@ -36,6 +36,14 @@ Date: 2026-11-19 | HW:
 ***Dipole-Dipole Forces***
 - Polar molecules have a permanent dipole
 	- bond polarity and molecular geometry determine the substance's polarity (VSEPR)
+![[Pasted image 20261119153913.png]]
+
+***Hydrogen Bonding***
+- A strong dipole-dipole that occurs between a $\ce{H}$ atom bonded to $\ce{N, O, or F}$ and another $\ce{N, O, or F}$.
+- When a very electronegative atom is bonded to hydrogen, it strongly pulls the bonding electrons toward it.
+	- Example: $\ce{O-H, N-H, or F-H}$.
+- Because hydrogen has no other electrons, when its electrons is pulled away, the nucleus becomes de-shielded (i.e. $\ce{H}$ proton is exposed).
+- 
 ##### Example(s):
 
 ### Main Idea 3
