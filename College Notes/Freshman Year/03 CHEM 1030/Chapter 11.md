@@ -30,7 +30,8 @@ Date: 2026-11-19 | HW:
 	- region with depleted electron density has $\partial+$ charge
 - *All* molecules and atoms will have dispersion forces.
 - The magnitude of this instantaneous dipole depends on:
-	- polarizability: more el
+	- polarizability: more electrons = stronger attractions, and
+	- shape: more surface to surface contact = larger induced dipole = stronger attraction
 ##### Example(s):
 
 ### Main Idea 3
