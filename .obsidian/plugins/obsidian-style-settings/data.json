@@ -1,4 +1,9 @@
 {
   "primary-theme@@zero-tab-anim": false,
-  "primary-theme@@zero-popup-popdown": false
+  "primary-theme@@zero-popup-popdown": false,
+  "entry-point@@smooth-mode": false,
+  "entry-point@@minimal-mode": false,
+  "entry-point@@color-scheme-selector": "color-scheme-golden-coffee",
+  "entry-point@@separate-color-scheme": false,
+  "entry-point@@floating-sides": false
 }
