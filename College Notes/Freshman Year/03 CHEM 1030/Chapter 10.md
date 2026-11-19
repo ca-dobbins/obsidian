@@ -28,7 +28,7 @@ Date: 2026-11-12 | HW:
 ***Avogadro's Law***
 - relates volume and moles
 - volume and moles are proportional ($V\propto n$)
-	- $V_{1}n_{1}=V_{2}n_{2}$
+	- $\frac{V_{1}}{n_{1}}=\frac{V_{2}}{n_{2}}$
 #### Ideal Gas Law
 The simple gas relationships can be combined into a single law.
 
