@@ -83,3 +83,15 @@ So $V=15.9\,\text{L}$.
 ##### Example(s):
 A $1.00\,\text{L}$ mixture of helium, neon, and argon has a total pressure of $662\,\text{mmHg}$ at $298\,\text{K}$. If the partial pressure of helium is $341\,\text{mmHg}$ and the partial pressure of neon is $112\,\text{mmHg}$, what mass of argon is present in the mixture?
 - to solve: find the partial pressure of $\ce{Ar}$ first, then use the ideal gas law to determine mass
+
+$$
+662\,\text{mmHg}=341\,\text{mmHg}+112\,\text{mmHg}+x\,\text{mmHg}\,|\,x=209\,\text{mmHg}
+$$
+
+$$
+209\,\text{mmHg}\times \frac{1\,\text{atm}}{760\,\text{mmHg}}=.275\,\text{atm}
+$$
+
+$$
+n=\frac{PV}{RT}=\frac{(.27\,\text{atm})(1\,\text{L})}{R(298\,\text{K})}=1.125\times10^{-2}\text{ mol Ar}\times \frac{39.95\text{ g}}{1\text{ mol A}}
+$$
